@@ -1,0 +1,1080 @@
+[
+    {
+        "question": "Taylor stirs 2 grams of salt into a cup of water.  He then tries to get the salt back by evaporating the water.  In this experiment, the mass of salt recovered would be the same as the initial mass because ",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "some of the salt evaporates with the water ",
+                "key": "A"
+            },
+            {
+                "choice": "salt does not evaporate with water",
+                "key": "B"
+            },
+            {
+                "choice": "a chemical change occurred",
+                "key": "C"
+            },
+            {
+                "choice": "salt does not dissolve in water",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Sandy heated 20 grams of liquid hydrogen peroxide until it was completely broken down into liquid water and oxygen gas.  Which of these best describes the total mass of water and oxygen that was produced?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "more than 20 grams since heat was added",
+                "key": "A"
+            },
+            {
+                "choice": "20 grams since no matter was added or removed",
+                "key": "B"
+            },
+            {
+                "choice": "less than 20 grams since oxygen gas is very light",
+                "key": "C"
+            },
+            {
+                "choice": "more than 20 grams since there are two new substances",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the most basic unit of matter?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Compound",
+                "key": "A"
+            },
+            {
+                "choice": "Element",
+                "key": "B"
+            },
+            {
+                "choice": "mixture",
+                "key": "C"
+            },
+            {
+                "choice": "molecure",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the measure of the pull of gravity on an object?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Inertia",
+                "key": "A"
+            },
+            {
+                "choice": "Mass",
+                "key": "B"
+            },
+            {
+                "choice": "Pressure",
+                "key": "C"
+            },
+            {
+                "choice": "Weight",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of an individual muscle cell?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "to grow and repair tissues",
+                "key": "A"
+            },
+            {
+                "choice": "to relax and contract tissues",
+                "key": "B"
+            },
+            {
+                "choice": "to support and protect organs",
+                "key": "C"
+            },
+            {
+                "choice": "to transmit and receive impulses",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which natural process results in offspring that are genetically identical to one parent?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Asexual reproduction",
+                "key": "A"
+            },
+            {
+                "choice": "Complete metamorphosis ",
+                "key": "B"
+            },
+            {
+                "choice": "Sexual reproduction",
+                "key": "C"
+            },
+            {
+                "choice": "incomplete metamorphosis",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which determines the state of matter of a substance?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Density",
+                "key": "A"
+            },
+            {
+                "choice": "Temperature",
+                "key": "B"
+            },
+            {
+                "choice": "Volume",
+                "key": "C"
+            },
+            {
+                "choice": "Weight",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A student flips a light switch but the light does not turn on. Based on this information, which inference is NOT valid?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The light switch is broken",
+                "key": "A"
+            },
+            {
+                "choice": "The electrical connection is broken",
+                "key": "B"
+            },
+            {
+                "choice": "The light bulb is burned out",
+                "key": "C"
+            },
+            {
+                "choice": "The electrical wire is made of copper",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is Earth’s inner core made of?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Hot gases",
+                "key": "A"
+            },
+            {
+                "choice": "Dense, solid metals",
+                "key": "B"
+            },
+            {
+                "choice": "Partly-melted rock",
+                "key": "C"
+            },
+            {
+                "choice": "Dense liquid materials",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Why does an apple look red?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Red light waves are reflected by the apple",
+                "key": "A"
+            },
+            {
+                "choice": "Red light waves are absorbed by the apple",
+                "key": "B"
+            },
+            {
+                "choice": "Red light waves are reflected by a student’s eyes",
+                "key": "C"
+            },
+            {
+                "choice": "Red light waves are absorbed by a student’s eyes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A scientist tests the effectiveness of a medicine. The medicine is administered to 2,500 volunteers who discontinue all other treatments. What is wrong with this experimental design?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "The experiment should include fewer volunteers",
+                "key": "A"
+            },
+            {
+                "choice": "The experiment should be administered in random dosages",
+                "key": "B"
+            },
+            {
+                "choice": "The experiment should include a group that does not take the medicine",
+                "key": "C"
+            },
+            {
+                "choice": "The experiment should allow the volunteers to continue other treatments",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT an example of a symbiotic relationship?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "a tick biting a white-tailed deer",
+                "key": "A"
+            },
+            {
+                "choice": "a caterpillar changing into a butterfly",
+                "key": "B"
+            },
+            {
+                "choice": "a remora fish sticking to the shell of a sea turtle",
+                "key": "C"
+            },
+            {
+                "choice": "a clownfish living within the parts of a sea anemone",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A reflector helps people in cars see a bicycle when it is dark. How do bicycle reflectors work?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "They bounce light back from other sources",
+                "key": "A"
+            },
+            {
+                "choice": "They are covered with paint that glows in the dark",
+                "key": "B"
+            },
+            {
+                "choice": "They are made of a special material that gives off its own light",
+                "key": "C"
+            },
+            {
+                "choice": "They are connected to batteries that allow them to produce their own light",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which list has all terrestrial planets?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Earth, Mars, Jupiter, Saturn",
+                "key": "A"
+            },
+            {
+                "choice": "Mercury, Venus, Earth, Mars",
+                "key": "B"
+            },
+            {
+                "choice": "Mars, Saturn, Jupiter, Neptune",
+                "key": "C"
+            },
+            {
+                "choice": "Jupiter, Saturn, Uranus, Neptune",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the original source of the energy released when fossil fuels are burned?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Decayed bacteria",
+                "key": "A"
+            },
+            {
+                "choice": "Earth’s core",
+                "key": "B"
+            },
+            {
+                "choice": "Nuclear",
+                "key": "C"
+            },
+            {
+                "choice": "Solar",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What did Robert Hooke use to view cells?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Tree Bark",
+                "key": "A"
+            },
+            {
+                "choice": "Cork",
+                "key": "B"
+            },
+            {
+                "choice": "Fuzz",
+                "key": "C"
+            },
+            {
+                "choice": "Pea Plant",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Who created the cell theory?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Robert Hooke",
+                "key": "A"
+            },
+            {
+                "choice": "Antoine Van Leeuwenhoek",
+                "key": "B"
+            },
+            {
+                "choice": "Schleiden",
+                "key": "C"
+            },
+            {
+                "choice": "Alessandro Volta",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which one of these is the fourth step of the scientific method?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Gather Information",
+                "key": "A"
+            },
+            {
+                "choice": "Analyze/Conclusion",
+                "key": "B"
+            },
+            {
+                "choice": "Form Hypothesis",
+                "key": "C"
+            },
+            {
+                "choice": "Test Hypothesis with an Experiment",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The combination of sex chromosomes that produces a male:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "XX",
+                "key": "A"
+            },
+            {
+                "choice": "XY",
+                "key": "B"
+            },
+            {
+                "choice": "XXX",
+                "key": "C"
+            },
+            {
+                "choice": "XO",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A scientist studied a species of fish. She found that when a certain nutrient was added to the diet of the fish just after hatching, the fish gained an average of 3 kilograms in the first year. What additional information is needed to determine whether the nutrient is affecting the growth of the fish",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "how much adult fish gained on average when the same nutrient was added to their diet",
+                "key": "A"
+            },
+            {
+                "choice": "how much newly hatched fish in this species gain in the first year without the nutrient in their diet",
+                "key": "B"
+            },
+            {
+                "choice": "how much of the nutrient is available for the fish species in their natural surroundings",
+                "key": "C"
+            },
+            {
+                "choice": "how much other species of fish gain in the first year when the nutrient is added to their diet",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A scientist discovers that a certain substance will be useful in treating nerve damage. What is the best way she can communicate her results to the scientific community?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "She can call other scientists who also work in nerve research",
+                "key": "A"
+            },
+            {
+                "choice": "She can write a letter to hospitals that treat patients with nerve damage",
+                "key": "B"
+            },
+            {
+                "choice": "She can put her conclusions on a Web site that focuses on the nervous system.",
+                "key": "C"
+            },
+            {
+                "choice": "She can publish her results in a scientific journal that covers issues relating to nerves",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Leslie’s science teacher told her she must take a flexible approach to solving problems. What did Leslie’s teacher most likely mean?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Leslie should not follow the experimental instructions exactly",
+                "key": "A"
+            },
+            {
+                "choice": "Leslie should only write down lab results that seem to be correct",
+                "key": "B"
+            },
+            {
+                "choice": "Leslie should accept all scientific theories even if they have been proven wrong",
+                "key": "C"
+            },
+            {
+                "choice": "Leslie should be willing to consider many possible causes for her observations.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A scientist plans to investigate the nervous system of sea slugs. What should the scientist do first?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Develop a theory about sea slugs that can be tested",
+                "key": "A"
+            },
+            {
+                "choice": "Develop a theory about sea slugs that can be tested",
+                "key": "B"
+            },
+            {
+                "choice": "Obtain several sea slugs and conduct experiments with them",
+                "key": "C"
+            },
+            {
+                "choice": "Review the research other scientists have done on sea slugs",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "The gene only recently evolved in humans",
+                "key": "A"
+            },
+            {
+                "choice": "The technology used to study genes is still being developed",
+                "key": "B"
+            },
+            {
+                "choice": "Scientists were not interested in genes until a few years ago",
+                "key": "C"
+            },
+            {
+                "choice": "Scientists were sure they had already discovered every possible gene",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A scientist studied the number of eggs a species of bird lays each year. He found that the most common number of eggs laid in a year is three. Which statistical measurement did the scientist find?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "the mean number of eggs laid in a year",
+                "key": "A"
+            },
+            {
+                "choice": "the median number of eggs laid in a year",
+                "key": "B"
+            },
+            {
+                "choice": "the mode of the number of eggs laid in a year",
+                "key": "C"
+            },
+            {
+                "choice": "the range of the number of eggs laid in a year",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Joanne’s science teacher cautioned the class to be skeptical when learning about new scientific discoveries. Why is it important to be skeptical about new discoveries in science?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "because many scientific discoveries are not based on facts",
+                "key": "A"
+            },
+            {
+                "choice": "because most scientific discoveries have no scientific value",
+                "key": "B"
+            },
+            {
+                "choice": "because most scientists make errors when formulating scientific discoveries",
+                "key": "C"
+            },
+            {
+                "choice": "because all scientific discoveries must be examined critically before they can be accepted",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Louis Pasteur discovered that the bacteria in a substance can be killed by heating the substance for a short period of time. Which of these practices benefited most from Pasteur’s discovery?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "storing foods for longer periods of time",
+                "key": "A"
+            },
+            {
+                "choice": "building ovens and other heating devices",
+                "key": "B"
+            },
+            {
+                "choice": "creating medicines that cure infections",
+                "key": "C"
+            },
+            {
+                "choice": "transporting living organisms without injuring them",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In which situation would osmosis most likely occur in cells?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "across a permeable membrane that separates solutions of the same concentration",
+                "key": "A"
+            },
+            {
+                "choice": "across a permeable membrane that separates solutions of different concentrations",
+                "key": "B"
+            },
+            {
+                "choice": "across a nonpermeable membrane that separates solutions of the same concentration",
+                "key": "C"
+            },
+            {
+                "choice": "across a nonpermeable membrane that separates solutions of different concentrations",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which statement best describes the process of respiration?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Oxygen and sugar are used in the process that provides energy to cells; water and carbon dioxide are its waste products",
+                "key": "A"
+            },
+            {
+                "choice": "Water and sugar are used to in the process that provides energy to cells; oxygen and carbon dioxide are its waste products",
+                "key": "B"
+            },
+            {
+                "choice": "Oxygen and carbon dioxide are used in the process that provides energy to cells; sugar and water are its waste products",
+                "key": "C"
+            },
+            {
+                "choice": "Carbon dioxide and sugar are used in the process that provides energy to cells; water and oxygen are its waste products",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is a difference between mitosis and meiosis?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Mitosis occurs in all the cells in animals and plants, while meiosis occurs in only in bacteria",
+                "key": "A"
+            },
+            {
+                "choice": "In mitosis, the products are identical to the parent cell, while in meiosis the products are different from the parent cell",
+                "key": "B"
+            },
+            {
+                "choice": "In mitosis, one cell divides into two cells, while in meiosis two cells combine to make one cell",
+                "key": "C"
+            },
+            {
+                "choice": "Mitosis involves separating the chromosomes, while meiosis involves only the cytoplasm of the cell",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In humans, B is the allele for brown eyes and b is the allele for blue eyes. Two brothers both have brown eyes, but one of them has both the B and b alleles while the other only has B alleles. Which statement is true about the brothers?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "They have the same genotype and phenotype ",
+                "key": "A"
+            },
+            {
+                "choice": "They have different phenotypes and genotypes",
+                "key": "B"
+            },
+            {
+                "choice": "They have the same phenotype but different genotypes",
+                "key": "C"
+            },
+            {
+                "choice": "They have the same genotype but different phenotypes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What do scientists mean when they refer to a population?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "all the organisms in an ecosystem",
+                "key": "A"
+            },
+            {
+                "choice": "all the species that share similar anatomical features",
+                "key": "B"
+            },
+            {
+                "choice": "all the animals that acquire resources through similar methods",
+                "key": "C"
+            },
+            {
+                "choice": "all the interbreeding members of a certain species in an ecosystem",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which relationship is mutualistic?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "an insect that lives and feeds on the body of an alligator",
+                "key": "A"
+            },
+            {
+                "choice": "an ant that lives on a plant and defends the plant from other insects",
+                "key": "B"
+            },
+            {
+                "choice": "a bird that migrates to follow the movements of the butterflies that it eats ",
+                "key": "C"
+            },
+            {
+                "choice": "a deer that eats one kind of plant, which allows another kind of plant to grow in its place",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which example describes a behavioral adaptation?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A bird builds its nest in the ash near a volcano",
+                "key": "A"
+            },
+            {
+                "choice": "A whale has the ability to hold its breath for 20 minutes",
+                "key": "B"
+            },
+            {
+                "choice": "A fox’s hair is white in the winter and brown in the summer",
+                "key": "C"
+            },
+            {
+                "choice": "A monkey has long arms that allow it to swing from one branch to another",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A forest is flooded when a natural dam breaks, leaving the forest floor under two meters of water. Which animal is most affected by the flooding?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "a crow ",
+                "key": "A"
+            },
+            {
+                "choice": "a rabbit",
+                "key": "B"
+            },
+            {
+                "choice": "a squirrel",
+                "key": "C"
+            },
+            {
+                "choice": "a butterfly",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which resource is most likely found in large amounts in forest ecosystems? ",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Iron",
+                "key": "A"
+            },
+            {
+                "choice": "Wood",
+                "key": "B"
+            },
+            {
+                "choice": "plastic",
+                "key": "C"
+            },
+            {
+                "choice": "petroleum",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In a large forest with many animals, there are only a small number of bears. Which of these most likely limits the population of bears in the forest? ",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "supply of food",
+                "key": "A"
+            },
+            {
+                "choice": "type of tree ",
+                "key": "B"
+            },
+            {
+                "choice": "predation by carnivores",
+                "key": "C"
+            },
+            {
+                "choice": "amount of suitable shelter",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the main reason humans need nitrogen to survive",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Nitrogen is used in respiration to generate energy ",
+                "key": "A"
+            },
+            {
+                "choice": "Nitrogen is used in making the proteins in the body",
+                "key": "B"
+            },
+            {
+                "choice": "Nitrogen is used to help the body eliminate wastes",
+                "key": "C"
+            },
+            {
+                "choice": "Nitrogen is used by nerve cells to conduct impulses",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which statement best describes the roles of photosynthesis and respiration in the carbon cycle?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Respiration and photosynthesis both add carbon to the atmosphere",
+                "key": "A"
+            },
+            {
+                "choice": "Respiration and photosynthesis both remove carbon from the atmosphere",
+                "key": "B"
+            },
+            {
+                "choice": "Respiration adds carbon to the atmosphere, while photosynthesis removes carbon from the atmosphere",
+                "key": "C"
+            },
+            {
+                "choice": "Photosynthesis adds carbon to the atmosphere, while respiration removes carbon from the atmosphere",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Scientists have observed an increase in global temperatures over the past 100 years. Which phenomena do scientists believe contributes to the increase in temperatures?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "an increase in undersea volcanic activity",
+                "key": "A"
+            },
+            {
+                "choice": "a decrease in the distance between Earth and the Sun",
+                "key": "B"
+            },
+            {
+                "choice": "an increase in certain gases released during the use of fossil fuels",
+                "key": "C"
+            },
+            {
+                "choice": "a decrease in the amount of water on Earth due to overconsumption",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Once a scientific theory has withstood numerous tests and accurately predicted future observations, it may be elevated to the level of ______.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A natural law",
+                "key": "A"
+            },
+            {
+                "choice": "An idea",
+                "key": "B"
+            },
+            {
+                "choice": "a hypothesis",
+                "key": "C"
+            },
+            {
+                "choice": "an example of deductive reasoning",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Absorption is taken in or sucking up liquids or gases, while effervescence is _____.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Absorption is taken in or sucking up liquids or gases, while effervescence is _____.",
+                "key": "A"
+            },
+            {
+                "choice": "Sucking up liquids",
+                "key": "B"
+            },
+            {
+                "choice": "Giving of Bubbles in gas",
+                "key": "C"
+            },
+            {
+                "choice": "Taking in gases",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the first thing that would happen if a plant could NOT obtain carbon dioxide?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "It would not be able to reproduce",
+                "key": "A"
+            },
+            {
+                "choice": "It would not be able to make food",
+                "key": "B"
+            },
+            {
+                "choice": "It would not be able to get rid of waste",
+                "key": "C"
+            },
+            {
+                "choice": "It would not be able to absorb minerals",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Plants absorb light energy and store that energy in the form of ____",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Waters",
+                "key": "A"
+            },
+            {
+                "choice": "Carbon Dioxide",
+                "key": "B"
+            },
+            {
+                "choice": "Sugar",
+                "key": "C"
+            },
+            {
+                "choice": "Oxygen",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Kim wanted to determine if certain seeds require sunlight to germinate. She placed one seed in a moist paper towel in the sunlight and another seed in an equally moistened paper towel in a dark closet. The seed in the sunlight germinated but the one in the closet did not. Kim reported to the class that this type of seed needs sunlight in order to germinate. Given this information, which statement would best describe an improvement in Kim’s experiment that would strengthen her claim?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Use many seeds to conduct the experiment",
+                "key": "A"
+            },
+            {
+                "choice": "Start the samples on different days",
+                "key": "B"
+            },
+            {
+                "choice": "Use different amounts of water",
+                "key": "C"
+            },
+            {
+                "choice": "Place the seeds in new locations",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which process will produce igneous rocks?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "deposition of sediments",
+                "key": "A"
+            },
+            {
+                "choice": "volcanic action",
+                "key": "B"
+            },
+            {
+                "choice": "earthquake activity",
+                "key": "C"
+            },
+            {
+                "choice": "erosion of surface rocks",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which motion describes molecules in a solid at extremely low temperatures?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "bumping together with some room to move",
+                "key": "A"
+            },
+            {
+                "choice": "vibrating while closely packed together",
+                "key": "B"
+            },
+            {
+                "choice": "moving freely and randomly in a space",
+                "key": "C"
+            },
+            {
+                "choice": "sliding around one another and colliding",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Cindy dissected a flowering plant and looked at the stem, roots, leaves, and flower using a microscope. After her observations, Cindy should conclude that all flowering plant structures",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "are not living",
+                "key": "A"
+            },
+            {
+                "choice": "have the same function",
+                "key": "B"
+            },
+            {
+                "choice": "have cells",
+                "key": "C"
+            },
+            {
+                "choice": "are green",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following describes the greatest flaw with the experimental design?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "the test results were recorded",
+                "key": "A"
+            },
+            {
+                "choice": "the volunteer went to sleep",
+                "key": "B"
+            },
+            {
+                "choice": "the study was done overnight",
+                "key": "C"
+            },
+            {
+                "choice": "only one volunteer participated",
+                "key": "D"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "Employees at Shaira's Musicmart get a 20% discount on all purchases. If Theresa buys three tapes at P7.49 each, how much will she have to pay after her employee discount?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P16.98",
+                "key": "A"
+            },
+            {
+                "choice": "P19.98",
+                "key": "B"
+            },
+            {
+                "choice": "P18.98",
+                "key": "C"
+            },
+            {
+                "choice": "P17.98",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "How many ways can a committee of 4 people be selected from a group of 7 people?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "35",
+                "key": "A"
+            },
+            {
+                "choice": "70",
+                "key": "B"
+            },
+            {
+                "choice": "140",
+                "key": "C"
+            },
+            {
+                "choice": "210",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In how many ways can you arrange three mathematics books (Algebra, Geometry, Trigonometry) in order on a shelf?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "6",
+                "key": "A"
+            },
+            {
+                "choice": "8",
+                "key": "B"
+            },
+            {
+                "choice": "12",
+                "key": "C"
+            },
+            {
+                "choice": "24",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The meat sent by air cargo is 1,340 pounds. The weight was computed into kilogram determine the kilogram of the cargo",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "0090 kg",
+                "key": "A"
+            },
+            {
+                "choice": "609.09 kg",
+                "key": "B"
+            },
+            {
+                "choice": "61 kg",
+                "key": "C"
+            },
+            {
+                "choice": "00.908 kg",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "One package is 100 pounds, and the other is 150 pounds. The weight of the second package is how many times that of the first?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "11?2 times heavier",
+                "key": "A"
+            },
+            {
+                "choice": "1?2 as heavy",
+                "key": "B"
+            },
+            {
+                "choice": "10 pounds heavier",
+                "key": "C"
+            },
+            {
+                "choice": "20 pounds heavier",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many gallons of water will fill a fish tank that is 18 inches by 12 inches by 48 inches? (There are 231 cubic inches per gallon). Round your answer to the nearest gallon.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "45 gallons",
+                "key": "A"
+            },
+            {
+                "choice": "40 gallons",
+                "key": "B"
+            },
+            {
+                "choice": "47 gallons",
+                "key": "C"
+            },
+            {
+                "choice": "38 gallons",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What are the next four numbers in this sequence 8, 5, 4, 9,17, ___, ___, ___, ___?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "4,3,2,1",
+                "key": "A"
+            },
+            {
+                "choice": "5,4,3,2",
+                "key": "B"
+            },
+            {
+                "choice": "6,3,2,0",
+                "key": "C"
+            },
+            {
+                "choice": "3,2,1,0",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What day follows the day before yesterday if 2 days from now will be Sunday?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Tuesday",
+                "key": "A"
+            },
+            {
+                "choice": "Saturday",
+                "key": "B"
+            },
+            {
+                "choice": "Wednesday",
+                "key": "C"
+            },
+            {
+                "choice": "Thursday",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How much larger is the supplement of a 57 degree angle than the complement of a 75 degree angle?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "108 degrees",
+                "key": "A"
+            },
+            {
+                "choice": "18 degrees",
+                "key": "B"
+            },
+            {
+                "choice": "105 degrees",
+                "key": "C"
+            },
+            {
+                "choice": "123 degrees",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The hypotenuse of a right triangle is 25 feet. If one leg is 24 feet, what is the length of the other leg?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "5ft",
+                "key": "A"
+            },
+            {
+                "choice": "2ft",
+                "key": "B"
+            },
+            {
+                "choice": "20ft",
+                "key": "C"
+            },
+            {
+                "choice": "7ft",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the length of the hypotenuse of a right triangle with legs 5 inches and 12 inches?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "17in.",
+                "key": "A"
+            },
+            {
+                "choice": "13in.",
+                "key": "B"
+            },
+            {
+                "choice": "11in.",
+                "key": "C"
+            },
+            {
+                "choice": "20in.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A tenant as awarded a house and lot package worth P180, 000.00. She has to pay package for 20 years at 9% per annum. How much will the house and lot cost after 20 years?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "P604,000",
+                "key": "A"
+            },
+            {
+                "choice": "P504,000",
+                "key": "B"
+            },
+            {
+                "choice": "P704,000",
+                "key": "C"
+            },
+            {
+                "choice": "P500,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the exponential function of Y = f (x)?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "y=2x-1",
+                "key": "A"
+            },
+            {
+                "choice": "y=5x2",
+                "key": "B"
+            },
+            {
+                "choice": "y=x-1",
+                "key": "C"
+            },
+            {
+                "choice": "y=x-5",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Julio son is graduating. He sent his son three packages of 8 1?2 kg, 10 1?4 and 2 1?2 kg. What is the total of the packages sent?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "20 1/4 kg",
+                "key": "A"
+            },
+            {
+                "choice": "21 1/4 kg",
+                "key": "B"
+            },
+            {
+                "choice": "18 1/2 kg",
+                "key": "C"
+            },
+            {
+                "choice": "23 2/2 kg",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The weather report recorded a temperature of 29°C in the morning and 33.5°C at two o'clock in the afternoon. How many degrees higher was the afternoon temperature?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "4.5°C",
+                "key": "A"
+            },
+            {
+                "choice": "5.8°C",
+                "key": "B"
+            },
+            {
+                "choice": "6.3°C",
+                "key": "C"
+            },
+            {
+                "choice": "5.5°C",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Write the ratio in the lowest term two hours to 30 minutes",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "2:15",
+                "key": "A"
+            },
+            {
+                "choice": "2:4",
+                "key": "B"
+            },
+            {
+                "choice": "2:30",
+                "key": "C"
+            },
+            {
+                "choice": "4:1",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Give the value of a if the statement is 4ab = 20 and b = 5:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "3",
+                "key": "A"
+            },
+            {	
+                "choice": "1",
+                "key": "B"
+            },
+            {
+                "choice": "2",
+                "key": "C"
+            },
+            {
+                "choice": "4",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the sum of square root 9 and square root 4.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "3",
+                "key": "A"
+            },
+            {
+                "choice": "5",
+                "key": "B"
+            },
+            {
+                "choice": "2",
+                "key": "C"
+            },
+            {
+                "choice": "4",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the value on N in: 18 2/16 + 26 1?4 = N",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "44 3/8 ",
+                "key": "A"
+            },
+            {
+                "choice": "44 1/2",
+                "key": "B"
+            },
+            {
+                "choice": "44 1/4",
+                "key": "C"
+            },
+            {
+                "choice": "43 4/16",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which expresses the polynomial in the following?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "x-x+9-3x+10x",
+                "key": "A"
+            },
+            {
+                "choice": "2x+4x-3",
+                "key": "B"
+            },
+            {
+                "choice": "xy-x-6",
+                "key": "C"
+            },
+            {
+                "choice": "x-4x+2x-x+2",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How do you determine the total length of the clothing materials if there are 7 2/10 meter and 15 4/5 meter available?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "18 1/2 m",
+                "key": "A"
+            },
+            {
+                "choice": "23 m",
+                "key": "B"
+            },
+            {
+                "choice": "18 m",
+                "key": "C"
+            },
+            {
+                "choice": "18 1/4 m",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Eight men can paint a 3 unit army school building in 3 days. How many more units will 12 men pain of this building?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "1/2",
+                "key": "A"
+            },
+            {
+                "choice": "1 1/2",
+                "key": "B"
+            },
+            {
+                "choice": "2",
+                "key": "C"
+            },
+            {
+                "choice": "1",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Only 682 examinees passed in a Pharmacists Licensure Examination out of 2550 examinees. What is the passing percentage?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "26.5%",
+                "key": "A"
+            },
+            {
+                "choice": "26%",
+                "key": "B"
+            },
+            {
+                "choice": "26.7%",
+                "key": "C"
+            },
+            {
+                "choice": "26.8%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Convert this confiscated 8,000 grams of dangerous drugs into kilograms.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "8 kg",
+                "key": "A"
+            },
+            {
+                "choice": "800 kg",
+                "key": "B"
+            },
+            {
+                "choice": "820 kg",
+                "key": "C"
+            },
+            {
+                "choice": "80 kg",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A rice field is divided into four sections. Each section is 25 meters by 38 meters. Get the perimeter of each section",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "152 m",
+                "key": "A"
+            },
+            {
+                "choice": "126 m",
+                "key": "B"
+            },
+            {
+                "choice": "156 m",
+                "key": "C"
+            },
+            {
+                "choice": "146 m",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Hacienda Rosita was to be decided among 22 tenants. Each tenant will be rewarded 6-hectares each. What was the area of Hacienda Rosita?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "152 hectares ",
+                "key": "A"
+            },
+            {
+                "choice": "132 hectares",
+                "key": "B"
+            },
+            {
+                "choice": "122 hectares",
+                "key": "C"
+            },
+            {
+                "choice": "142 hectares",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The host had only 8 1/4 gallons of ice cream to serve. Upon arrival of the guest she served 3 1/2 gallons. How many gallons are left for the late corners?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "5 1/4 gallons",
+                "key": "A"
+            },
+            {
+                "choice": "4 1/2 gallons",
+                "key": "B"
+            },
+            {
+                "choice": "4 3/4 gallons",
+                "key": "C"
+            },
+            {
+                "choice": "4 1/8 gallons",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the product of (3+20) (4- 30)?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "-598",
+                "key": "A"
+            },
+            {
+                "choice": "598",
+                "key": "B"
+            },
+            {
+                "choice": "59.8",
+                "key": "C"
+            },
+            {
+                "choice": "5.98",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The first prize of P40,000,000 was shared by 16 winners. How much will each claim?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P2,500,000.00",
+                "key": "A"
+            },
+            {
+                "choice": "P2,800,000.00",
+                "key": "B"
+            },
+            {
+                "choice": "P3,000,000.00",
+                "key": "C"
+            },
+            {
+                "choice": "P2,700,000.00",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The harvest of corn is P8.00 per kilograms. The whole harvest total worth is P10,000.00. How many kilograms was the corn harvest?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "1,050 kg ",
+                "key": "A"
+            },
+            {
+                "choice": "1,250 kg",
+                "key": "B"
+            },
+            {
+                "choice": "2,000 kg",
+                "key": "C"
+            },
+            {
+                "choice": "2,250 kg",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Find the profit of Weng's water refilling business with revenue of P56,000,000 and costs of P42,000,000.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P14,000,000 ",
+                "key": "A"
+            },
+            {
+                "choice": "P40,000",
+                "key": "B"
+            },
+            {
+                "choice": "P1,400,000",
+                "key": "C"
+            },
+            {
+                "choice": "P14,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Norma's food stall has costs of P2,900. Her total food sales are P11,600. What percent of her food sales do the food costs represent?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "20%",
+                "key": "A"
+            },
+            {
+                "choice": "25%",
+                "key": "B"
+            },
+            {
+                "choice": "27%",
+                "key": "C"
+            },
+            {
+                "choice": "30%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Marvin needs 250 cookies for a buffet. He will make oatmeal raisin, macaroons, and chocolate chunk cookies. He wants 25% of the cookies to be oatmeal raisin and 15% of the cookies to be macaroons. How many chocolate chunk cookies must Marvin bake?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "150",
+                "key": "A"
+            },
+            {
+                "choice": "125",
+                "key": "B"
+            },
+            {
+                "choice": "140",
+                "key": "C"
+            },
+            {
+                "choice": "100",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If a shirt is marked down 25%, what will the purchase price be?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "P25",
+                "key": "A"
+            },
+            {
+                "choice": "75% of its original price",
+                "key": "B"
+            },
+            {
+                "choice": "50% off",
+                "key": "C"
+            },
+            {
+                "choice": "P75",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A customer places a special order through 480 Furniture Store. The list price in the manufacturer's catalog is P1,600. 480 Furniture receives a 35% trade discount. What is the net price for the furniture order?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P560",
+                "key": "A"
+            },
+            {
+                "choice": "P1,535",
+                "key": "B"
+            },
+            {
+                "choice": "P1,565",
+                "key": "C"
+            },
+            {
+                "choice": "P1,040",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ron's Manufacturing offers discounts on most of its products. What is the trade discount rate on an item with a list price of P16.79 and a net price of ?P2.42?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "22%",
+                "key": "A"
+            },
+            {
+                "choice": "26%",
+                "key": "B"
+            },
+            {
+                "choice": "54%",
+                "key": "C"
+            },
+            {
+                "choice": "74%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What type of financial statement summarizes the information concerning the cash inflows and outflows during a particular period?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Balance sheet",
+                "key": "A"
+            },
+            {
+                "choice": "Statement cash flows",
+                "key": "B"
+            },
+            {
+                "choice": "Income statement",	
+                "key": "C"
+            },
+            {
+                "choice": "Statement of retained earning",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Closing entries are made:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "so that financial statements can be made",
+                "key": "A"
+            },
+            {
+                "choice": "in order to terminate the business as an operating entity",
+                "key": "B"
+            },
+            {
+                "choice": "in order to transfer net income/loss and owner's drawings to the owner's capital account",
+                "key": "C"
+            },
+            {
+                "choice": "so that all assets, liabilities, and owner's capital accounts will have zero balances when the next accounting period starts",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Suppliers who allow business to receive goods and services before paying for them are known as:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Finance companies",
+                "key": "A"
+            },
+            {
+                "choice": "Leasing companies",
+                "key": "B"
+            },
+            {
+                "choice": "Trade companies",
+                "key": "C"
+            },
+            {
+                "choice": "Trade debtors",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of external finance?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Disposal by a business of surplus assets",
+                "key": "A"
+            },
+            {
+                "choice": "Bank loan",
+                "key": "B"
+            },
+            {
+                "choice": "Day to day cash from sales to customers",
+                "key": "C"
+            },
+            {
+                "choice": "Money loaned from trade suppliers through extended credit",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A shareholder sells his shares for more than he paid for them. This is known as:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Capital gain",
+                "key": "A"
+            },
+            {
+                "choice": "Profit on disposal",
+                "key": "B"
+            },
+            {
+                "choice": "God deal",
+                "key": "C"
+            },
+            {
+                "choice": "Capital allowance",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The point at which the level of sales of a business exactly equals its costs is known as the:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Break-even point",
+                "key": "A"
+            },
+            {
+                "choice": "Insolvency point",
+                "key": "B"
+            },
+            {
+                "choice": "Start-up stage",
+                "key": "C"
+            },
+            {
+                "choice": "Profit point",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Working capital is:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Current Assets-Current Liabilities",
+                "key": "A"
+            },
+            {
+                "choice": "Notes Payable",
+                "key": "B"
+            },
+            {
+                "choice": "Current Liabilities",
+                "key": "C"
+            },
+            {
+                "choice": "Accounts Payable",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following does not appear in a Balance Sheet?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Cash",
+                "key": "A"
+            },
+            {
+                "choice": "Equipment",
+                "key": "B"
+            },
+            {
+                "choice": "Accounts Payable",
+                "key": "C"
+            },
+            {
+                "choice": "Depreciation Expense",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Adjusting entries are used to:",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "close the books",
+                "key": "A"
+            },
+            {
+                "choice": "record accruals",
+                "key": "B"
+            },
+            {
+                "choice": "correct errors",
+                "key": "C"
+            },
+            {
+                "choice": "all of the listed answers are correct",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "Net Income or Profit results from:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "revenues exceeding expenses",
+                "key": "A"
+            },
+            {
+                "choice": "assets exceeding liabilities",
+                "key": "B"
+            },
+            {
+                "choice": "expenses exceeding revenues",
+                "key": "C"
+            },
+            {
+                "choice": "liabilities exceeding assets",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Assets are normally recorded at:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "cost",
+                "key": "A"
+            },
+            {
+                "choice": "appraised value",
+                "key": "B"
+            },
+            {
+                "choice": "market value",
+                "key": "C"
+            },
+            {
+                "choice": "management's estimated value",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which financial report measures results for a period of time?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Balance Sheet",
+                "key": "A"
+            },
+            {
+                "choice": "Income Statement",
+                "key": "B"
+            },
+            {
+                "choice": "Trial Balance",
+                "key": "C"
+            },
+            {
+                "choice": "All of the listed answers",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Using the double entry system, every business transaction _________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "affects two or more accounts",
+                "key": "A"
+            },
+            {
+                "choice": "affects only asset accounts",
+                "key": "B"
+            },
+            {
+                "choice": "affects only one account",
+                "key": "C"
+            },
+            {
+                "choice": "affects only income statement",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A debt incurred by buying goods or services from a supplier on credit is called _________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "property",
+                "key": "A"
+            },
+            {
+                "choice": "accounts payable",
+                "key": "B"
+            },
+            {
+                "choice": "an expense",
+                "key": "C"
+            },
+            {
+                "choice": "accounts receivable",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

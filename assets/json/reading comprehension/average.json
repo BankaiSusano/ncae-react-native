@@ -1,0 +1,1262 @@
+[
+    {
+    	"In 1841 a young man addressed an anti-slavery meeting in Massachusetts. He talked about what it was like to be separated from one's family as a child. He talked about being beaten and overworked. He talked about learning how to read and write in secret. He talked about what it was like to be a slave. Perhaps one of the reasons the listeners were so impressed with the speaker was because he had been a slave himself.",
+		"Frederick Douglass was born into slavery in 1818 in Maryland. His last name was Bailey, the name of his mother. First he was separated from his mother, then his grandmother. He eventually was sent to work for a family named Auld. Sophia Auld taught Frederick how to read and write. By the time her husband stopped her, Frederick had learned enough to progress on his own. Later, Frederick worked for a man named Covey, who often beat him. One night Frederick resisted the beating and the two men fought for two hours. This was a dangerous thing for a slave to do, but Covey finally gave up. Frederick was never beaten again.",
+		"In 1836, Frederick and other slaves tried to escape. Someone betrayed them and the attempt failed. Shortly after that, Frederick met Anna Murray, a free black woman, and the two fell in love. In 1838, Frederick planned another escape, and this time he successfully reached New York City. He and Anna were married shortly thereafter. Frederick decided to change his last name to symbolize his new freedom. He took the name Douglass from a character in a book a friend of his was reading at the time.",
+		"Frederick Douglass's presence was a tremendous boost to the anti-slavery movement. Anyone who had doubts about the morality or violence of slavery had only to listen to the articulate former slave describe his former life. After President Lincoln issued the Emancipation Proclamation in 1863, Douglass helped recruit black soldiers to fight for the Union in the Civil War. He died in 1895 after a long, full life.",
+        "question": "When did Frederick Douglass learn to read?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "After he escaped from slavery",
+                "key": "A"
+            },
+            {
+                "choice": "While he lived with the Aulds",
+                "key": "B"
+            },
+            {
+                "choice": "While he lived with his grandmother",
+                "key": "C"
+            },
+            {
+                "choice": "After he married Anna Murray",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "What happened after Sophia stopped teaching Frederick?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "He forgot everything he had learned",
+                "key": "A"
+            },
+            {
+                "choice": "He asked other slaves to teach him",
+                "key": "B"
+            },
+            {
+                "choice": "He continued to learn on his own",
+                "key": "C"
+            },
+            {
+                "choice": "He decided reading was not important",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened first?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Douglass addressed an anti-slavery meeting",
+                "key": "A"
+            },
+            {
+                "choice": "Douglass resisted the beating of a man named Covey",
+                "key": "B"
+            },
+            {
+                "choice": "Douglass took a new name",
+                "key": "C"
+            },
+            {
+                "choice": "Douglass escaped from slavery",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did Frederick meet Ms. Murray?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "After he escaped from slavery",
+                "key": "A"
+            },
+            {
+                "choice": "After he reached New York",
+                "key": "B"
+            },
+            {
+                "choice": "In between his escape attempts",
+                "key": "C"
+            },
+            {
+                "choice": "At an anti-slavery meeting",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened last?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Douglass recruited black soldiers to fight for the Union",
+                "key": "A"
+            },
+            {
+                "choice": "President Lincoln issued the Emancipation Proclamation",
+                "key": "B"
+            },
+            {
+                "choice": "Frederick Douglass married Anna Murray",
+                "key": "C"
+            },
+            {
+                "choice": "Frederick Douglass spoke at an anti-slavery meeting",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"First, be sure to keep the broken ends quiet. Keep the adjacent joints still. Should these joints bend, the muscles will act against the fractured bone and cause motion. Give the victim first aid for shock. Apply a sterile dressing to the fracture if it is compound. Do not try to push back a protruding bone. When you are splinting the fractured area, the end will slip back when the limb is straightened. An ice bag should be used with all fractures, sprains, and dislocations. A simple method of preventing motion of the fragments is to place the limb on pillows. Splints may also be used to keep the limb from moving. Breaks of the ribs or skull bone need no splints as they are held fast by other bones and tissue",
+        "question": "This article will help you to…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Make a splint",
+                "key": "A"
+            },
+            {
+                "choice": "Care for broken bones",
+                "key": "B"
+            },
+            {
+                "choice": "Care for bad burns",
+                "key": "C"
+            },
+            {
+                "choice": "Make a sterile dressing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The first thing to do for a fracture is…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Keep the broken ends quiet",
+                "key": "A"
+            },
+            {
+                "choice": "Use an ice bag",
+                "key": "B"
+            },
+            {
+                "choice": "Clean the area",
+                "key": "C"
+            },
+            {
+                "choice": "Make a splint",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If the fracture is compound…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Keep the broken ends quiet",
+                "key": "A"
+            },
+            {
+                "choice": "Use an ice bag",
+                "key": "B"
+            },
+            {
+                "choice": "Make a splint",
+                "key": "C"
+            },
+            {
+                "choice": "Apply a sterile dressing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A break which needs no splint is one in the…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Arm",
+                "key": "A"
+            },
+            {
+                "choice": "Foot",
+                "key": "B"
+            },
+            {
+                "choice": "Leg",
+                "key": "C"
+            },
+            {
+                "choice": "Ribs",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"As Wendy Grant stepped off the plane in Denver, Colorado, seven children rushed to greet her shouting, "Mother!" Four of them spoke with a Vietnamese accent. In her arms Wendy held the gifts she had brought them-twin infant girls from Vietnam, the newest members of the Grant family. The Grants' six adopted Vietnamese children, and over 1,600 others like them, may well owe their lives to the determination of Wendy, her husband Duane, and a handful of other dedicated women and men.",
+		"Like all wars, the war in Vietnam left thousands of children homeless. Their villages had been burned or blown to rubble. Their parents had been killed or lost amid the swarm of refugees clogging the dusty roads. The lucky children were taken in by orphanages. The rest were left to roam rural paths or city streets by themselves. They avoided starvation only by begging, stealing, or rummaging in garbage piles; they slept in gutters. Many were scarred or crippled by land mines, disease, or malnutrition.",
+		"It was in 1964 that the Grants, who had already adopted three American children, first heard of the plight of the Vietnamese orphans. Immediately they began the complicated task of adopting one-a girl, whom they named Diahan.",
+		"But soon Wendy realized that more must be done. Together with Duane and several other Americans, she founded an organization called Friends for All Children. The group located American homes for the war orphans and helped bring them to the United States. With the money they raised, they set up four orphanages in Vietnam.",
+		"Twice Wendy went to Vietnam herself, despite the constant danger of enemy attack. Once she adopted and brought home a girl, Tia, so crippled by polio that she could not even stand. Today, thanks to American doctors, Tia walks unaided. On Wendy's final trip, with the enemy closing in on the capital city of Saigon, she remained until the last minute, arranging for orphans to be flown to the United States, Canada, and Australia. She narrowly missed a fatal plane crash.",
+		"If you someday meet a Vietnamese person with a last name such as Morris, Johnson, Riley, or Russo, remember Wendy Grant and her friends and their important work.",
+        "question": "Four of the children who met the plane in Denver had…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Curly hair",
+                "key": "A"
+            },
+            {
+                "choice": "Vietnamese accents",
+                "key": "B"
+            },
+            {
+                "choice": "Cassettes",
+                "key": "C"
+            },
+            {
+                "choice": "Many gifts",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Vietnamese children the Grants have adopted number…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "1,600",
+                "key": "A"
+            },
+            {
+                "choice": "Two",
+                "key": "B"
+            },
+            {
+                "choice": "Six",
+                "key": "C"
+            },
+            {
+                "choice": "Seven",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The parents of the Vietnamese children had been lost or…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Imprisoned",
+                "key": "A"
+            },
+            {
+                "choice": "Starved",
+                "key": "B"
+            },
+            {
+                "choice": "Stolen",
+                "key": "C"
+            },
+            {
+                "choice": "Killed",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Left alone, the children…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Roamed streets and paths",
+                "key": "A"
+            },
+            {
+                "choice": "Went to school",
+                "key": "B"
+            },
+            {
+                "choice": "Stayed at home",
+                "key": "C"
+            },
+            {
+                "choice": "Quarreled",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Grants first heard of this plight in…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "1980",
+                "key": "A"
+            },
+            {
+                "choice": "1971",
+                "key": "B"
+            },
+            {
+                "choice": "1965",
+                "key": "C"
+            },
+            {
+                "choice": "1964",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Wendy, Duane, and several others founded…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "A school",
+                "key": "A"
+            },
+            {
+                "choice": "An organization",
+                "key": "B"
+            },
+            {
+                "choice": "A hospital",
+                "key": "C"
+            },
+            {
+                "choice": "A nursery",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Wendy went to Vietnam…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Four times	",
+                "key": "A"
+            },
+            {
+                "choice": "Once",
+                "key": "B"
+            },
+            {
+                "choice": "Twice",
+                "key": "C"
+            },
+            {
+                "choice": "Often",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "One adopted child, Tia, was crippled by…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Malnutrition",
+                "key": "A"
+            },
+            {	
+                "choice": "Fear",
+                "key": "B"
+            },
+            {
+                "choice": "Polio",
+                "key": "C"
+            },
+            {
+                "choice": "Burns",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Wendy remained until the last minute in…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Saigon",
+                "key": "A"
+            },
+            {
+                "choice": "Beijing",
+                "key": "B"
+            },
+            {
+                "choice": "Canada",
+                "key": "C"
+            },
+            {
+                "choice": "Australia",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If you meet Vietnamese people, remember a woman named…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Morris",
+                "key": "A"
+            },
+            {
+                "choice": "Riley",
+                "key": "B"
+            },
+            {
+                "choice": "Russo",
+                "key": "C"
+            },
+            {
+                "choice": "Grant",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The story of how the girl Pocahontas saved John Smith's life is well known to most grade-school children. Pocahontas did even more to establish peaceful relations between New World and Old World people. However, Pocahontas was the daughter of Powhatan, chief of a powerful league of over 30 tribes of Algonquian-speaking Indians (Native Americans) in the area around Jamestown, Virginia, in the early 1600s. The young girl's given name was Matoaka, but she was called Pocahontas, meaning "the playful one." In 1607, Pocahontas' life became even more interesting. At that time, a group of English colonists arrived on her people's land and settled very close to her village. Her father, Powhatan, made no aggressive moves against the settlers at first, but he did feel that they represented a threat to the Indian nation.",
+		"By 1608, it began to appear that the English settlers were not going to leave on their own as others before them had. It was at that time that one settler was captured while hunting. The prisoner, John Smith, was brought to Powhatan. According to one source, Smith's future was about to be decided when Pocahontas cried out for him to be saved. In the Algonquian culture, that kind of request could save a prisoner's life, so Smith was spared. Smith stayed in the village for several weeks after that and became good friends with many of the Algonquians.",
+		"Several braves then returned John Smith to Jamestown and on their return to Powhatan told the chief that the settlers were very ill and starving. Pocahontas overheard this. She did not want these people to die, so she brought food to the settlement on a regular basis during that time. Many said that it was Pocahontas who kept the colony alive.",
+		"Over time, however, tension mounted between the Jamestown settlers and the Algonquians, and eventually Pocahontas was forbidden by Powhatan to visit the English settlement. Around that time, the new governor of Jamestown, Samuel Argall, had Chief Powhatan's daughter taken as a hostage to be traded for English prisoners and some rifles that the Algonquians had taken. Powhatan's reply to the capture was that he would return the prisoners but not the guns. In fact, Powhatan was quite certain that the settlers would never harm Pocahontas.",
+		"Meanwhile, in the Jamestown settlement, Pocahontas was treated very well. She had many friends there already and was allowed to visit from house to house. During her long stay, she took on the religion of the settlers, and she also took the English name Rebecca. It was during this time that she met John Rolfe, a settler who had introduced tobacco growing to the Virginia colony. Rolfe asked permission to marry Rebecca. Permission was granted by the governor of the colony and, 10 days later, by Powhatan. Every Jamestown settler, two of Rebecca's uncles, and two of her brothers attended the wedding. This union was followed by eight years of peace between the Indians and the English and was often referred to as the "Peace of Pocahontas."",
+		"The Rolfes had one son, Thomas. After Rebecca Rolfe's untimely death in her early 20s, John and Thomas Rolfe continued to live and work in Jamestown.",
+        "question": "Which of these happened first?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "John Smith was taken captive",
+                "key": "A"
+            },
+            {
+                "choice": "Pocahontas met John Rolfe",
+                "key": "B"
+            },
+            {
+                "choice": "Pocahontas saved John Smith's life",
+                "key": "C"
+            },
+            {
+                "choice": "Jamestown was settled by the English",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When was Pocahontas taken hostage?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Before she brought food to the settlement",
+                "key": "A"
+            },
+            {
+                "choice": "After she met John Rolfe",
+                "key": "B"
+            },
+            {
+                "choice": "After Powhatan told her she could no longer visit the English settlement",
+                "key": "C"
+            },
+            {
+                "choice": "Before she saved John Smith",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did Pocahontas take the name Rebecca?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "When she was a child",
+                "key": "A"
+            },
+            {
+                "choice": " After the birth of her son, Thomas",
+                "key": "B"
+            },
+            {
+                "choice": "After she married John Rolfe",
+                "key": "C"
+            },
+            {
+                "choice": "While she was a captive at Jamestown",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened after Pocahontas married John Rolfe?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Powhatan would not return the rifles to the English",
+                "key": "A"
+            },
+            {
+                "choice": "There were eight years of peace between the Algonquian Indians and the English",
+                "key": "B"
+            },
+            {
+                "choice": "Pocahontas took on the religion of the settlers",
+                "key": "C"
+            },
+            {
+                "choice": "Pocahontas met a settler who had introduced tobacco growing to the Virginia colony",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these happened last?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Algonquians came to a wedding at Jamestown",
+                "key": "A"
+            },
+            {
+                "choice": "John Rolfe introduced tobacco as a crop",
+                "key": "B"
+            },
+            {
+                "choice": "Rebecca Rolfe died",
+                "key": "C"
+            },
+            {
+                "choice": "The Algonquian Indians and the English enjoyed eight years of peace ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Always read the meter dials from the right to the left. This procedure is much easier, especially if any of the dial hands are near the zero mark. If the meter has two dials, and one is smaller than the other, then it is not imperative to read the smaller dial because it only registers a small amount. Read the dial at the right first. As the dial turns clockwise, always record the figure the pointer has just passed. Read the next dial to the left and record the figure it has just passed. Continue recording the figures on the dials from right to left. When finished, mark off the number of units recorded. Dials on water and gas meters usually indicate the amount each dial records.",
+        "question": "As you read the first dial, record the figures…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "On the smaller dial",
+                "key": "A"
+            },
+            {
+                "choice": "The pointer is approaching",
+                "key": "B"
+            },
+            {
+                "choice": "The pointer has just passed",
+                "key": "C"
+            },
+            {
+                "choice": "At the top",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When you have finished reading the meter, mark off…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "The number of units recorded",
+                "key": "A"
+            },
+            {
+                "choice": "The figures on the small dial",
+                "key": "B"
+            },
+            {
+                "choice": "The total figures",
+                "key": "C"
+            },
+            {
+                "choice": "All the zero marks",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The village of Vestmannaeyjar, in the far northern country of Iceland, is as bright and clean and up-to-date as any American or Canadian suburb. It is located on the island of Heimaey, just off the mainland. One January night in 1973, however, householders were shocked from their sleep. In some backyards, red-hot liquid was spurting from the ground. Flaming "skyrockets" shot up and over the houses. The island's volcano, Helgafell, silent for 7,000 years, was violently erupting!",
+		"Luckily, the island's fishing fleet was in port, and within 24 hours almost everyone was ferried to the mainland. But then the agony of the island began in earnest. As in a nightmare, fountains of burning lava spurted 300 feet high. Black, baseball-size cinders rained down. An evil-smelling, eye-burning, throat-searing cloud of smoke and gas erupted into the air, and a river of lava flowed down the mountain. The constant shriek of escaping steam was punctuated by ear-splitting explosions.",
+		"As time went on, the once pleasant village of Vestmannaeyjar took on a weird aspect. Its street lamps still burning against the long Arctic night, the town lay under a thick blanket of cinders. All that could be seen above the 10-foot black drifts were the tips of street signs. Some houses had collapsed under the weight of cinders, while others had burst into flames as the heat ignited their oil storage tanks. Lighting the whole lurid scene, fire continued to shoot from the mouth of the looming volcano.",
+		"The eruption continued for six months. Scientists and reporters arrived from around the world to observe the awesome natural event. But the town did not die that easily. In July, when the eruption ceased, the people of Heimaey Island returned to assess the chances of rebuilding their homes and lives. They found tons of ash covering the ground. The Icelanders are a tough people, however, accustomed to the strange and violent nature of their Arctic land. They dug out their homes. They even used the cinders to build new roads and airport runways. Now the new homes of Heimaey are warmed from water pipes heated by molten lava.",
+        "question": "The village is located on the island of…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Vestmannaeyjar",
+                "key": "A"
+            },
+            {
+                "choice": "Hebrides",
+                "key": "B"
+            },
+            {
+                "choice": "Heimaey",
+                "key": "C"
+            },
+            {
+                "choice": "Helgafell",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The color of the hot liquid was…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Orange",
+                "key": "A"
+            },
+            {
+                "choice": "Black",
+                "key": "B"
+            },
+            {
+                "choice": "Yellow",
+                "key": "C"
+            },
+            {
+                "choice": "Red",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "This liquid was coming from the…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Mountains",
+                "key": "A"
+            },
+            {
+                "choice": "Ground",
+                "key": "B"
+            },
+            {
+                "choice": "Sea",
+                "key": "C"
+            },
+            {
+                "choice": "Sky",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The island's volcano had been inactive for…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "70 years",
+                "key": "A"
+            },
+            {
+                "choice": "7,000 years",
+                "key": "B"
+            },
+            {
+                "choice": "7,000 months",
+                "key": "C"
+            },
+            {
+                "choice": "700 years",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Black cinders fell that were the size of…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Baseballs",
+                "key": "A"
+            },
+            {
+                "choice": "Pebbles",
+                "key": "B"
+            },
+            {
+                "choice": "Golf balls",
+                "key": "C"
+            },
+            {
+                "choice": "Footballs",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Despite the eruption…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The buses kept running",
+                "key": "A"
+            },
+            {
+                "choice": "The radio stations kept broadcasting",
+                "key": "B"
+            },
+            {
+                "choice": "The police kept working",
+                "key": "C"
+            },
+            {
+                "choice": "The street lamps kept burning",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "This volcanic eruption lasted for six…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Weeks",
+                "key": "A"
+            },
+            {
+                "choice": "Hours",
+                "key": "B"
+            },
+            {
+                "choice": "Months",
+                "key": "C"
+            },
+            {
+                "choice": "Days",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Brad Taylor, the star quarterback, is injured this season.",
+					"The team does not expect to make the playoffs.",
+					"How is the second sentence related to the first sentence?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "It gives an effect",
+                "key": "A"
+            },
+            {
+                "choice": "It gives an example",
+                "key": "B"
+            },
+            {
+                "choice": "It analyzes the first statement",
+                "key": "C"
+            },
+            {
+                "choice": "It contradicts the first statement",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "SCUBA diving is the most exhilarating experience I have ever had. The first time I went, the dark mirror of the water beckoned me to drop from the side of the boat. I jumped feet first and entered a brightly colored world populated with fish, plants, and objects I had never dreamed of.",
+
+					"The passage suggests that the writer feels",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "serene about the SCUBA diving experience",
+                "key": "A"
+            },
+            {
+                "choice": "excited about SCUBA diving",
+                "key": "B"
+            },
+            {
+                "choice": "anxious about SCUBA diving",
+                "key": "C"
+            },
+            {
+                "choice": "bored with SCUBA diving",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sometimes when we don't get enough sleep we become very short-tempered. It is important to set a time to go to bed that is realistic.",
+
+					"How are these two sentences related?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The second sentence explains why a lack of sleep affects us",
+                "key": "A"
+            },
+            {
+                "choice": "The first sentence explains the meaning of the second",
+                "key": "B"
+            },
+            {
+                "choice": "The second sentence contradicts the first",
+                "key": "C"
+            },
+            {
+                "choice": "The second sentence proposes a solution",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Leonardo da Vinci is not only one of the most famous artists in history, but he was also a botanist, a writer, and an inventor. Even though most of his inventions were not actually built in his lifetime, many of today's modern machines can be traced back to some of his original designs. The parachute, the military tank, the bicycle, and even the airplane were foretold in the imaginative drawings that can still be seen in the fragments of da Vinci's notebooks. Over 500 years ago, this man conceived ideas that were far ahead of his time.",
+
+					"The author of this passage is praising da Vinci primarily for his",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "intelligence",
+                "key": "A"
+            },
+            {
+                "choice": "artistic talent",
+                "key": "B"
+            },
+            {
+                "choice": "foresight",	
+                "key": "C"
+            },
+            {
+                "choice": "Fame",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "There are two kinds of jewelry that I do. There is commercial jewelry -- class rings, necklaces, the kinds of things most people wear. I sell these items to meet my expenses for raw materials, supplies, and to make my living. The other, more creative work I do makes me feel that I am developing as a craftsperson.",
+
+					"The author of this passage implies that",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "artists are poor",
+                "key": "A"
+            },
+            {
+                "choice": "commercial and creative work fulfills different needs for the artist",
+                "key": "B"
+            },
+            {
+                "choice": "there is no market for creative work",
+                "key": "C"
+            },
+            {
+                "choice": "rings and necklaces cannot be creative",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Huge beasts such as the dinosaur have never really become extinct. Mothra, a giant caterpillar who later becomes a moth, destroys Tokyo, and stars in the 1962 Japanese film named for him. Mothra is born, dies, and reborn regularly on classic movie channels. In Japan, Mothra is one of the most popular films ever made. Mothra has survived the creation of more current scary creatures such as giant apes, extraterrestrial beings and swamp creatures. More than 30 years after his creation, Mothra still lives.",
+
+					"The main subject of the passage is",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the reasons that fads do not endure. ",
+                "key": "A"
+            },
+            {
+                "choice": "the lasting appeal of Mothra.",
+                "key": "B"
+            },
+            {
+                "choice": "old models for creatures are still used because making new monsters is expensive.",
+                "key": "C"
+            },
+            {
+                "choice": "the difficulty of marketing good horror movies.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Compared with the rest of the country, North Dakota has a thriving economy, making it a place where more people want to live. With temperatures in January ranging from 2 to 17 degrees Fahrenheit, winters in North Dakota are viewed by some prospective residents as inhospitable.",
+
+					"What does the second sentence do?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "It explains what is stated in the first",
+                "key": "A"
+            },
+            {
+                "choice": "It reinforces the first",
+                "key": "B"
+            },
+            {
+                "choice": "It analyzes a statement made in the first",
+                "key": "C"
+            },
+            {
+                "choice": "It contradicts the first",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The name of Florence Nightingale lives in the memory of the",
+    	"world by virtue of the heroic adventure of the Crimea. Had she",
+    	"died - as she nearly did - upon her return to England, her",
+    	"reputation would hardly have been different; her legend would",
+	"5   have come down to us almost as we know it today - that gentle",
+    	"vision of female virtue which first took shape before the adoring",
+    	"eyes of the sick soldiers at Scutari. Yet, as a matter of fact, she",
+    	"lived for more than half a century after the Crimean War; and",
+    	"during the greater part of that long period all the energy and all the",
+	"10  devotion of her extraordinary nature were working at their",
+    	"highest pitch. What she accomplished in those years of unknown",
+    	"labor could, indeed, hardly have been more glorious than her",
+    	"Crimean triumphs; but it was certainly more important. The true",
+    	"history was far stranger even than the myth. In Miss Nightingale's",
+	"15  own eyes the adventure of the Crimea was a mere incident -",
+    	"scarcely more than a useful stepping-stone in her career. It was the",
+    	"fulcrum with which she hoped to move the world; but it was",
+    	"only the fulcrum. For more than a generation she was to sit in",
+    	"secret, working her lever: and her real life began at the very",
+	"20  moment when, in popular imagination, it had ended.",
+    	"She arrived in England in a shattered state of health. The",
+    	"hardships and the ceaseless efforts of the last two years had",
+    	"undermined her nervous system; her heart was affected; she",
+    	"suffered constantly from fainting-fits and terrible attacks of utter",
+	"25  physical prostration. The doctors declared that one thing alone",
+    	"would save her - a complete and prolonged rest. But that was also",
+    	"the one thing with which she would have nothing to do. She had",
+    	"never been in the habit of resting; why should she begin now?",
+    	"Now, when her opportunity had come at last; now, when the iron",
+	"30  was hot, and it was time to strike? No; she had work to do; and,",
+    	"come what might, she would do it. The doctors protested in vain;",
+    	"in vain her family lamented and entreated, in vain her friends",
+    	"pointed out to her the madness of such a course. Madness? Mad -",
+    	"possessed - perhaps she was. A frenzy had seized upon her. As",
+	"35  she lay upon her sofa, gasping, she devoured blue-books, dictated",
+    	"letters, and, in the intervals of her palpitations, cracked jokes. For",
+    	"months at a stretch she never left her bed. But she would not rest.",
+    	"At this rate, the doctors assured her, even if she did not die, she",
+    	"would become an invalid for life. She could not help that; there",
+	"40  was work to be done; and, as for rest, very likely she might rest ...",
+    	"when she had done it.",
+    	"Wherever she went, to London or in the country, in the hills",
+    	"of Derbyshire, or among the rhododendrons at Embley, she was",
+    	"haunted by a ghost. It was the specter of Scutari - the hideous",
+	"45  vision of the organization of a military hospital. She would lay that",
+    	"phantom, or she would perish. The whole system of the",
+    	"Army Medical Department, the education of the Medical Officer,",
+    	"the regulations of hospital procedure ... rest? How could she rest",
+    	"while these things were as they were, while, if the like necessity",
+	"50  were to arise again, the like results would follow? And, even in",
+    	"peace and at home, what was the sanitary condition of the Army?",
+    	"The mortality in the barracks, was, she found, nearly double the",
+    	"mortality in civil life. 'You might as well take 1, 100 men every",
+    	"year out upon Salisbury Plain and shoot them,' she said. After",
+	"55  inspecting the hospitals at Chatham, she smiled grimly. 'Yes, this",
+    	"is one more symptom of the system which, in the Crimea, put to",
+    	"death 16,000 men.' Scutari had given her knowledge; and it had",
+    	"given her power too: her enormous reputation was at her back -",
+    	"an incalculable force. Other work, other duties, might lie before",
+	"60  her; but the most urgent, the most obvious, of all was to look to",
+    	"the health of the Army.",
+        "question": "According to the author, the work done during the last fifty years of Florence Nightingale's life was, when compared with her work in the Crimea, all of the following except",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "less dramatic",
+                "key": "A"
+            },
+            {
+                "choice": "less demanding",
+                "key": "B"
+            },
+            {
+                "choice": "less well-known to the public",
+                "key": "C"
+            },
+            {
+                "choice": "more important",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The 'fulcrum' (line 17) refers to her",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "reputation",
+                "key": "A"
+            },
+            {
+                "choice": "mental energy",
+                "key": "B"
+            },
+            {
+                "choice": "physical energy",
+                "key": "C"
+            },
+            {
+                "choice": "overseas contacts",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Paragraph two paints a picture of a woman who is ",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "an incapacitated invalid",
+                "key": "A"
+            },
+            {
+                "choice": "mentally shattered",
+                "key": "B"
+            },
+            {
+                "choice": "stubborn and querulous",
+                "key": "C"
+            },
+            {
+                "choice": "physically weak but mentally indomitable",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The primary purpose of paragraph 3 is to",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "account for conditions in the army",
+                "key": "A"
+            },
+            {
+                "choice": "show the need for hospital reform",
+                "key": "B"
+            },
+            {
+                "choice": "explain Miss Nightingale's main concerns",
+                "key": "C"
+            },
+            {
+                "choice": "argue that peacetime conditions were worse than wartime conditions",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The series of questions in paragraphs 2 and 3 are",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "the author's attempt to show the thoughts running through Miss Nightingale's mind",
+                "key": "A"
+            },
+            {
+                "choice": "Miss Nightingale questioning her own conscience",
+                "key": "B"
+            },
+            {
+                "choice": "Miss Nightingale's response to an actual questioner",
+                "key": "C"
+            },
+            {
+                "choice": "Responses to the doctors who advised rest",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "The author's attitude to his material is",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "disinterested reporting of biographical details",
+                "key": "A"
+            },
+            {
+                "choice": "over-inflation of a reputation",
+                "key": "B"
+            },
+            {
+                "choice": "debunking a myth",
+                "key": "C"
+            },
+            {
+                "choice": "interpretation as well as narration",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "In her statement (lines 53-54) Miss Nightingale intended to",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "criticize the conditions in hospitals",
+                "key": "A"
+            },
+            {
+                "choice": "highlight the unhealthy conditions under which ordinary soldiers were living",
+                "key": "B"
+            },
+            {
+                "choice": "prove that conditions in the barracks were as bad as those in a military hospital",
+                "key": "C"
+            },
+            {
+                "choice": "ridicule the dangers of army life",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Mr. Harding was not a happy man as he walked down",
+    	"the palace pathway, and stepped out into the close. His",
+    	"position and pleasant house were a second time",
+    	"gone from him; but that he could endure. He had been",
+	"5   schooled and insulted by a man young enough to be",
+    	"his son; but that he could put up with. He could even",
+    	"draw from the very injuries which had been inflicted",
+    	"on him some of that consolation which, we may",
+    	"believe, martyrs always receive from the injustice of",
+	"10  their own sufferings. He had admitted to his daughter",
+    	"that he wanted the comfort of his old home, and yet he",
+    	"could have returned to his lodgings in the High Street,",
+    	"if not with exultation, at least with satisfaction, had",
+    	"that been all. But the venom of the chaplain's",
+	"15  harangue had worked into his blood, and sapped the",
+    	"life of his sweet contentment.",
+    	"'New men are carrying out new measures, and",
+    	"are carting away the useless rubbish of past centuries!'",
+    	"What cruel words these had been- and how often are",
+	"20  they now used with all the heartless cruelty of a",
+    	"Slope! A man is sufficiently condemned if it can only",
+    	"be shown that either in politics or religion he does not",
+    	"belong to some new school established within the last",
+    	"score of years. He may then regard himself as rubbish",
+	"25  and expect to be carted away. A man is nothing now",
+    	"unless he has within him a full appreciation of the",
+    	"new era; an era in which it would seem that neither",
+    	"honesty nor truth is very desirable, but in which",
+    	"success is the only touchstone of merit. We must",
+	"30  laugh at everything that is established. Let the joke be",
+    	"ever so bad, ever so untrue to the real principles of",
+    	"joking; nevertheless we must laugh - or else beware",
+    	"the cart. We must talk, think, and live up to the spirit",
+    	"of the times, or else we are nought. New men and new",
+	"35  measures, long credit and few scruples, great success",
+    	"or wonderful ruin, such are now the tastes of",
+    	"Englishmen who know how to live! Alas, alas! Under",
+    	"such circumstances Mr. Harding could not but feel",
+    	"that he was an Englishman who did not know how to",
+	"40  live. This new doctrine of Mr. Slope and the rubbish",
+    	"cart sadly disturbed his equanimity.",
+    	"'The same thing is going on throughout the",
+    	"whole country!' 'Work is now required from every",
+    	"man who receives wages!' And had he been living all",
+	"45  his life receiving wages, and doing no work? Had he",
+    	"in truth so lived as to be now in his old age justly",
+    	"reckoned as rubbish fit only to be hidden away in",
+    	"some huge dust-hole? The school of men to whom he",
+    	"professes to belong, the Grantlys, the Gwynnes, are",
+	"50  afflicted with no such self-accusations as these which",
+    	"troubled Mr. Harding. They, as a rule, are as satisfied",
+    	"with the wisdom and propriety of their own conduct",
+    	"as can be any Mr. Slope, or any Bishop with his own.",
+    	"But, unfortunately for himself, Mr. Harding had little",
+	"55  of this self-reliance. When he heard himself",
+    	"designated as rubbish by the Slopes of the world, he",
+    	"had no other resource than to make inquiry within his",
+    	"own bosom as to the truth of the designation. Alas,",
+    	"alas! the evidence seemed generally to go against him.,
+     {
+        "question": "The main cause of Mr. Hardings unhappiness as he leaves the Bishops Palace is",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "the loss of his house",
+                "key": "A"
+            },
+            {
+                "choice": "the loss of his position",
+                "key": "B"
+            },
+            {
+                "choice": "the need to live with his daughter",
+                "key": "C"
+            },
+            {
+                "choice": "the thought-provoking words of the chaplain",
+                "key": "D"
+            }
+        ]
+     },   
+    {
+        "question": "It can be inferred that Slope is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "the chaplain",
+                "key": "A"
+            },
+            {
+                "choice": "the Bishop",
+                "key": "B"
+            },
+            {
+                "choice": "a foreigner",
+                "key": "C"
+            },
+            {
+                "choice": "a politician",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The word equanimity (line 41) most nearly means",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "status",
+                "key": "A"
+            },
+            {
+                "choice": "happiness",
+                "key": "B"
+            },
+            {
+                "choice": "justice",
+                "key": "C"
+            },
+            {
+                "choice": "composure",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

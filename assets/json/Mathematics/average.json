@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "A salesman gets a 15% commission for the first P20,000, and 10% for the amount over P20,000 of his total sales. How much does he get for a total sale of P50,600?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "5,060",
+                "key": "A"
+            },
+            {
+                "choice": "6,060",
+                "key": "B"
+            },
+            {
+                "choice": "7,060",
+                "key": "C"
+            },
+            {
+                "choice": "8,060",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "A TV set that originally cost P20,000 is now sold at P18,000. What is the percentage decrease in the price of the TV set?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "10%",
+                "key": "A"
+            },
+            {
+                "choice": "20%",
+                "key": "B"
+            },
+            {
+                "choice": "30%",
+                "key": "C"
+            },
+            {
+                "choice": "40%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "At 70 kph, Robin can reach his home within 50 minutes. At what rate should he drive his car so that he can reach home 15 minutes earlier?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "60 kph",
+                "key": "A"
+            },
+            {
+                "choice": "80 kph",
+                "key": "B"
+            },
+            {
+                "choice": "90 kph",
+                "key": "C"
+            },
+            {
+                "choice": "100 kph",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A typist can finish 4 pages in 6 minutes. How long will it take for him to finish 10 pages?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "20 minutes ",
+                "key": "A"
+            },
+            {
+                "choice": "15 minutes ",
+                "key": "B"
+            },
+            {
+                "choice": "10 minutes ",
+                "key": "C"
+            },
+            {
+                "choice": "8 minutes ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Four people can finish painting a room within 4 hours. If only 2 people are available, how many hours do they have to work to finish the same job?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "4",
+                "key": "A"
+            },
+            {
+                "choice": "6",
+                "key": "B"
+            },
+            {
+                "choice": "8",
+                "key": "C"
+            },
+            {
+                "choice": "10",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "(3?8) (3?18) = __________",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "108",
+                "key": "A"
+            },
+            {
+                "choice": "110",
+                "key": "B"
+            },
+            {
+                "choice": "112",
+                "key": "C"
+            },
+            {
+                "choice": "114",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Jean bought 5 kilos of rice worth P200 and another 4 kilos of rice worth P144. What is the average price of rice per kilo?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P172.00",
+                "key": "A"
+            },
+            {
+                "choice": "P172.11",
+                "key": "B"
+            },
+            {
+                "choice": "P175.00",
+                "key": "C"
+            },
+            {
+                "choice": "P175.11",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "72 is 3/4 of what number?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "76",
+                "key": "A"
+            },
+            {
+                "choice": "84",
+                "key": "B"
+            },
+            {
+                "choice": "86",
+                "key": "C"
+            },
+            {
+                "choice": "96",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "0.0125 expressed in fraction in lowest term is ________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "1/8",
+                "key": "A"
+            },
+            {
+                "choice": "1/4",
+                "key": "B"
+            },
+            {
+                "choice": "1/800",
+                "key": "C"
+            },
+            {
+                "choice": "1/80",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Jack and Jill work as part of the service crew in one of the fastfood chains. If their earnings were in the ration of 7:8 respectively, how much did Jack earned when Jill had earned P6,400?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "P6,200",
+                "key": "A"
+            },
+            {
+                "choice": "P5,600",
+                "key": "B"
+            },
+            {
+                "choice": "P5,800",
+                "key": "C"
+            },
+            {
+                "choice": "P6,800",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a multiple of 8?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "5,148",
+                "key": "A"
+            },
+            {
+                "choice": "53,250",
+                "key": "B"
+            },
+            {
+                "choice": "1,460",
+                "key": "C"
+            },
+            {
+                "choice": "32,400",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The value of the car has depreciated by P20,000. It is now worth P380,000. By how many percent did the value of the car decrease?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "5%",
+                "key": "A"
+            },
+            {
+                "choice": "10%",
+                "key": "B"
+            },
+            {
+                "choice": "20%",
+                "key": "C"
+            },
+            {
+                "choice": "25%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If x is an integer and 90>3x, then x cannot be ________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "29",
+                "key": "A"
+            },
+            {
+                "choice": "26",
+                "key": "B"
+            },
+            {
+                "choice": "27",
+                "key": "C"
+            },
+            {
+                "choice": "30",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Of the following, which is the greatest?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "3/4",
+                "key": "A"
+            },
+            {
+                "choice": "5/7",
+                "key": "B"
+            },
+            {
+                "choice": "6/9",
+                "key": "C"
+            },
+            {
+                "choice": "7/10",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The area of the rectangle is 6x2, with length of 2x. Find the perimeter.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "16x",
+                "key": "A"
+            },
+            {
+                "choice": "10x",
+                "key": "B"
+            },
+            {
+                "choice": "12x2",
+                "key": "C"
+            },
+            {
+                "choice": "18x",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many times will the digit 7 appear between 1 to 100.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "9",
+                "key": "A"
+            },
+            {
+                "choice": "20",
+                "key": "B"
+            },
+            {
+                "choice": "19",
+                "key": "C"
+            },
+            {
+                "choice": "11",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the value of a in the statement: 3ab =15, if b = 5?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "3",
+                "key": "A"
+            },
+            {	
+                "choice": "1",
+                "key": "B"
+            },
+            {
+                "choice": "2",
+                "key": "C"
+            },
+            {
+                "choice": "5",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Lito cut 4 1/4 yd of plastic cover from a bolt containing 35 1/8 yd. How many yards were left in the bolt?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "31 1/4",
+                "key": "A"
+            },
+            {
+                "choice": "30 7/8",
+                "key": "B"
+            },
+            {
+                "choice": "31 1/8",
+                "key": "C"
+            },
+            {
+                "choice": "30 1/4",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Find the final amount due in investing P50,000 at a simple interest rate of 14.5% for 18 months.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P60,875",
+                "key": "A"
+            },
+            {
+                "choice": "P50,875",
+                "key": "B"
+            },
+            {
+                "choice": "P60,900",
+                "key": "C"
+            },
+            {
+                "choice": "P50,900",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the exact interest of P15,000, invested at 5.5% simple interest rate for 108 days?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P255.62",
+                "key": "A"
+            },
+            {
+                "choice": "P265.62",
+                "key": "B"
+            },
+            {
+                "choice": "P260.62",
+                "key": "C"
+            },
+            {
+                "choice": "P244.11",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "At what rate of interest should P2,400 be invested so that it will earn P80 in 8 months?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "6.5%",
+                "key": "A"
+            },
+            {
+                "choice": "5.5%",
+                "key": "B"
+            },
+            {
+                "choice": "5%",
+                "key": "C"
+            },
+            {
+                "choice": "6%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the single equivalent discount rate of the discount series 5%, 10% and 25%?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "40%",
+                "key": "A"
+            },
+            {
+                "choice": "35.9%",
+                "key": "B"
+            },
+            {
+                "choice": "64.1%",
+                "key": "C"
+            },
+            {
+                "choice": "60%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The product of 2 whole numbers is 36, and their ratio is 1:4. Which of these is the smaller number?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "3",
+                "key": "A"
+            },
+            {
+                "choice": "4",
+                "key": "B"
+            },
+            {
+                "choice": "8",
+                "key": "C"
+            },
+            {
+                "choice": "9",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If 30% of x is 30, what is 50% of x?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "30",
+                "key": "A"
+            },
+            {
+                "choice": "40",
+                "key": "B"
+            },
+            {
+                "choice": "50",
+                "key": "C"
+            },
+            {
+                "choice": "60",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Julio's salary is P8,500 per month. If it is increased by 12%, what is his new salary per month?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "P9,320 ",
+                "key": "A"
+            },
+            {
+                "choice": "P9,420",
+                "key": "B"
+            },
+            {
+                "choice": "P9,450",
+                "key": "C"
+            },
+            {
+                "choice": "P9,550",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How much commission does a salesman get if he was able to sell P35,000 worth of jewelry and he is given a 15% of it?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "P5,300",
+                "key": "A"
+            },
+            {
+                "choice": "P5,325",
+                "key": "B"
+            },
+            {
+                "choice": "P5,250",
+                "key": "C"
+            },
+            {
+                "choice": "P5,425",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How much should a man deposit in a bank at 6% simple interest rate if he wants to earn P1,200 a year?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P10,000",
+                "key": "A"
+            },
+            {
+                "choice": "P30,000",
+                "key": "B"
+            },
+            {
+                "choice": "P15,000",
+                "key": "C"
+            },
+            {
+                "choice": "P20,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the quotient when .345 is divided by .5?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "69",
+                "key": "A"
+            },
+            {
+                "choice": "65",
+                "key": "B"
+            },
+            {
+                "choice": "64",
+                "key": "C"
+            },
+            {
+                "choice": "67",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Simplify this [2x9-8x(-3)]/6+15=_________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "4",
+                "key": "A"
+            },
+            {
+                "choice": "3",
+                "key": "B"
+            },
+            {
+                "choice": "2",
+                "key": "C"
+            },
+            {
+                "choice": "",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A movie ticket cost P500 during a premiere night, and P320 during the regular show. What is the percentage decrease in the price of the ticket?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "30%",
+                "key": "A"
+            },
+            {
+                "choice": "36%",
+                "key": "B"
+            },
+            {
+                "choice": "24%",
+                "key": "C"
+            },
+            {
+                "choice": "28%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A politician wants to get his message to 2/3 of the population of 48,000 in Bulacan. However, his advertising campaign reache only 3/4 of the number he intended. How many people does he actually reach?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "16,000 ",
+                "key": "A"
+            },
+            {
+                "choice": "10,000",
+                "key": "B"
+            },
+            {
+                "choice": "24,000",
+                "key": "C"
+            },
+            {
+                "choice": "36,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A meter was cut at the 35-cm mark. What is the ratio of the smaller piece to the larger piece?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "7:13",
+                "key": "A"
+            },
+            {
+                "choice": "65:35",
+                "key": "B"
+            },
+            {
+                "choice": "35:100",
+                "key": "C"
+            },
+            {
+                "choice": "65:100",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The carat is a unit of measure used to weigh precious stones. It equals 3.086 grains. How many grains does a 2.8 carat diamond weigh?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "864.08",
+                "key": "A"
+            },
+            {
+                "choice": "86.408",
+                "key": "B"
+            },
+            {
+                "choice": "8.6408",
+                "key": "C"
+            },
+            {
+                "choice": "8640.8",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A carpenter wanted three pieces of wood each 15?8 feet long. If he planned to cut them from a 6-foot piece of wood, how much of the piece would be left?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "4 3/8 ft",
+                "key": "A"
+            },
+            {
+                "choice": "1 1/8 ft",
+                "key": "B"
+            },
+            {
+                "choice": "4 7/8 ft",
+                "key": "C"
+            },
+            {
+                "choice": "3 ft",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Four mangoes cost P29.00. At that price what will 21?2 dozen mangoes cost?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P217.50",
+                "key": "A"
+            },
+            {
+                "choice": "P188.50",
+                "key": "B"
+            },
+            {
+                "choice": "P348.50",
+                "key": "C"
+            },
+            {
+                "choice": "P870.00",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If P75.00 is shared among three children in the ratio of 3:7:15. The size of the smaller share is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P9.00 ",
+                "key": "A"
+            },
+            {
+                "choice": "P15.00",
+                "key": "B"
+            },
+            {
+                "choice": "P25.00",
+                "key": "C"
+            },
+            {
+                "choice": "P35.00",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "4 1/5+3 2/7=__________",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "7 17/35",
+                "key": "A"
+            },
+            {
+                "choice": "7 3/35",
+                "key": "B"
+            },
+            {
+                "choice": "7 1/35",	
+                "key": "C"
+            },
+            {
+                "choice": "7 3/12",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "10-3 2/17=__________",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "7 2/17",
+                "key": "A"
+            },
+            {
+                "choice": "6 2/17",
+                "key": "B"
+            },
+            {
+                "choice": "6 1/17",
+                "key": "C"
+            },
+            {
+                "choice": "6 15/17",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many whole numbers can divide 30 exactly?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Eight",
+                "key": "A"
+            },
+            {
+                "choice": "Six",
+                "key": "B"
+            },
+            {
+                "choice": "Five",
+                "key": "C"
+            },
+            {
+                "choice": "Four",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the sum of the infinite progression 3/2, 1, 2/3, 4/9 . . . ?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "61/2",
+                "key": "A"
+            },
+            {
+                "choice": "51/2",
+                "key": "B"
+            },
+            {
+                "choice": "41/2",
+                "key": "C"
+            },
+            {
+                "choice": "71/2",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In the progression 18, -12, 8 . . . which term is 512/729?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "the 8th",
+                "key": "A"
+            },
+            {
+                "choice": "the 6th",
+                "key": "B"
+            },
+            {
+                "choice": "the 9th",
+                "key": "C"
+            },
+            {
+                "choice": "the 7th",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which are the next three terms in the progression 1, 4, 16 . . . 8 terms?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": " 64, 256, 1024",
+                "key": "A"
+            },
+            {
+                "choice": "67, 259, 1027",
+                "key": "B"
+            },
+            {
+                "choice": "66, 258, 1026",
+                "key": "C"
+            },
+            {
+                "choice": "65, 257, 1025",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which are the next three terms in the progression 1/125, -1/25, 1/5 . . . 7 terms?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "-2, 6, -26 ",
+                "key": "A"
+            },
+            {
+                "choice": "-3, 7, -27",
+                "key": "B"
+            },
+            {
+                "choice": "-4, 8, -28",
+                "key": "C"
+            },
+            {
+                "choice": "-1, 5, -25",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the equivalent common fraction of the repeating decimal 3.242424...?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "107/33",
+                "key": "A"
+            },
+            {
+                "choice": "110/33",
+                "key": "B"
+            },
+            {
+                "choice": "109/33",
+                "key": "C"
+            },
+            {
+                "choice": "108/33",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Benjamin received his report card with the following grades: 93, 88, 80, 86 and 89? What is the average grade?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "86",
+                "key": "A"
+            },
+            {
+                "choice": "87",
+                "key": "B"
+            },
+            {
+                "choice": "86 1/5",
+                "key": "C"
+            },
+            {
+                "choice": "88",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "The Miranda Family purchased a 250-pound side of beef and had it packaged. They paid P365.00 for the side of beef. During the packaging, 75 pounds of beef were discarded as waste. What was the cost per pound for the packaged beef?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P2.08 per pound",
+                "key": "A"
+            },
+            {
+                "choice": "P2.50 per pound",
+                "key": "B"
+            },
+            {
+                "choice": "P2.06 per pound",
+                "key": "C"
+            },
+            {
+                "choice": "P2.30 per pound",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "If a baseball player hits 10 home runs in the first 45 games, at the same rate how many home runs can he expect to hit during the 162-game season?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "38",
+                "key": "A"
+            },
+            {
+                "choice": "42",
+                "key": "B"
+            },
+            {
+                "choice": "36",
+                "key": "C"
+            },
+            {
+                "choice": "40",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "During a recent shopping spree, Tomas and Nena bought some new accessories for their apartment. Nena chose a crocheted throw pillow at P24.95, and Tomas purchased a rural landscape painting for P135.00. How much did they actually spend if they paid 7% sales tax on their purchases?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P171.15",
+                "key": "A"
+            },
+            {
+                "choice": "P139.25",
+                "key": "B"
+            },
+            {
+                "choice": "P159.95",
+                "key": "C"
+            },
+            {
+                "choice": "P148.75",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "You buy a new refrigerator for P12,800.00 and make a down payment of P2,500.00. If you finance the remainder at 8% annually for three years, how much will you actually pay for the refrigerator?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P12,190.00",
+                "key": "A"
+            },
+            {
+                "choice": "P10,300.00",
+                "key": "B"
+            },
+            {
+                "choice": "P12,772.00",
+                "key": "C"
+            },
+            {
+                "choice": "P15,272.00",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To pass her English Test, Lucille must get 75% of the items correct. Out of 80 questions, how many must she correctly answer?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "55",
+                "key": "A"
+            },
+            {
+                "choice": "60",
+                "key": "B"
+            },
+            {
+                "choice": "65",
+                "key": "C"
+            },
+            {
+                "choice": "70",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

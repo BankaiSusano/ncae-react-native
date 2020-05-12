@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "ABANDON",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Try",
+                "key": "A"
+            },
+            {
+                "choice": "Join",
+                "key": "B"
+            },
+            {
+                "choice": "Keep with",
+                "key": "C"
+            },
+            {
+                "choice": "Forsake",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "CORPULENT",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Lean",
+                "key": "A"
+            },
+            {
+                "choice": "Gaunt",
+                "key": "B"
+            },
+            {
+                "choice": "Emaciated",
+                "key": "C"
+            },
+            {
+                "choice": "Obese",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "ERRONEOUS",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Enormous",
+                "key": "A"
+            },
+            {
+                "choice": "Wrong",
+                "key": "B"
+            },
+            {
+                "choice": "Eraded",
+                "key": "C"
+            },
+            {
+                "choice": "Weak",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "INNOCUOUS",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Not eager",
+                "key": "A"
+            },
+            {
+                "choice": "Harmless",
+                "key": "B"
+            },
+            {
+                "choice": "Not Frank",
+                "key": "C"
+            },
+            {
+                "choice": "Not capable",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "PERFIDIOUS",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Predict",
+                "key": "A"
+            },
+            {
+                "choice": "Crafty",
+                "key": "B"
+            },
+            {
+                "choice": "Perjury",
+                "key": "C"
+            },
+            {
+                "choice": "Prevail",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "PROLONG",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Inquire",
+                "key": "A"
+            },
+            {
+                "choice": "Wax",
+                "key": "B"
+            },
+            {
+                "choice": "Wait",
+                "key": "C"
+            },
+            {
+                "choice": "Extend",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "LUXURIANT",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Beautiful",
+                "key": "A"
+            },
+            {
+                "choice": "Luxurious",
+                "key": "B"
+            },
+            {
+                "choice": "Abundant",
+                "key": "C"
+            },
+            {
+                "choice": "Abundant",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "OPULOUS",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Popular",
+                "key": "A"
+            },
+            {
+                "choice": "Respectful",
+                "key": "B"
+            },
+            {
+                "choice": "Populated",
+                "key": "C"
+            },
+            {
+                "choice": "Hard working",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "FOSTERING",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Safeguarding",
+                "key": "A"
+            },
+            {
+                "choice": "Neglecting",
+                "key": "B"
+            },
+            {
+                "choice": "Ignoring",
+                "key": "C"
+            },
+            {
+                "choice": "Nurturing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "INCUR",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Misunderstand",
+                "key": "A"
+            },
+            {
+                "choice": "Push",
+                "key": "B"
+            },
+            {
+                "choice": "Gain",
+                "key": "C"
+            },
+            {
+                "choice": "Discourage",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "ENORMOUS",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Soft",
+                "key": "A"
+            },
+            {
+                "choice": "Average",
+                "key": "B"
+            },
+            {
+                "choice": "Tiny",
+                "key": "C"
+            },
+            {
+                "choice": "Weak",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "FLAGITIOUS",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Innocent",
+                "key": "A"
+            },
+            {
+                "choice": "Vapid",
+                "key": "B"
+            },
+            {
+                "choice": "Ignorant",
+                "key": "C"
+            },
+            {
+                "choice": "Frivolous",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "STARTLED",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Amused",
+                "key": "A"
+            },
+            {
+                "choice": "Relaxed",
+                "key": "B"
+            },
+            {
+                "choice": "Endless",
+                "key": "C"
+            },
+            {
+                "choice": "Astonished",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "COMMISIONED",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Started",
+                "key": "A"
+            },
+            {
+                "choice": "Closed",
+                "key": "B"
+            },
+            {
+                "choice": "Finished",
+                "key": "C"
+            },
+            {
+                "choice": "Terminated",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "AGONY",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "meet time constraints",
+                "key": "A"
+            },
+            {
+                "choice": "aim better resource sharing",
+                "key": "B"
+            },
+            {
+                "choice": "aim better system utilization",
+                "key": "C"
+            },
+            {
+                "choice": "aim low system overhead",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "AMENITY",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Advantage",
+                "key": "A"
+            },
+            {
+                "choice": "Comfort",
+                "key": "B"
+            },
+            {
+                "choice": "Enrichment",
+                "key": "C"
+            },
+            {
+                "choice": "Abomination",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "FOREMOST",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Hindmost",
+                "key": "A"
+            },
+            {	
+                "choice": "Unimportant",
+                "key": "B"
+            },
+            {
+                "choice": "Disposed",
+                "key": "C"
+            },
+            {
+                "choice": "Mature",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "PROTECTS",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Defends",
+                "key": "A"
+            },
+            {
+                "choice": "Deprives",
+                "key": "B"
+            },
+            {
+                "choice": "Deserts",
+                "key": "C"
+            },
+            {
+                "choice": "Devises",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "APPROBATE",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Ingratitude",
+                "key": "A"
+            },
+            {
+                "choice": "Condemn",
+                "key": "B"
+            },
+            {
+                "choice": "Dissatisfaction",
+                "key": "C"
+            },
+            {
+                "choice": "Master",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "HEARTFELT",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Humorous",
+                "key": "A"
+            },
+            {
+                "choice": "Loving",
+                "key": "B"
+            },
+            {
+                "choice": "Insincere",
+                "key": "C"
+            },
+            {
+                "choice": "Unhealthy",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Susan is typing.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "simple past",
+                "key": "A"
+            },
+            {
+                "choice": "simple present",
+                "key": "B"
+            },
+            {
+                "choice": "present continuous",
+                "key": "C"
+            },
+            {
+                "choice": "past perfect",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When I went back to my hometown three years ago, I found that a lot of changes_____.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "had taken place",
+                "key": "A"
+            },
+            {
+                "choice": "have taken place",
+                "key": "B"
+            },
+            {
+                "choice": "are taken place",
+                "key": "C"
+            },
+            {
+                "choice": "were taken place",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ronnie, I _______ you in a long time. How have you been?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "was been",
+                "key": "A"
+            },
+            {
+                "choice": "saw",
+                "key": "B"
+            },
+            {
+                "choice": "haven't seen",
+                "key": "C"
+            },
+            {
+                "choice": "hadn't seen",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sam ______ the marathon for the first time.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "has run",
+                "key": "A"
+            },
+            {
+                "choice": "ran",
+                "key": "B"
+            },
+            {
+                "choice": "is running",
+                "key": "C"
+            },
+            {
+                "choice": "runs ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Did you play tennis yesterday?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "present perfect",
+                "key": "A"
+            },
+            {
+                "choice": "simple past",
+                "key": "B"
+            },
+            {
+                "choice": "past progressive",
+                "key": "C"
+            },
+            {
+                "choice": "present perfect progressive",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Earth moves round the sun.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "simple past",
+                "key": "A"
+            },
+            {
+                "choice": "past perfect",
+                "key": "B"
+            },
+            {
+                "choice": "simple present",
+                "key": "C"
+            },
+            {
+                "choice": "past future perfect",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I _____ ice-cream.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Likes",
+                "key": "A"
+            },
+            {
+                "choice": "Liked",
+                "key": "B"
+            },
+            {
+                "choice": "Have been liking",
+                "key": "C"
+            },
+            {
+                "choice": "Like",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I shall visit the book fair tomorrow.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "past perfect",
+                "key": "A"
+            },
+            {
+                "choice": "simple future",
+                "key": "B"
+            },
+            {
+                "choice": "future continuous",
+                "key": "C"
+            },
+            {
+                "choice": "present perfect",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He goes to work.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "simple past",
+                "key": "A"
+            },
+            {
+                "choice": "past perfect",
+                "key": "B"
+            },
+            {
+                "choice": "present",
+                "key": "C"
+            },
+            {
+                "choice": "past future perfect",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " Have you seen the recent Hollywood films?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "past perfect",
+                "key": "A"
+            },
+            {
+                "choice": "present perfect",
+                "key": "B"
+            },
+            {
+                "choice": "simple past",
+                "key": "C"
+            },
+            {
+                "choice": "simple present",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "We saw ______ animals at the zoo.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Much",
+                "key": "A"
+            },
+            {
+                "choice": "many",
+                "key": "B"
+            },
+            {
+                "choice": "so many",
+                "key": "C"
+            },
+            {
+                "choice": "all",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It's raining ______.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Heavy",
+                "key": "A"
+            },
+            {
+                "choice": "heavier",
+                "key": "B"
+            },
+            {
+                "choice": "heavily",
+                "key": "C"
+            },
+            {
+                "choice": "heaviest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I don't have ______ friends.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "much more",
+                "key": "A"
+            },
+            {
+                "choice": "many",
+                "key": "B"
+            },
+            {
+                "choice": "so many",
+                "key": "C"
+            },
+            {
+                "choice": "None of the above",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It's a small problem",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Small",
+                "key": "A"
+            },
+            {
+                "choice": "A",
+                "key": "B"
+            },
+            {
+                "choice": "It's",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The brides were much _______ than the grooms.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Young",
+                "key": "A"
+            },
+            {
+                "choice": "younger",
+                "key": "B"
+            },
+            {
+                "choice": "youngest",
+                "key": "C"
+            },
+            {
+                "choice": "none",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I like hot food",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "I",
+                "key": "A"
+            },
+            {
+                "choice": "Hot",
+                "key": "B"
+            },
+            {
+                "choice": "Food",
+                "key": "C"
+            },
+            {
+                "choice": "Like",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The bus is slow.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Is",
+                "key": "A"
+            },
+            {
+                "choice": "Slow",
+                "key": "B"
+            },
+            {
+                "choice": "The",	
+                "key": "C"
+            },
+            {
+                "choice": "Bus",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The eagle was ________ than the bluebird.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Big",
+                "key": "A"
+            },
+            {
+                "choice": "bigger",
+                "key": "B"
+            },
+            {
+                "choice": "biggest",
+                "key": "C"
+            },
+            {
+                "choice": "most big",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which words are sound adjectives?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "large, small, gigantic",
+                "key": "A"
+            },
+            {
+                "choice": "loud, quiet, soothing",
+                "key": "B"
+            },
+            {
+                "choice": "red, green, yellow",
+                "key": "C"
+            },
+            {
+                "choice": "rough, smooth, cold",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He is _______ than his neighbors.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Rich",
+                "key": "A"
+            },
+            {
+                "choice": "richer",
+                "key": "B"
+            },
+            {
+                "choice": "richest",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "New York is ______large city.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "no article",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " ______ man is mortal.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "The",
+                "key": "B"
+            },
+            {
+                "choice": " No article",
+                "key": "C"
+            },
+            {
+                "choice": "All of the above",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " Kiran is _______ best student in the class.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "the",
+                "key": "B"
+            },
+            {
+                "choice": "No article",
+                "key": "C"
+            },
+            {
+                "choice": "an",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He is _______European.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "None of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Karan will arrive in _______ hour.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "None of these",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "I live in an apartment. _______ apartment is new.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "The",
+                "key": "A"
+            },
+            {
+                "choice": "a",
+                "key": "B"
+            },
+            {
+                "choice": "an",
+                "key": "C"
+            },
+            {
+                "choice": "none of the above",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "They usually spend their holidays in _______ mountains.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "no article",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " I've been waiting for _________ longtime.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "no article",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Let's go to _____ beach.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "no article",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Would you like to have ________ cup of tea? ",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "A",
+                "key": "A"
+            },
+            {
+                "choice": "an",
+                "key": "B"
+            },
+            {
+                "choice": "the",
+                "key": "C"
+            },
+            {
+                "choice": "no article",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

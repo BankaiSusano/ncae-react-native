@@ -1,0 +1,1220 @@
+[
+    {
+    	"In 1892, the Sierra Club was formed. In 1908, an area of coastal redwood trees north of San Francisco was established as Muir Woods National Monument. In the Sierra Nevada Mountains, a walking trail from Yosemite Valley to Mount Whitney was dedicated in 1938. It is called the John Muir Trail.",
+		"John Muir was born in 1838 in Scotland. His family name means "moor," which is a meadow full of flowers and animals. John loved nature from the time he was small. He also liked to climb rocky cliffs and walls.",
+		"When John was 11 years old, his family moved to the United States and settled in Wisconsin. John was good with tools and soon became an inventor. He first invented a model of a sawmill. Later, he invented an alarm clock that would cause the sleeping person to be tipped out of bed when the timer sounded.",
+		"Muir left home at an early age. He took a 1,000-mile walk south to the Gulf of Mexico in 1867and 1868. Then he sailed for San Francisco. The city was too noisy and crowded for Muir, so he headed inland for the Sierra Nevadas.",
+		"When Muir discovered the Yosemite Valley in the Sierra Nevadas, it was as if he had come home. He loved the mountains, the wildlife, and the trees. He climbed the mountains and even climbed trees during thunderstorms in order to get closer to the wind. He put forth the theory in the late 1860s that the Yosemite Valley had been formed through the action of glaciers. People ridiculed him. Not until 1930 was Muir's theory proven correct.",
+		"Muir began to write articles about the Yosemite Valley to tell readers about its beauty. His writing also warned people that Yosemite was in danger from timber mining and sheep ranching interests. In 1901, Theodore Roosevelt became president of the United States. He was interested in conservation. Muir took the president through Yosemite, and Roosevelt helped get legislation passed to create Yosemite National Park in 1906.",
+		"Although Muir won many conservation battles, he lost a major one. He fought to save the Hetch Hetchy Valley, which people wanted to dam in order to provide water for San Francisco. In late 1913, a bill was signed to dam the valley. Muir died in 1914. Some people say losing the fight to protect the valley killed Muir.",
+        "question": "What happened first?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "The Muir family moved to the United States",
+                "key": "A"
+            },
+            {
+                "choice": "Muir Woods was created",
+                "key": "B"
+            },
+            {
+                "choice": "John Muir learned to climb rocky cliffs",
+                "key": "C"
+            },
+            {
+                "choice": "John Muir walked to the Gulf of Mexico",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "When did Muir invent a unique form of alarm clock?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "While the family still lived in Scotland",
+                "key": "A"
+            },
+            {
+                "choice": "After he sailed to San Francisco",
+                "key": "B"
+            },
+            {
+                "choice": "After he traveled in Yosemite",
+                "key": "C"
+            },
+            {
+                "choice": "While the Muir family lived in Wisconsin",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What did John Muir do soon after he arrived in San Francisco?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "He ran outside during an earthquake",
+                "key": "A"
+            },
+            {
+                "choice": "He put forth a theory about how Yosemite was formed",
+                "key": "B"
+            },
+            {
+                "choice": "He headed inland for the Sierra Nevada's",
+                "key": "C"
+            },
+            {
+                "choice": "He began to write articles about the Sierra Nevadas",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did John Muir meet Theodore Roosevelt?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Between 1901 and 1906",
+                "key": "A"
+            },
+            {
+                "choice": "Between 1838 and 1868",
+                "key": "B"
+            },
+            {
+                "choice": "Between 1906 and 1914",
+                "key": "C"
+            },
+            {
+                "choice": "Between 1868 and 1901",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened last?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "John Muir died",
+                "key": "A"
+            },
+            {
+                "choice": "John Muir Trail was dedicated",
+                "key": "B"
+            },
+            {
+                "choice": "Muir's glacial theory was proven",
+                "key": "C"
+            },
+            {
+                "choice": "The Sierra Club was formed",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"When using a metal file, always remember to bear down on the forward stroke only. On the return stroke, lift the file clear of the surface to avoid dulling the instrument's teeth. Only when working on very soft metals is it advisable to drag the file's teeth slightly on the return stroke. This helps clear out metal pieces from between the teeth.",
+		"It is best to bear down just hard enough to keep the file cutting at all times. Too little pressure uses only the tips of the teeth, while too much pressure can chip the teeth. Move the file in straight lines across the surface. Use a vise to grip the work so that your hands are free to hold the file. Protect your hands by equipping the file with a handle. Buy a wooden handle and install it by inserting the pointed end of the file into the handle hole.",
+        "question": "These directions show you how to…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Work with a hammer",
+                "key": "A"
+            },
+            {
+                "choice": "Use a file",
+                "key": "B"
+            },
+            {
+                "choice": "Polish a file",
+                "key": "C"
+            },
+            {
+                "choice": "Oil a vise",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When using a file…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Always bear down on the return stroke",
+                "key": "A"
+            },
+            {
+                "choice": "Move it in a circle",
+                "key": "B"
+            },
+            {
+                "choice": "Remove the handle",
+                "key": "C"
+            },
+            {
+                "choice": "Press down on the forward stroke",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When working on soft metals, you can…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Remove the handle",
+                "key": "A"
+            },
+            {
+                "choice": "Clear metal pieces from the teeth",
+                "key": "B"
+            },
+            {
+                "choice": "Bear down very hard on the return stroke",
+                "key": "C"
+            },
+            {
+                "choice": "File in circles",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Protect your hands by…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Dulling the teeth",
+                "key": "A"
+            },
+            {
+                "choice": "Dragging the teeth on the backstroke",
+                "key": "B"
+            },
+            {
+                "choice": "Using a vise",
+                "key": "C"
+            },
+            {
+                "choice": "Installing a handle",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	" Old woman, grumbled the burly white man who had just heard Sojourner Truth speak, do you think your talk about slavery does any good? I don't care any more for your talk than I do for the bite of a flea.",
+		"The tall, imposing black woman turned her piercing eyes on him. Perhaps not, she answered, but I'll keep you scratching.",
+		"The little incident of the 1840s sums up all that Sojourner Truth was: utterly dedicated to spreading her message, afraid of no one, and both forceful and witty in speech.",
+		"Yet 40 years earlier, who could have suspected that a spindly slave girl growing up in a damp cellar in upstate New York would become one of the most remarkable women in American history? Her name then was Isabella Baumfree, and by the time she was 14 years old she had seen both parents die of cold and hunger. She herself had been sold several times. By 1827, when New York freed its slaves, she had married and given birth to four children.",
+		"The first hint of Isabella's fighting spirit came soon afterwards, when her youngest son was illegally seized and sold. She marched to the courthouse and badgered officials until her son was returned to her.",
+		"In 1843, inspired by religion, she changed her name to Sojourner (meaning "one who stays briefly") Truth and, with only pennies in her purse, set out to preach against slavery. From New England to Minnesota she trekked, gaining a reputation for her plain but powerful and moving words. Incredibly, despite being black and female (only white males were expected to be public speakers), she drew thousands to town halls, tents, and churches to hear her powerful, deep-voiced pleas on equality for blacks-and for women. Often she had to face threatening hoodlums. Once she stood before armed bullies and sang a hymn to them. Awed by her courage and her commanding presence, they sheepishly retreated.",
+		"During the Civil War she cared for homeless ex-slaves in Washington, D.C. President Lincoln invited her to the White House to bestow praise on her. Later, she petitioned Congress to help former slaves get land in the West. Even in her old age, she forced the city of Washington, D.C. to integrate its trolley cars so that black and white passengers could ride together.",
+		"Shortly before her death at the age of 86, she was asked what kept her going. "I think of the great things," replied Sojourner.",
+        "question": "The imposing black woman promised to keep the white man…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Searching",
+                "key": "A"
+            },
+            {
+                "choice": "Crying",
+                "key": "B"
+            },
+            {
+                "choice": "Hollering",
+                "key": "C"
+            },
+            {
+                "choice": "Scratching",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "This incident occurred in the…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "1760s",
+                "key": "A"
+            },
+            {
+                "choice": "1900s",
+                "key": "B"
+            },
+            {
+                "choice": "1840s",
+                "key": "C"
+            },
+            {
+                "choice": "1920s",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sojourner Truth was raised in a damp cellar in…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "New York",
+                "key": "A"
+            },
+            {
+                "choice": "Georgia",
+                "key": "B"
+            },
+            {
+                "choice": "New Jersey",
+                "key": "C"
+            },
+            {
+                "choice": "Idaho",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Isabella lost both parents by the time she was…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "27 years old",
+                "key": "A"
+            },
+            {
+                "choice": "2 years old",
+                "key": "B"
+            },
+            {
+                "choice": "7 years old",
+                "key": "C"
+            },
+            {
+                "choice": "14 years old",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When New York freed its slaves, Isabella had…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Problems",
+                "key": "A"
+            },
+            {
+                "choice": "No children",
+                "key": "B"
+            },
+            {
+                "choice": "Four children",
+                "key": "C"
+            },
+            {
+                "choice": "An education",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Her change in name was inspired by…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "A fighting spirit",
+                "key": "A"
+            },
+            {
+                "choice": "Religion",
+                "key": "B"
+            },
+            {
+                "choice": "Her freedom",
+                "key": "C"
+            },
+            {
+                "choice": "Officials",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She traveled from New England to…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Canada",
+                "key": "A"
+            },
+            {
+                "choice": "California",
+                "key": "B"
+            },
+            {
+                "choice": "Minnesota",
+                "key": "C"
+            },
+            {
+                "choice": "Alaska",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She forced the city of Washington, D.C. to…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Integrate its trolleys",
+                "key": "A"
+            },
+            {	
+                "choice": "Give land grants",
+                "key": "B"
+            },
+            {
+                "choice": "Care for ex-slave",
+                "key": "C"
+            },
+            {
+                "choice": "Provide food for ex-slaves",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She preached against…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Smoking",
+                "key": "A"
+            },
+            {
+                "choice": "Slavery",
+                "key": "B"
+            },
+            {
+                "choice": "Alcohol",
+                "key": "C"
+            },
+            {
+                "choice": "Hoodlums",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sojourner Truth died at…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "48",
+                "key": "A"
+            },
+            {
+                "choice": "72",
+                "key": "B"
+            },
+            {
+                "choice": "63",
+                "key": "C"
+            },
+            {
+                "choice": "86",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The Galapagos Islands are in the Pacific Ocean, off the western coast of South America. They are a rocky, lonely spot, but they are also one of the most unusual places in the world. One reason is that they are the home of some of the last giant tortoises left on earth.",
+		"Weighing hundreds of pounds, these tortoises, or land turtles, wander slowly around the rocks and sand of the islands. Strangely, each of these islands has its own particular kinds of tortoises. There are seven different kinds of tortoises on the eight islands, each kind being slightly different from the other.",
+		"Hundreds of years ago, thousands of tortoises wandered around these islands. However, all that changed when people started landing there. When people first arrived in 1535, their ships had no refrigerators. This meant that fresh food was always a problem for the sailors on board. The giant tortoises provided an easy solution to this problem.",
+		"Ships would anchor off the islands, and crews would row ashore and seize as many tortoises as they could. Once the animals were aboard the ship, the sailors would roll the tortoises onto their backs. The tortoises were completely helpless once on their backs, so they could only lie there until used for soups and stews. Almost 100,000 tortoises were carried off in this way.",
+		"The tortoises faced other problems, too. Soon after the first ships, settlers arrived, bringing pigs, goats, donkeys, dogs and cats. All of these animals ruined life for the tortoises. Donkeys and goats ate all the plants that the tortoises usually fed on, while the pigs, dogs and cats consumed thousands of baby tortoises each year. Within a few years, it was hard to find any tortoise eggs-or even any baby tortoises.",
+		"By the early 1900s, people began to worry that the last of the tortoises would soon die out. No one, however, seemed to care enough to do anything about the problem. More and more tortoises disappeared, even though sailors no longer needed them for food. For another 50 years, this situation continued. Finally, in the 1950s, scientists decided that something must be done.",
+		"The first part of their plan was to remove as many cats, dogs and other animals as they could from the islands. Next, they tried to make sure that more baby tortoises would be born. To do this, they started looking for wild tortoise eggs. They gathered the eggs and put them in safe containers. When the eggs hatched, the scientists raised the tortoises in special pens. Both the eggs and tortoises were numbered so that the scientists knew exactly which kinds of tortoises they had and which island they came from. Once the tortoises were old enough and big enough to take care of themselves, the scientists took them back to their islands and set them loose. This slow, hard work continues today, and, thanks to it, the number of tortoises is now increasing every year. Perhaps these wonderful animals will not disappear after all.",
+        "question": "What happened first?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Sailors took tortoises aboard ships",
+                "key": "A"
+            },
+            {
+                "choice": "The tortoise meat was used for soups and stews",
+                "key": "B"
+            },
+            {
+                "choice": "Tortoises were put onto their backs",
+                "key": "C"
+            },
+            {
+                "choice": "Settlers brought other animals to the islands",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened soon after people brought animals to the islands?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Tortoise eggs were kept in safe containers",
+                "key": "A"
+            },
+            {
+                "choice": "Scientists took away as many animals as they could",
+                "key": "B"
+            },
+            {
+                "choice": "The animals ate the tortoises' food and eggs",
+                "key": "C"
+            },
+            {
+                "choice": "The tortoises fought with the other animals",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did people start to do something to save the tortoises?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "In the 1500s",
+                "key": "A"
+            },
+            {
+                "choice": "In the 1950s",
+                "key": "B"
+            },
+            {
+                "choice": "In the early 1900s",
+                "key": "C"
+            },
+            {
+                "choice": "In the 1960s",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happens right after the tortoise eggs hatch?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The scientists take the tortoises back to their islands",
+                "key": "A"
+            },
+            {
+                "choice": "The scientists get rid of cats, dogs, and other animals",
+                "key": "B"
+            },
+            {
+                "choice": "The sailors use the tortoises for food",
+                "key": "C"
+            },
+            {
+                "choice": "The scientists raise the tortoises in special pens",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened last?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "The tortoises began to disappear",
+                "key": "A"
+            },
+            {
+                "choice": "The number of tortoises began to grow",
+                "key": "B"
+            },
+            {
+                "choice": "Scientists took away other animals",
+                "key": "C"
+            },
+            {
+                "choice": "Tortoises were taken back to their home islands",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The first person in the group starts off by naming anything that is geographical. It could be a city, state, country, river, lake, or any proper geographical term. For example, the person might say, "Boston." The second person has 10 seconds to think of how the word ends and come up with another geographical term starting with that letter. The second participant might say, "Norway," because the geographical term has to start with "N." The third person would have to choose a word beginning with "Y." If a player fails to think of a correct answer within the time limit, that player is out of the game. The last person to survive is the champion.",
+        "question": "This game may help you with…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "History",
+                "key": "A"
+            },
+            {
+                "choice": "Music",
+                "key": "B"
+            },
+            {
+                "choice": "Geography",
+                "key": "C"
+            },
+            {
+                "choice": "Sports",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The person trying to answer needs…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "No time limit.",
+                "key": "A"
+            },
+            {
+                "choice": "To know geography only.",
+                "key": "B"
+            },
+            {
+                "choice": "To ignore the last letters of words.",
+                "key": "C"
+            },
+            {
+                "choice": "To know something about spelling and geography.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Before you choose your own word, think about how…",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The last word starts",
+                "key": "A"
+            },
+            {
+                "choice": "The last word ends",
+                "key": "B"
+            },
+            {
+                "choice": "Smart you are",
+                "key": "C"
+            },
+            {
+                "choice": "Long the last word is",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The answer must be…",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "In New York",
+                "key": "A"
+            },
+            {
+                "choice": "Within the United States",
+                "key": "B"
+            },
+            {
+                "choice": "A proper geographical term",
+                "key": "C"
+            },
+            {
+                "choice": "In the same region ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Charles A. Lindbergh is remembered as the first person to make a nonstop solo flight across the Atlantic, in 1927. This feat, performed when Lindbergh was only 25 years old, assured him a lifetime of fame and public attention.",
+		"Charles Augustus Lindbergh was more interested in flying airplanes than he was in studying. He dropped out of the University of Wisconsin after two years to earn a living performing daredevil airplane stunts at county fairs. Two years later, he joined the United States Army so that he could go to the Army Air Service flight-training school. After completing his training, he was hired to fly mail between St. Louis and Chicago.",
+		"Then came the historic flight across the Atlantic. In 1919, a New York City hotel owner offered a prize of $25,000 for the first pilot to fly nonstop from New York to Paris. Nine St. Louis business leaders helped pay for the plane Lindbergh designed especially for the flight. Lindbergh tested the plane by flying it from San Diego to New York, with an overnight stop in St. Louis. The flight took only 20 hours and 21 minutes, a transcontinental record.",
+		"Nine days later, on May 20, 1927, Lindbergh took off from Long Island, New York, at 7:52 a.m. He landed in Paris on May 21 at 10:21 p.m. He had flown more than 3,600 miles in less than 34 hours. His flight made news around the world. He was given awards and parades everywhere he went. He was presented with the US Congressional Medal of Honor and the first Distinguished Flying Cross. For a long time, Lindbergh toured the world as a US goodwill ambassador. He met his future wife, Anne Morrow, in Mexico, where her father was the United States ambassador.",
+		"During the 1930s, Charles and Anne Lindbergh worked for various airline companies, charting new commercial air routes. In 1931, for a major airline, they charted a new route from the east coast of the United States to the Orient. The shortest, most efficient route was a great curve across Canada, over Alaska, and down to China and Japan. Most pilots familiar with the Arctic did not believe that such a route was possible. The Lindberghs took on the task of proving that it was. They arranged for fuel and supplies to be set out along the route. On July 29, they took off from Long Island in a specially equipped small seaplane. They flew by day and each night landed on a lake or a river and camped. Near Nome, Alaska, they had their first serious emergency. Out of daylight and nearly out of fuel, they were forced down into a small ocean inlet. In the next morning's light, they discovered they had landed on barely three feet of water. On September 19, after two more emergency landings and numerous close calls, they landed in China with the maps for a safe airline passenger route.",
+		"Even while actively engaged as a pioneering flier, Lindbergh was also working as an engineer. In 1935, he and Dr. Alexis Carrel were given a patent for an artificial heart. During World War II in the 1940s, Lindbergh served as a civilian technical advisor in aviation. Although he was a civilian, he flew over 50 combat missions in the Pacific. In the 1950s, Lindbergh helped design the famous 747 jet airliner. In the late 1960s, he spoke widely on conservation issues. He died in August 1974, having lived through aviation history from the time of the first powered flight to the first steps on the moon and having influenced a big part of that history himself.",
+        "question": "What did Lindbergh do before he crossed the Atlantic?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "He charted a route to China",
+                "key": "A"
+            },
+            {
+                "choice": "He graduated from flight-training school",
+                "key": "B"
+            },
+            {
+                "choice": "He married Anne Morrow",
+                "key": "C"
+            },
+            {
+                "choice": "He acted as a technical advisor during World War II",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happened immediately after Lindbergh crossed the Atlantic?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "He flew the mail between St. Louis and Chicago",
+                "key": "A"
+            },
+            {
+                "choice": "He left college",
+                "key": "B"
+            },
+            {
+                "choice": "He attended the Army flight-training school",
+                "key": "C"
+            },
+            {
+                "choice": "He was given the Congressional Medal of Honor",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did Charles meet Anne Morrow?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Before he took off from Long Island",
+                "key": "A"
+            },
+            {
+                "choice": "After he worked for an airline",
+                "key": "B"
+            },
+            {
+                "choice": "Before he was forced down into an ocean inlet",
+                "key": "C"
+            },
+            {
+                "choice": "After he received the first Distinguished Flying Cross",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When did the Lindberghs map an air route to China?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Before they worked for an airline",
+                "key": "A"
+            },
+            {
+                "choice": "Before Charles worked with Dr. Carrel",
+                "key": "B"
+            },
+            {
+                "choice": "After World War II",
+                "key": "C"
+            },
+            {
+                "choice": "While designing the 747",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What event happened last?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Lindbergh patented an artificial heart",
+                "key": "A"
+            },
+            {
+                "choice": "The Lindberghs mapped a route to the Orient",
+                "key": "B"
+            },
+            {
+                "choice": "Lindbergh helped design the 747 airliner",
+                "key": "C"
+            },
+            {
+                "choice": "Lindbergh flew 50 combat missions",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Always read the meter dials from the right to the left. This procedure is much easier, especially if any of the dial hands are near the zero mark. If the meter has two dials, and one is smaller than the other, then it is not imperative to read the smaller dial because it only registers a small amount. Read the dial at the right first. As the dial turns clockwise, always record the figure the pointer has just passed. Read the next dial to the left and record the figure it has just passed. Continue recording the figures on the dials from right to left. When finished, mark off the number of units recorded. Dials on water and gas meters usually indicate the amount each dial records",
+        "question": "These instructions show you how to…",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Read a meter",
+                "key": "A"
+            },
+            {
+                "choice": "Turn the dials of a meter",
+                "key": "B"
+            },
+            {
+                "choice": "Install a gas meter",
+                "key": "C"
+            },
+            {
+                "choice": "Repair a water meter",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Always read the meter dials…",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "From top to bottom",
+                "key": "A"
+            },
+            {
+                "choice": "From right to left",
+                "key": "B"
+            },
+            {
+                "choice": "From left to right",
+                "key": "C"
+            },
+            {
+                "choice": "From the small to the large dial",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "People thought that the Wright brothers had ______.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "acted without thinking",
+                "key": "A"
+            },
+            {
+                "choice": "been negatively influenced",
+                "key": "B"
+            },
+            {
+                "choice": "been too cautious",
+                "key": "C"
+            },
+            {
+                "choice": "been mistaken",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Wrights' interest in flight grew into a ______.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "financial empire",
+                "key": "A"
+            },
+            {
+                "choice": "plan",
+                "key": "B"
+            },
+            {
+                "choice": "need to act",	
+                "key": "C"
+            },
+            {
+                "choice": "foolish thought",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Lilienthal's idea about controlling airborne vehicles was _________ the Wrights.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "proven wrong by",
+                "key": "A"
+            },
+            {
+                "choice": "opposite to the ideas of",
+                "key": "B"
+            },
+            {
+                "choice": "disliked by",
+                "key": "C"
+            },
+            {
+                "choice": "accepted by",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The old tables were _________ and replaced by the first reliable figures for air pressure on curved surfaces.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "destroyed",
+                "key": "A"
+            },
+            {
+                "choice": "invalidated",
+                "key": "B"
+            },
+            {
+                "choice": "multiplied",
+                "key": "C"
+            },
+            {
+                "choice": "multiplied",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Wrights designed and built their own source of _________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "force for moving forward",
+                "key": "A"
+            },
+            {
+                "choice": "force for turning around",
+                "key": "B"
+            },
+            {
+                "choice": "turning",
+                "key": "C"
+            },
+            {
+                "choice": "force for going backward",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The pioneers of the teaching of science imagined that its",
+    	"introduction into education would remove the conventionality,",
+    	"artificiality, and backward-lookingness which were characteristic;",
+    	"of classical studies, but they were gravely disappointed. So, too, in",
+	"5   their time had the humanists thought that the study of the classical",
+    	"authors in the original would banish at once the dull pedantry and",
+    	"superstition of mediaeval scholasticism. The professional",
+    	"schoolmaster was a match for both of them, and has almost",
+    	"managed to make the understanding of chemical reactions as dull",
+	"10  and as dogmatic an affair as the reading of Virgil's Aeneid.",
+    	"The chief claim for the use of science in education is that it",
+    	"teaches a child something about the actual universe in which he is",
+    	"living, in making him acquainted with the results of scientific",
+	"15  discovery, and at the same time teaches him how to think logically",
+    	"and inductively by studying scientific method. A certain limited",
+    	"success has been reached in the first of these aims, but practically",
+    	"none at all in the second. Those privileged members of the",
+    	"community who have been through a secondary or public school",
+	"20  education may be expected to know something about the",
+    	"elementary physics and chemistry of a hundred years ago, but they",
+    	"probably know hardly more than any bright boy can pick up from",
+    	"an interest in wireless or scientific hobbies out of school hours.",
+    	"As to the learning of scientific method, the whole thing is palpably",
+	"25  a farce. Actually, for the convenience of teachers and the",
+    	"requirements of the examination system, it is necessary that the",
+    	"pupils not only do not learn scientific method but learn precisely",
+    	"the reverse, that is, to believe exactly what they are told and to",
+    	"reproduce it when asked, whether it seems nonsense to them or",
+	"30  not. The way in which educated people respond to such quackeries",
+    	"as spiritualism or astrology, not to say more dangerous ones such",
+    	"as racial theories or currency myths, shows that fifty years of",
+    	"education in the method of science in Britain or Germany has",
+    	"produced no visible effect whatever. The only way of learning the",
+	"35  method of science is the long and bitter way of personal",
+    	"experience, and, until the educational or social systems are altered",
+    	"to make this possible, the best we can expect is the production of a",
+    	"minority of people who are able to acquire some of the techniques",
+    	"of science and a still smaller minority who are able to use and",
+	"40  develop them.",
+		"Adapted from: The Social Function of Science, John D Bernal (1939)",
+        "question": "The author implies that the 'professional schoolmaster' (line 7) has",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "no interest in teaching science",
+                "key": "A"
+            },
+            {
+                "choice": "thwarted attempts to enliven education",
+                "key": "B"
+            },
+            {
+                "choice": "aided true learning",
+                "key": "C"
+            },
+            {
+                "choice": "supported the humanists",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The author's attitude to secondary and public school education in the sciences is",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "ambivalent",
+                "key": "A"
+            },
+            {
+                "choice": "neutral",
+                "key": "B"
+            },
+            {
+                "choice": "supportive",
+                "key": "C"
+            },
+            {
+                "choice": "Contemptuous",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The word palpably (line 24) most nearly means",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "empirically",
+                "key": "A"
+            },
+            {
+                "choice": "obviously",
+                "key": "B"
+            },
+            {
+                "choice": "tentatively",
+                "key": "C"
+            },
+            {
+                "choice": "markedly",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The author blames all of the following for the failure to impart scientific method through the education system except",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "poor teaching",
+                "key": "A"
+            },
+            {
+                "choice": "examination methods",
+                "key": "B"
+            },
+            {
+                "choice": "lack of direct experience",
+                "key": "C"
+            },
+            {
+                "choice": "lack of interest on the part of students",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If the author were to study current education in science to see how things have changed since he wrote the piece, he would probably be most interested in the answer to which of the following questions?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Do students know more about the world about them?",
+                "key": "A"
+            },
+            {
+                "choice": "Do students spend more time in laboratories?",
+                "key": "B"
+            },
+            {
+                "choice": "Can students apply their knowledge logically?",
+                "key": "C"
+            },
+            {
+                "choice": "Have textbooks improved?",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "Astrology (line 31) is mentioned as an example of",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "A science that needs to be better understood",
+                "key": "A"
+            },
+            {
+                "choice": "a belief which no educated people hold",
+                "key": "B"
+            },
+            {
+                "choice": "something unsupportable to those who have absorbed the methods of science",
+                "key": "C"
+            },
+            {
+                "choice": "the gravest danger to society",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "All of the following can be inferred from the text except",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "at the time of writing, not all children received a secondary school education",
+                "key": "A"
+            },
+            {
+                "choice": "the author finds chemical reactions interesting",
+                "key": "B"
+            },
+            {
+                "choice": "science teaching has imparted some knowledge of facts to some children",
+                "key": "C"
+            },
+            {
+                "choice": "it is relatively easy to learn scientific method.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"By the time a child is six or seven she has all the essential",
+    	"avoidances well enough by heart to be trusted with the care of a",
+    	"younger child. And she also develops a number of simple",
+    	"techniques. She learns to weave firm square balls from palm",
+	"5   leaves, to make pinwheels of palm leaves or frangipani blossoms,",
+    	"to climb a coconut tree by walking up the trunk on flexible little",
+    	"feet, to break open a coconut with one firm well-directed blow of",
+    	"a knife as long as she is tall, to play a number of group games",
+    	"and sing the songs which go with them, to tidy the house by",
+	"10  picking up the litter on the stony floor, to bring water from the",
+    	"sea, to spread out the copra to dry and to help gather it in when",
+    	"rain threatens, to go to a neighboring house and bring back a",
+    	"lighted faggot for the chief's pipe or the cook-house fire.",
+	    "But in the case of the little girls all these tasks are merely",
+	"15  supplementary to the main business of baby-tending. Very small",
+    	"boys also have some care of the younger children, but at eight or",
+    	"nine years of age they are usually relieved of it. Whatever rough",
+    	"edges have not been smoothed off by this responsibility for",
+    	"younger children are worn off by their contact with older boys.",
+	"20  For little boys are admitted to interesting and important activities",
+    	"only so long as their behavior is circumspect and helpful. Where",
+    	"small girls are brusquely pushed aside, small boys will be",
+    	"patiently tolerated and they become adept at making themselves",
+    	"useful. The four or five little boys who all wish to assist at the",
+	"25  important, business of helping a grown youth lasso reef eels,",
+    	"organize themselves into a highly efficient working team; one boy",
+    	"holds the bait, another holds an extra lasso, others poke",
+    	"eagerly about in holes in the reef looking for prey, while still",
+    	"another tucks the captured eels into his lavalava. The small girls,",
+	"30  burdened with heavy babies or the care of little staggerers who are",
+    	"too small to adventure on the reef, discouraged by the hostility",
+    	"of the small boys and the scorn of the older ones, have",
+    	"little opportunity for learning the more adventurous forms of work",
+    	"and play. So while the little boys first undergo the",
+	"35  chastening effects of baby-tending and then have many",
+		"opportunities to learn effective cooperation under the supervision",
+    	"of older boys, the girls' education is less comprehensive. They",
+    	"have a high standard of individual responsibility, but the",
+    	"community provides them with no lessons in cooperation with one",
+	"40  another. This is particularly apparent in the activities of young",
+    	"people: the boys organize quickly; the girls waste hours in",
+		" bickering, innocent of any technique for quick and efficient",
+		" cooperation.",
+        "question": "The primary purpose of the passage with reference to the society under discussion is to",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "explain some differences in the upbringing of girls and boys",
+                "key": "A"
+            },
+            {
+                "choice": "criticize the deficiencies in the education of girls",
+                "key": "B"
+            },
+            {
+                "choice": "give a comprehensive account of a day in the life of an average young girl",
+                "key": "C"
+            },
+            {
+                "choice": "delineate the role of young girls",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The word 'brusquely' (line 22) most nearly means",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "quickly",
+                "key": "A"
+            },
+            {
+                "choice": "gently",
+                "key": "B"
+            },
+            {
+                "choice": "nonchalantly",
+                "key": "C"
+            },
+            {
+                "choice": "abruptly",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The list of techniques in paragraph one could best be described as",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "household duties",
+                "key": "A"
+            },
+            {
+                "choice": "rudimentary physical skills",
+                "key": "B"
+            },
+            {
+                "choice": "important responsibilities",
+                "key": "C"
+            },
+            {
+                "choice": "useful social skills",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "What is the average of A,B,C?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "ABC/3",
+                "key": "A"
+            },
+            {
+                "choice": "(A+B+C)/.3",
+                "key": "B"
+            },
+            {
+                "choice": "3(A+B+C)",
+                "key": "C"
+            },
+            {
+                "choice": "ABC/A+B+C",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Which of the following has the LEAST numerical value?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "11/12",
+                "key": "A"
+            },
+            {
+                "choice": "6/8",
+                "key": "B"
+            },
+            {
+                "choice": "5/7",
+                "key": "C"
+            },
+            {
+                "choice": "3/4",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If 2 apples cost P25.00, how much apples can be purchased for P100.00?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "8 apples",
+                "key": "A"
+            },
+            {
+                "choice": "1/2 dozen",
+                "key": "B"
+            },
+            {
+                "choice": "2 dozen",
+                "key": "C"
+            },
+            {
+                "choice": "1 1/2 dozen",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If 2 tablespoons = 1 liquid oz, and 5 tablespoon = 1?4 cup, then, How many liquid ounces are there in one cup?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "4 ounces",
+                "key": "A"
+            },
+            {
+                "choice": "8 ounces",
+                "key": "B"
+            },
+            {
+                "choice": "16 ounces",
+                "key": "C"
+            },
+            {
+                "choice": "none of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "2 is what percent of 5?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "25%",
+                "key": "A"
+            },
+            {
+                "choice": "38%",
+                "key": "B"
+            },
+            {
+                "choice": "40%",
+                "key": "C"
+            },
+            {
+                "choice": "35%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Five (5) average office workers earn a total average monthly salary of P10,000. If the average monthly salary of two of these workers P4,000.00 what is the average monthly income of each of the remaining three workers?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "P6,000.00",
+                "key": "A"
+            },
+            {
+                "choice": "2,000.00",
+                "key": "B"
+            },
+            {
+                "choice": "2,500.00",
+                "key": "C"
+            },
+            {
+                "choice": "none of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many hectares are there in a field measuring 980m wide and 1,300m long?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "120 ha",
+                "key": "A"
+            },
+            {
+                "choice": "128 ha",
+                "key": "B"
+            },
+            {
+                "choice": "115 ha",
+                "key": "C"
+            },
+            {
+                "choice": "174.4 ha",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "3.54 is multiplied by 10 to the fifth power, what would be the value?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "3.054",
+                "key": "A"
+            },
+            {
+                "choice": "30.54",
+                "key": "B"
+            },
+            {
+                "choice": "305.40",
+                "key": "C"
+            },
+            {
+                "choice": "354,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If the short hand of the clock is at 4, what us the degree of its' angle?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "90",
+                "key": "A"
+            },
+            {
+                "choice": "120",
+                "key": "B"
+            },
+            {
+                "choice": "130",
+                "key": "C"
+            },
+            {
+                "choice": "159",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "There are two numbers whose sum is 48. One of the numbers is greater by 6. What are the numbers?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "23,24",
+                "key": "A"
+            },
+            {
+                "choice": "21,27",
+                "key": "B"
+            },
+            {
+                "choice": "22,26",
+                "key": "C"
+            },
+            {
+                "choice": "20,28",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Add: 17 5/8 + 21 3?4 = ?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "38 3/8",
+                "key": "A"
+            },
+            {
+                "choice": "39 3/8",
+                "key": "B"
+            },
+            {
+                "choice": "39 4/8",
+                "key": "C"
+            },
+            {
+                "choice": "38 4/8",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "My uncle's weights two times that of my nephew. My aunt's weight is half that of my nephew. What is the total weight of the three? Which of the following formulae will apply for the correct answer?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "x3+ 2 1/2",
+                "key": "A"
+            },
+            {
+                "choice": "1/2 + 3x",
+                "key": "B"
+            },
+            {
+                "choice": "(2x) + (x) + (1/2x)",
+                "key": "C"
+            },
+            {
+                "choice": "2x + 1/2 x2",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "2 3/4 of P100 is equal to",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "6/4 x 100",
+                "key": "A"
+            },
+            {
+                "choice": "11/4 x 100",
+                "key": "B"
+            },
+            {
+                "choice": "11/4 + 100",
+                "key": "C"
+            },
+            {
+                "choice": "6/4 + 100",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following fraction is < than 1/3?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "22/13",
+                "key": "A"
+            },
+            {
+                "choice": "15/26",
+                "key": "B"
+            },
+            {
+                "choice": "4/11",
+                "key": "C"
+            },
+            {
+                "choice": "33/98",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In 1 1/2 hours, the minute hand of a clock rotates through an angle of how many degrees?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "60",
+                "key": "A"
+            },
+            {
+                "choice": "90",
+                "key": "B"
+            },
+            {
+                "choice": "180",
+                "key": "C"
+            },
+            {
+                "choice": "540",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When the fractions 2/3, 5/7, 8/11 and 9/13 are arranged in an ascending order, the result would be?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "8/11, 5/7, 9/13, 2/3",
+                "key": "A"
+            },
+            {
+                "choice": "5/7, 8/11, 2/3, 9/13",
+                "key": "B"
+            },
+            {
+                "choice": "2/3, 8/11, 5/7, 9/13",
+                "key": "C"
+            },
+            {
+                "choice": "2/3, 9/13, 5/7, 8/11",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "ADD: 48.63 + 96.28 + 436.45 + .2385 = ?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "581.60",
+                "key": "A"
+            },
+            {	
+                "choice": "581.5685",
+                "key": "B"
+            },
+            {
+                "choice": "581.5990",
+                "key": "C"
+            },
+            {
+                "choice": "581.5986",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "15 is 20% of what number?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "75",
+                "key": "A"
+            },
+            {
+                "choice": "78",
+                "key": "B"
+            },
+            {
+                "choice": "80",
+                "key": "C"
+            },
+            {
+                "choice": "70",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "7 is 5 percent of what number?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "120",
+                "key": "A"
+            },
+            {
+                "choice": "125",
+                "key": "B"
+            },
+            {
+                "choice": "145",
+                "key": "C"
+            },
+            {
+                "choice": "140",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ratio of two numbers is 5:3 and their difference is 20. What are the numbers?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "50,30",
+                "key": "A"
+            },
+            {
+                "choice": "55,35",
+                "key": "B"
+            },
+            {
+                "choice": "40,60",
+                "key": "C"
+            },
+            {
+                "choice": "45,65",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ratio of two numbers is 16:33. The larger number is 264. What is the smaller number?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "131",
+                "key": "A"
+            },
+            {
+                "choice": "130",
+                "key": "B"
+            },
+            {
+                "choice": "129",
+                "key": "C"
+            },
+            {
+                "choice": "128",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "3/4 of 100 is equal to 5 times what number?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "10",
+                "key": "A"
+            },
+            {
+                "choice": "25",
+                "key": "B"
+            },
+            {
+                "choice": "75",
+                "key": "C"
+            },
+            {
+                "choice": "None of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the smallest positive number which, when divide by 3,4 or 5,will leave a remainder of 2?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "42",
+                "key": "A"
+            },
+            {
+                "choice": "22",
+                "key": "B"
+            },
+            {
+                "choice": "62",
+                "key": "C"
+            },
+            {
+                "choice": "122",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following number has the largest numerical value",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "(3+3+3) to 3rd power",
+                "key": "A"
+            },
+            {
+                "choice": "(3x3) to 3rd power",
+                "key": "B"
+            },
+            {
+                "choice": "(4x3x3)to 2nd power",
+                "key": "C"
+            },
+            {
+                "choice": "3 cube + 3 square",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Eight percent of 36 is 72% of what number?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "2.06",
+                "key": "A"
+            },
+            {
+                "choice": "2.88",
+                "key": "B"
+            },
+            {
+                "choice": "3.24",
+                "key": "C"
+            },
+            {
+                "choice": "4",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following has the greatest value?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "6/10",
+                "key": "A"
+            },
+            {
+                "choice": "8/12",
+                "key": "B"
+            },
+            {
+                "choice": "17/24",
+                "key": "C"
+            },
+            {
+                "choice": "7/9",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " If 25% of 50% of 80 is 10, then 1?4 of 5/10 of 80 is:",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "40",
+                "key": "A"
+            },
+            {
+                "choice": "20",
+                "key": "B"
+            },
+            {
+                "choice": "7/24",
+                "key": "C"
+            },
+            {
+                "choice": "9/14",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What number is 35 more than 70?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "105",
+                "key": "A"
+            },
+            {
+                "choice": "135",
+                "key": "B"
+            },
+            {
+                "choice": "170",
+                "key": "C"
+            },
+            {
+                "choice": "185",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The number is 15 less7; when added to ten, what will the number be?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "28",
+                "key": "A"
+            },
+            {
+                "choice": "18",
+                "key": "B"
+            },
+            {
+                "choice": "17",
+                "key": "C"
+            },
+            {
+                "choice": "15",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is -2+(-3.1)+(-02)",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "-.512",
+                "key": "A"
+            },
+            {
+                "choice": "5.012",
+                "key": "B"
+            },
+            {
+                "choice": "0.512",
+                "key": "C"
+            },
+            {
+                "choice": "-5.122",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "square root of 5 is a rational number",
+                "key": "A"
+            },
+            {
+                "choice": "0 is a positive number",
+                "key": "B"
+            },
+            {
+                "choice": "square root of 3 is a rational number",
+                "key": "C"
+            },
+            {
+                "choice": "square root of 4 is a rational number",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The thousandths digit of the number 1,234.5678 is ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "1",
+                "key": "A"
+            },
+            {
+                "choice": "7",
+                "key": "B"
+            },
+            {
+                "choice": "8",
+                "key": "C"
+            },
+            {
+                "choice": "5",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "(4)(-6) + (12x3) = ________",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "10",
+                "key": "A"
+            },
+            {
+                "choice": "12",
+                "key": "B"
+            },
+            {
+                "choice": "14",
+                "key": "C"
+            },
+            {
+                "choice": "15",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The difference between gross profit and cost of goods sold is known as ________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "markdown",
+                "key": "A"
+            },
+            {
+                "choice": "discount",
+                "key": "B"
+            },
+            {
+                "choice": "net profit",
+                "key": "C"
+            },
+            {
+                "choice": "invoice price",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Julius has P15,000 in the bank. After a year, he expects it to earn P750. What is the rate of interest?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "2%",
+                "key": "A"
+            },
+            {
+                "choice": "4%",
+                "key": "B"
+            },
+            {
+                "choice": "5%",
+                "key": "C"
+            },
+            {
+                "choice": "6%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The greatest common divisor of 91, 39 and 78 is ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "24",
+                "key": "A"
+            },
+            {
+                "choice": "13",
+                "key": "B"
+            },
+            {
+                "choice": "39",
+                "key": "C"
+            },
+            {
+                "choice": "91",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The property of real numbers which describes (5+6)-3 = 3+(5+6) is ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Commutative",
+                "key": "A"
+            },
+            {
+                "choice": "Associative ",
+                "key": "B"
+            },
+            {
+                "choice": "Distributive",	
+                "key": "C"
+            },
+            {
+                "choice": "Reflexive",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is proportion?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "5:4 = 15:12",
+                "key": "A"
+            },
+            {
+                "choice": "8:3 = 16:9",
+                "key": "B"
+            },
+            {
+                "choice": "4:5 = 12:10",
+                "key": "C"
+            },
+            {
+                "choice": "1/2:7 = 5:2",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "After receiving a 30% discount, Jay paid P210.00 for an item. What is the regular price of the item?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "P300",
+                "key": "A"
+            },
+            {
+                "choice": "P350",
+                "key": "B"
+            },
+            {
+                "choice": "P380",
+                "key": "C"
+            },
+            {
+                "choice": "P400",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Peter borrowed 15,000 from the bank at the rate of 12% per year. How much will he owe the bank after 1.5 years?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "P16,000",
+                "key": "A"
+            },
+            {
+                "choice": "P16,7",
+                "key": "B"
+            },
+            {
+                "choice": "P17,000",
+                "key": "C"
+            },
+            {
+                "choice": "P17,700",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "1/8 in percent is ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "10.5%",
+                "key": "A"
+            },
+            {
+                "choice": "12.5%",
+                "key": "B"
+            },
+            {
+                "choice": "14.5%",
+                "key": "C"
+            },
+            {
+                "choice": "16.5%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "John invested P5,000 in a certain business. How much will his money be in 2 years if it earns 12% interest in a year?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "P6,000",
+                "key": "A"
+            },
+            {
+                "choice": "P6,100",
+                "key": "B"
+            },
+            {
+                "choice": "P6,200",
+                "key": "C"
+            },
+            {
+                "choice": "P6,300",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What do you call an equality of 2 ratios?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "quotient",
+                "key": "A"
+            },
+            {
+                "choice": "fraction",
+                "key": "B"
+            },
+            {
+                "choice": "percentage",
+                "key": "C"
+            },
+            {
+                "choice": "proportion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The number of hours spent for review in Algebra, Chemistry and English is in the ratio of 4:3:1. How many hours does each student spend for Chemistry in a 24-hour review package?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "3",
+                "key": "A"
+            },
+            {
+                "choice": "6",
+                "key": "B"
+            },
+            {
+                "choice": "9",
+                "key": "C"
+            },
+            {
+                "choice": "12",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the value of 3.5 kilograms in grams?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "35",
+                "key": "A"
+            },
+            {
+                "choice": "350",
+                "key": "B"
+            },
+            {
+                "choice": "3,500",
+                "key": "C"
+            },
+            {
+                "choice": "35,000",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "The least common multiple of 18 and 24 is ________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "6",
+                "key": "A"
+            },
+            {
+                "choice": "24",
+                "key": "B"
+            },
+            {
+                "choice": "36",
+                "key": "C"
+            },
+            {
+                "choice": "72",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "How many pieces of 7 1/2 inches wire can be cut from a 31 1/4 ft roll of wire?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "5",
+                "key": "A"
+            },
+            {
+                "choice": "10",
+                "key": "B"
+            },
+            {
+                "choice": "25",
+                "key": "C"
+            },
+            {
+                "choice": "50",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What do you call a triangle with equal sides?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "scalene",
+                "key": "A"
+            },
+            {
+                "choice": "equilateral",
+                "key": "B"
+            },
+            {
+                "choice": "isosceles",
+                "key": "C"
+            },
+            {
+                "choice": "right",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many centimeters are there in 100 millimeters?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "0.1",
+                "key": "A"
+            },
+            {
+                "choice": "1",
+                "key": "B"
+            },
+            {
+                "choice": "10",
+                "key": "C"
+            },
+            {
+                "choice": "100",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A ball is drawn at random from a box containing 3 red balls, 4 white balls and 5 blue balls. What is the probability that it is not blue?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "1/4",
+                "key": "A"
+            },
+            {
+                "choice": "1/2",
+                "key": "B"
+            },
+            {
+                "choice": "7/12",
+                "key": "C"
+            },
+            {
+                "choice": "1",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

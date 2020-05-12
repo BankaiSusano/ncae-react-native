@@ -1,0 +1,1109 @@
+[
+    {
+        "question": "In facial, make-up foundation serves as make-up base. What is the type of foundation recommended for dry skin?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "cake",
+                "key": "A"
+            },
+            {
+                "choice": "cream",
+                "key": "B"
+            },
+            {
+                "choice": "liquid",
+                "key": "C"
+            },
+            {
+                "choice": "stick",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "The purpose of thinning the hair is to remove its excess bilk without shortening its length. What is the best shear to use for thinning bulky hair?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "all purpose shear",
+                "key": "A"
+            },
+            {
+                "choice": "clipping shear",
+                "key": "B"
+            },
+            {
+                "choice": "razor",
+                "key": "C"
+            },
+            {
+                "choice": "thinning shear",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The process of thinning, tapering and shortening of the hair is called:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "hair cutting",
+                "key": "A"
+            },
+            {
+                "choice": "hair drying",
+                "key": "B"
+            },
+            {
+                "choice": "hair setting",
+                "key": "C"
+            },
+            {
+                "choice": "hair styling",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Make-up is applied to the face for the purpose of improving its appearance. To give color to the cheeks, which of the following should be applied?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Eye shadow",
+                "key": "A"
+            },
+            {
+                "choice": "Lipstick",
+                "key": "B"
+            },
+            {
+                "choice": "Mascara",
+                "key": "C"
+            },
+            {
+                "choice": "Rogue",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To correct misshaped eyebrows, it is best to use:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "depilatory",
+                "key": "A"
+            },
+            {
+                "choice": "eyebrow pencil",
+                "key": "B"
+            },
+            {
+                "choice": "electric clipper",
+                "key": "C"
+            },
+            {
+                "choice": "razor",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Arrange the following cosmetics in their order of use in applying make-up? I. Curl lash, II. Eyeliner, III. Eye shadow, IV. Mascara",
+					
+					
+					
+					
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "I, II, III, IV",
+                "key": "A"
+            },
+            {
+                "choice": "II, III, IV, I",
+                "key": "B"
+            },
+            {
+                "choice": "III, II, I, IV",
+                "key": "C"
+            },
+            {
+                "choice": "IV, I, II, III",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A make-up tool that makes eyelashes wavy is:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "blush on brush",
+                "key": "A"
+            },
+            {
+                "choice": "curl lash",
+                "key": "B"
+            },
+            {
+                "choice": "eye liner",
+                "key": "C"
+            },
+            {
+                "choice": "mascara",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A corrective make-up that makes small eyes appear bigger is:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "adding lines on the eyelids",
+                "key": "A"
+            },
+            {
+                "choice": "using dark colored eye shadow",
+                "key": "B"
+            },
+            {
+                "choice": "using light colored eye shadow",
+                "key": "C"
+            },
+            {
+                "choice": "using mascara",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "An emery board is used to shape the ________ of the nails.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "cuticle",
+                "key": "A"
+            },
+            {
+                "choice": "free edge",
+                "key": "B"
+            },
+            {
+                "choice": "lunula",
+                "key": "C"
+            },
+            {
+                "choice": "root of the nails",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "An orange wood stick is used to:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "apply oil on the nails",
+                "key": "A"
+            },
+            {
+                "choice": "remove excess cuticle remover",
+                "key": "B"
+            },
+            {
+                "choice": "remove excess nail polish around the nails",
+                "key": "C"
+            },
+            {
+                "choice": "remove stain on nails",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ability of the hair to absorb moisture whether the hair is coarse, medium or fine is:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "hair analysis",
+                "key": "A"
+            },
+            {
+                "choice": "hair elasticity",
+                "key": "B"
+            },
+            {
+                "choice": "hair porosity",
+                "key": "C"
+            },
+            {
+                "choice": "hair texture",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Foot cosmetics with tiny particles that helps remove stubborn dirt when giving foot spa is:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "foot balm",
+                "key": "A"
+            },
+            {
+                "choice": "foot scrub",
+                "key": "B"
+            },
+            {
+                "choice": "foot soak",
+                "key": "C"
+            },
+            {
+                "choice": "foot spray",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Arrange steps in cleaning the nails: I. Apply cuticle remover, II. Cut & file nails, III. Push cuticle, IV. Trim cuticle",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "I, III, II, IV",
+                "key": "A"
+            },
+            {
+                "choice": "II, I, III, IV",
+                "key": "B"
+            },
+            {
+                "choice": "III, I, IV, II",
+                "key": "C"
+            },
+            {
+                "choice": "I, III, IV, I",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "One best way of shaping the eyebrow with the use of shave is:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Depilation",
+                "key": "A"
+            },
+            {
+                "choice": "Epilation",
+                "key": "B"
+            },
+            {
+                "choice": "Threading",
+                "key": "C"
+            },
+            {
+                "choice": "Waxing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A heavy make-up is suitable for:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "casual affair",
+                "key": "A"
+            },
+            {
+                "choice": "evening affair",
+                "key": "B"
+            },
+            {
+                "choice": "picture affair",
+                "key": "C"
+            },
+            {
+                "choice": "night swimming",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The first cosmetic applied on the nail when applying nail polish is:",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "base coat",
+                "key": "A"
+            },
+            {
+                "choice": "colored nail polish",
+                "key": "B"
+            },
+            {
+                "choice": "cuticle remover",
+                "key": "C"
+            },
+            {
+                "choice": "top coat",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the proper term for the practice of dividing the hair into smaller, more workable pieces for the purpose of control?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Bunching",
+                "key": "A"
+            },
+            {	
+                "choice": "Spitting",
+                "key": "B"
+            },
+            {
+                "choice": "Sectioning",
+                "key": "C"
+            },
+            {
+                "choice": "Texturizing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A darker shade of eye color makes the natural color of the eye appear ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Lighter",
+                "key": "A"
+            },
+            {
+                "choice": "Darker",
+                "key": "B"
+            },
+            {
+                "choice": "Smaller",
+                "key": "C"
+            },
+            {
+                "choice": "Deeper",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Mariana would like to apply the principles she learned in corrective make-up to a friend whose lips are broad. Which should you not recommend?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "apply light color lipstick",
+                "key": "A"
+            },
+            {
+                "choice": "apply lip gloss",
+                "key": "B"
+            },
+            {
+                "choice": "use lip liner at the outer portions of the lips",
+                "key": "C"
+            },
+            {
+                "choice": "use lip liner on the inner lips",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The nail is composed mainly of:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Melanin",
+                "key": "A"
+            },
+            {
+                "choice": "Keratin",
+                "key": "B"
+            },
+            {
+                "choice": "Collagen",
+                "key": "C"
+            },
+            {
+                "choice": "Sebum",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Customer A is complaining and getting pushy about the pedicure service she received. If you were the pedicurist, what would you do?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Tell your customer to look for another pedicurist.",
+                "key": "A"
+            },
+            {
+                "choice": "Refrain from becoming emotional and continue working without being bothered by the complained",
+                "key": "B"
+            },
+            {
+                "choice": "Remain cool and calm, pleasant and professional.",
+                "key": "C"
+            },
+            {
+                "choice": "Ask for an apology, maintain professionalism and ask what she wants.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these is the first thing the pedicurist should do to avoid such situation?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Be courteous.",
+                "key": "A"
+            },
+            {
+                "choice": "Ask the customer what she wants for her toenails like the shape, color, etc.",
+                "key": "B"
+            },
+            {
+                "choice": "Decide you own design and styles.",
+                "key": "C"
+            },
+            {
+                "choice": "Proceed to the service right after customer A says that she wants pedicuring.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT desirable quality for effective client relation?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "emotional control",
+                "key": "A"
+            },
+            {
+                "choice": "positive approach",
+                "key": "B"
+            },
+            {
+                "choice": "good manners",
+                "key": "C"
+            },
+            {
+                "choice": "discussing personal life",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statement is NOT true?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Cosmetologist is one of the best advertisements for a salon",
+                "key": "A"
+            },
+            {
+                "choice": "Salon owners and managers do not consider appearance, personality and poise to be as important as technical knowledge and manual skills.",
+                "key": "B"
+            },
+            {
+                "choice": "The female cosmetologist should wear stylish shoes that fit and are comfortable at the end of a long day.",
+                "key": "C"
+            },
+            {
+                "choice": "All female stylists should have their hair done at least once a week and their hair should reflect the best workmanship of the salon",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The following are guidelines for good human relations and professional attitude, EXCEPT one:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Always greet a client by name with a pleasant tone of voice",
+                "key": "A"
+            },
+            {
+                "choice": "Show interest in the client's personal preferences.",
+                "key": "B"
+            },
+            {
+                "choice": "Make a good impression by wearing obtrusive jewelry to look at your best",
+                "key": "C"
+            },
+            {
+                "choice": "Be ethical in all your dealings with clients and others with whom you come in contact",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Lisa applied as public teacher. She doesn't have any experience for job interview. Could you please help her decide? What type of clothing will she wear?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Casual dress",
+                "key": "A"
+            },
+            {
+                "choice": "Sunday dress",
+                "key": "B"
+            },
+            {
+                "choice": "Business attire",
+                "key": "C"
+            },
+            {
+                "choice": "Party dress",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What type of make-up may she put on?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Corrective make-up",
+                "key": "A"
+            },
+            {
+                "choice": "Light make-up",
+                "key": "B"
+            },
+            {
+                "choice": "Heavy make-up",
+                "key": "C"
+            },
+            {
+                "choice": "Photographic make-up",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Miss T was invited as one of the principal sponsors in her best friend's daughter's wedding. She went to a salon to have hairstyle, makeup, manicure and pedicure. Miss T wants a neatly finished up style. Which of the following styles is best suited for her?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "French Twist Hairstyle",
+                "key": "A"
+            },
+            {
+                "choice": "Laced-up and Elegant Hairstyle",
+                "key": "B"
+            },
+            {
+                "choice": "Chignon",
+                "key": "C"
+            },
+            {
+                "choice": "Petal and Blooms Hairstyle",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following makeup does she need?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Day make-up",
+                "key": "A"
+            },
+            {
+                "choice": "Evening make-up",
+                "key": "B"
+            },
+            {
+                "choice": "Photographic make-up",
+                "key": "C"
+            },
+            {
+                "choice": "Theatrical/Fantasy make-up",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Miss T has short nails. What nail shape is best for her?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Round nail",
+                "key": "A"
+            },
+            {
+                "choice": "Oval nail",
+                "key": "B"
+            },
+            {
+                "choice": "Square nail",
+                "key": "C"
+            },
+            {
+                "choice": "Pointed nail",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these are implements?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "chair, manicure pillow, and finger bowl",
+                "key": "A"
+            },
+            {
+                "choice": "assorted colored polish, top coat, base coat, and cuticle remover",
+                "key": "B"
+            },
+            {
+                "choice": "cuticle pusher, nail brush, cuticle nipper, nail file and orange wood stick",
+                "key": "C"
+            },
+            {
+                "choice": " cotton, hand towel, antiseptic solution, alcohol, and nail polish remover",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these are cosmetics?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "cotton, hand towel, antiseptic solution, alcohol, and nail polish remover",
+                "key": "A"
+            },
+            {
+                "choice": "top coat, base coat, assorted colored polish and cuticle remover",
+                "key": "B"
+            },
+            {
+                "choice": "finger bowl, manicure pillow, and chair",
+                "key": "C"
+            },
+            {
+                "choice": "orange wood stick, cuticle pusher, cuticle nipper, nail file and nail brush",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these are equipment?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "cuticle remover, base coat, top coat, and assorted colored polish",
+                "key": "A"
+            },
+            {
+                "choice": "cuticle nipper, nail file, nail brush, orange wood stick and cuticle pusher",
+                "key": "B"
+            },
+            {
+                "choice": "hand towel, nail polish remover, and antiseptic solution",
+                "key": "C"
+            },
+            {
+                "choice": "manicure pillow, chair, and finger bowl",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these is the correct way to use cuticle nail file?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The pointed side is used to push back and moisten the cuticles",
+                "key": "A"
+            },
+            {
+                "choice": "The dull spade side is used to scrape and moisten the cuticles",
+                "key": "B"
+            },
+            {
+                "choice": "The pointed side is used to push back and remove the cuticles",
+                "key": "C"
+            },
+            {
+                "choice": "The dull spade side is used to push back and loosen the cuticles",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these is the correct way to use nail brush? Insert the ring finger and pinky in the nail brush handle and brush the nails with a _________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "downward motion from the base to the fingertips to clean the nails and fingers.",
+                "key": "A"
+            },
+            {
+                "choice": "sideward motion from the base to the fingertips to clean the nails and fingers",
+                "key": "B"
+            },
+            {
+                "choice": "upward motion from the base to the fingertips to clean the nails and fingers",
+                "key": "C"
+            },
+            {
+                "choice": "sawing motion from the base to the fingertips to clean the nails and fingers",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is created by allowing the nail to grow out straight and then filing the tip straight across at right angles with the rest of the nail plate?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "round nail",
+                "key": "A"
+            },
+            {
+                "choice": "square nail",
+                "key": "B"
+            },
+            {
+                "choice": "pointed nail",
+                "key": "C"
+            },
+            {
+                "choice": "oval nail",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Massage is part of manicuring and pedicuring services. When is a massage applied? Before _________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "removing old polish",
+                "key": "A"
+            },
+            {
+                "choice": "coloring polish",
+                "key": "B"
+            },
+            {
+                "choice": "base coat",	
+                "key": "C"
+            },
+            {
+                "choice": "top coat",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the last step in manicuring/pedicuring?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "apply top coat",
+                "key": "A"
+            },
+            {
+                "choice": "clean under free edge",
+                "key": "B"
+            },
+            {
+                "choice": "re-examine nails and cuticles",
+                "key": "C"
+            },
+            {
+                "choice": "dry fingertips",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these is an imaginative and artistic process of caring for the nails and toenails, involving special care and expertise for bringing out the best effects?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "nail tattoo",
+                "key": "A"
+            },
+            {
+                "choice": "nail art",
+                "key": "B"
+            },
+            {
+                "choice": "nail extender",
+                "key": "C"
+            },
+            {
+                "choice": "nail technician",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statement is CORRECT?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Adult fingernails grow at an average rate of 1/8 inch a month.",
+                "key": "A"
+            },
+            {
+                "choice": "Older people nail grow slowly than younger people",
+                "key": "B"
+            },
+            {
+                "choice": "Fingernails grow more easily than toenails.",
+                "key": "C"
+            },
+            {
+                "choice": "The rate of nail growth is greatest during winter",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is the technical term for nail?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Onyx",
+                "key": "A"
+            },
+            {
+                "choice": "Onychosis",
+                "key": "B"
+            },
+            {
+                "choice": "Onychology",
+                "key": "C"
+            },
+            {
+                "choice": "Keratin",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which refer to hand-held tools used in manicure which are durable and must be sanitized after use with each client?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Cosmetics",
+                "key": "A"
+            },
+            {
+                "choice": "Equipment",
+                "key": "B"
+            },
+            {
+                "choice": "Materials",
+                "key": "C"
+            },
+            {
+                "choice": "Implements",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following term refers to a light, continuous stroking movement applied with the fingers and palms in a slow and rhythmic manner?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "friction",
+                "key": "A"
+            },
+            {
+                "choice": "vibration",
+                "key": "B"
+            },
+            {
+                "choice": "petrissage",
+                "key": "C"
+            },
+            {
+                "choice": "effleurage",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It is not good to apply massage when a person has _________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "high blood pressure and heart condition",
+                "key": "A"
+            },
+            {
+                "choice": "mayoma and diabetic",
+                "key": "B"
+            },
+            {
+                "choice": "deliver a baby",
+                "key": "C"
+            },
+            {
+                "choice": "cancer",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If you are going to start a home service as a manicurist/pedicurist and your parents give you ?500.00 to start with, which equipment, implements, cosmetics and materials should you buy first? I. Nail cutter, nail pusher, cuticle nipper, assorted nail polish, base coat, and top coat, II. Solvent, lotion, cuticle oil, and nail art designs, III. Tray basket, emery board, orangewood stick, nail brush, nail file, and nail polish remover, IV. Finger bowl, manicure pillows, hand towel, antiseptic solution, and nail buffer",			
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "I only",
+                "key": "A"
+            },
+            {
+                "choice": "I and II",
+                "key": "B"
+            },
+            {
+                "choice": "I and III",
+                "key": "C"
+            },
+            {
+                "choice": "I and IV",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "In shaping the nails, what comes first?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Hold the client's finger between the thumb and the two fingers of the left hand",
+                "key": "A"
+            },
+            {
+                "choice": "Hold the file or emery board in the right hand and tilt it slightly so that filling is confined mainly to the underside of the free edge.",
+                "key": "B"
+            },
+            {
+                "choice": "Discuss with the client the nail shape best suited for him/her. File the nails at the left hand starting with the little finger and working towards the thumb.",
+                "key": "C"
+            },
+            {
+                "choice": "Shape the nails.",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Teacher F is a MAPEH teacher. Sometimes or most of the time she is exposed to the sunlight. What type of skin protection should she apply?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "face toners",
+                "key": "A"
+            },
+            {
+                "choice": "anti-aging body creams",
+                "key": "B"
+            },
+            {
+                "choice": "body mask",
+                "key": "C"
+            },
+            {
+                "choice": "SPF lotion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following drinks can she take to hydrate herself?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "soft drinks",
+                "key": "A"
+            },
+            {
+                "choice": "Gatorade",
+                "key": "B"
+            },
+            {
+                "choice": "cobra juice",
+                "key": "C"
+            },
+            {
+                "choice": "plain water",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which aids in maintaining face?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "face cleansers",
+                "key": "A"
+            },
+            {
+                "choice": "face toners",
+                "key": "B"
+            },
+            {
+                "choice": "face lotions",
+                "key": "C"
+            },
+            {
+                "choice": "face serums",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which part of the body is best for the color testing of a foundation?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "earlobe",
+                "key": "A"
+            },
+            {
+                "choice": "jawline",
+                "key": "B"
+            },
+            {
+                "choice": "nose",
+                "key": "C"
+            },
+            {
+                "choice": "cheek",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

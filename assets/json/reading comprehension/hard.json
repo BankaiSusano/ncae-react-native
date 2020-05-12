@@ -1,0 +1,1270 @@
+[
+    {
+    	"In the 16th century, an age of great marine and terrestrial exploration, Ferdinand Magellan led the first expedition to sail around the world. As a young Portuguese noble, he served the king of Portugal, but he became involved in the quagmire of political intrigue at court and lost the king's favor. After he was dismissed from service by the king of Portugal, he offered to serve the future Emperor Charles V of Spain.",
+		"A papal decree of 1493 had assigned all land in the New World west of 50 degrees W longitude to Spain and all the land east of that line to Portugal. Magellan offered to prove that the East Indies fell under Spanish authority. On September 20, 1519, Magellan set sail from Spain with five ships. More than a year later, one of these ships was exploring the topography of South America in search of a water route across the continent. This ship sank, but the remaining four ships searched along the southern peninsula of South America. Finally they found the passage they sought near 50 degrees S latitude. Magellan named this passage the Strait of All Saints, but today it is known as the Strait of Magellan.",
+		"One ship deserted while in this passage and returned to Spain, so fewer sailors were privileged to gaze at that first panorama of the Pacific Ocean. Those who remained crossed the meridian now known as the International Date Line in the early spring of 1521 after 98 days on the Pacific Ocean. During those long days at sea, many of Magellan's men died of starvation and disease.",
+		"Later, Magellan became involved in an insular conflict in the Philippines and was killed in a tribal battle. Only one ship and 17 sailors under the command of the Basque navigator Elcano survived to complete the westward journey to Spain and thus prove once and for all that the world is round, with no precipice at the edge.",
+        "question": "The 16th century was an age of great ______ exploration.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "cosmic",
+                "key": "A"
+            },
+            {
+                "choice": "land",
+                "key": "B"
+            },
+            {
+                "choice": "mental",
+                "key": "C"
+            },
+            {
+                "choice": "common man",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Magellan lost the favor of the king of Portugal when he became involved in a political ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "entanglement",
+                "key": "A"
+            },
+            {
+                "choice": "discussion",
+                "key": "B"
+            },
+            {
+                "choice": "negotiation",
+                "key": "C"
+            },
+            {
+                "choice": "problem",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Pope divided New World lands between Spain and Portugal according to their location on one side or the other of an imaginary geographical line 50 degrees west of Greenwich that extends in a _________ direction.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "north and south",
+                "key": "A"
+            },
+            {
+                "choice": "crosswise",
+                "key": "B"
+            },
+            {
+                "choice": "easterly",
+                "key": "C"
+            },
+            {
+                "choice": "south east",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "One of Magellan's ships explored the _________ of South America for a passage across the continent.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "coastline",
+                "key": "A"
+            },
+            {
+                "choice": "mountain range",
+                "key": "B"
+            },
+            {
+                "choice": "physical features",
+                "key": "C"
+            },
+            {
+                "choice": "islands",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Four of the ships sought a passage along a southern ______.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "coast",
+                "key": "A"
+            },
+            {
+                "choice": "inland",
+                "key": "B"
+            },
+            {
+                "choice": "body of land with water on three sides",
+                "key": "C"
+            },
+            {
+                "choice": "border",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The passage was found near 50 degrees S of ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Greenwich",
+                "key": "A"
+            },
+            {
+                "choice": "The equator",
+                "key": "B"
+            },
+            {
+                "choice": "Spain",
+                "key": "C"
+            },
+            {
+                "choice": "Portugal",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In the spring of 1521, the ships crossed the _______ now called the International Date Line.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "imaginary circle passing through the poles",
+                "key": "A"
+            },
+            {
+                "choice": "imaginary line parallel to the equator",
+                "key": "B"
+            },
+            {
+                "choice": "area",
+                "key": "C"
+            },
+            {
+                "choice": "land mass",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Marie Curie was one of the most accomplished scientists in history. Together with her husband, Pierre, she discovered radium, an element widely used for treating cancer, and studied uranium and other radioactive substances. Pierre and Marie's amicable collaboration later helped to unlock the secrets of the atom.",
+		"Marie was born in 1867 in Warsaw, Poland, where her father was a professor of physics. At an early age, she displayed a brilliant mind and a blithe personality. Her great exuberance for learning prompted her to continue with her studies after high school. She became disgruntled, however, when she learned that the university in Warsaw was closed to women. Determined to receive a higher education, she defiantly left Poland and in 1891 entered the Sorbonne, a French university, where she earned her master's degree and doctorate in physics.",
+		"Marie was fortunate to have studied at the Sorbonne with some of the greatest scientists of her day, one of whom was Pierre Curie. Marie and Pierre were married in 1895 and spent many productive years working together in the physics laboratory. A short time after they discovered radium, Pierre was killed by a horse-drawn wagon in 1906. Marie was stunned by this horrible misfortune and endured heartbreaking anguish. Despondently she recalled their close relationship and the joy that they had shared in scientific research. The fact that she had two young daughters to raise by herself greatly increased her distress.",
+		"Curie's feeling of desolation finally began to fade when she was asked to succeed her husband as a physics professor at the Sorbonne. She was the first woman to be given a professorship at the world-famous university. In 1911 she received the Nobel Prize in chemistry for isolating radium. Although Marie Curie eventually suffered a fatal illness from her long exposure to radium, she never became disillusioned about her work. Regardless of the consequences, she had dedicated herself to science and to revealing the mysteries of the physical world.",
+        "question": "The Curies' _________ collaboration helped to unlock the secrets of the atom.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "competitive",
+                "key": "A"
+            },
+            {
+                "choice": "courteous",
+                "key": "B"
+            },
+            {
+                "choice": "industrious",
+                "key": "C"
+            },
+            {
+                "choice": "chemistry",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Marie had a bright mind and a ______ personality.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "strong",
+                "key": "A"
+            },
+            {
+                "choice": "light hearted",
+                "key": "B"
+            },
+            {
+                "choice": "humorous",
+                "key": "C"
+            },
+            {
+                "choice": "strange",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When she learned that she could not attend the university in Warsaw, she felt _________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "hopeless",
+                "key": "A"
+            },
+            {
+                "choice": "annoyed",
+                "key": "B"
+            },
+            {
+                "choice": "depressed",
+                "key": "C"
+            },
+            {
+                "choice": "worried",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Marie _________ by leaving Poland and traveling to France to enter the Sorbonne.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "challenged authority",
+                "key": "A"
+            },
+            {
+                "choice": "showed intelligence",
+                "key": "B"
+            },
+            {
+                "choice": "behaved",
+                "key": "C"
+            },
+            {
+                "choice": "was distressed",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "_________ she remembered their joy together.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Dejectedly",
+                "key": "A"
+            },
+            {
+                "choice": "Worried",
+                "key": "B"
+            },
+            {
+                "choice": "Tearfully",
+                "key": "C"
+            },
+            {
+                "choice": "Happily",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Her _________ began to fade when she returned to the Sorbonne to succeed her husband.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "misfortune",
+                "key": "A"
+            },
+            {
+                "choice": "anger",
+                "key": "B"
+            },
+            {
+                "choice": "wretchedness",
+                "key": "C"
+            },
+            {
+                "choice": "disappointment",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Even though she became fatally ill from working with radium, Marie Curie was never _________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "troubled",
+                "key": "A"
+            },
+            {
+                "choice": "worried",
+                "key": "B"
+            },
+            {
+                "choice": "disappointed",
+                "key": "C"
+            },
+            {
+                "choice": "sorrowful",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Mount Vesuvius, a volcano located between the ancient Italian cities of Pompeii and Herculaneum, has received much attention because of its frequent and destructive eruptions. The most famous of these eruptions occurred in A.D. 79.",
+		"The volcano had been inactive for centuries. There was little warning of the coming eruption, although one account unearthed by archaeologists says that a hard rain and a strong wind had disturbed the celestial calm during the preceding night. Early the next morning, the volcano poured a huge river of molten rock down upon Herculaneum, completely burying the city and filling the harbor with coagulated lava.",
+		"Meanwhile, on the other side of the mountain, cinders, stone and ash rained down on Pompeii. Sparks from the burning ash ignited the combustible rooftops quickly. Large portions of the city were destroyed in the conflagration. Fire, however, was not the only cause of destruction. Poisonous sulfuric gases saturated the air. These heavy gases were not buoyant in the atmosphere and therefore sank toward the earth and suffocated people.",
+		"Over the years, excavations of Pompeii and Herculaneum have revealed a great deal about the behavior of the volcano. By analyzing data, much as a zoologist dissects an animal specimen, scientists have concluded that the eruption changed large portions of the area's geography. For instance, it turned the Sarno River from its course and raised the level of the beach along the Bay of Naples. Meteorologists studying these events have also concluded that Vesuvius caused a huge tidal wave that affected the world's climate.",
+		"In addition to making these investigations, archaeologists have been able to study the skeletons of victims by using distilled water to wash away the volcanic ash. By strengthening the brittle bones with acrylic paint, scientists have been able to examine the skeletons and draw conclusions about the diet and habits of the residents. Finally, the excavations at both Pompeii and Herculaneum have yielded many examples of classical art, such as jewelry made of bronze, which is an alloy of copper and tin. The eruption of Mount Vesuvius and its tragic consequences have provided everyone with a wealth of data about the effects that volcanoes can have on the surrounding area. Today, volcanologists can locate and predict eruptions, saving lives and preventing the destruction of other cities and cultures.",
+        "question": "Herculaneum and its harbor were buried under _________ lava.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "liquid",
+                "key": "A"
+            },
+            {
+                "choice": "solid",
+                "key": "B"
+            },
+            {
+                "choice": "flowing",
+                "key": "C"
+            },
+            {
+                "choice": "gas",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The poisonous gases were not _________ in the air.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "able to float",
+                "key": "A"
+            },
+            {
+                "choice": "visible",
+                "key": "B"
+            },
+            {
+                "choice": "able to evaporate",
+                "key": "C"
+            },
+            {
+                "choice": "invisible",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Scientists analyzed data about Vesuvius in the same way that a zoologist _________ a specimen.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "describes in detail",
+                "key": "A"
+            },
+            {	
+                "choice": "studies by cutting apart",
+                "key": "B"
+            },
+            {
+                "choice": "photographs",
+                "key": "C"
+            },
+            {
+                "choice": "chart",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "_________ have concluded that the volcanic eruption caused a tidal wave.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Scientists who study oceans",
+                "key": "A"
+            },
+            {
+                "choice": "Scientists who study atmospheric conditions",
+                "key": "B"
+            },
+            {
+                "choice": "Scientists who study ash",
+                "key": "C"
+            },
+            {
+                "choice": "Scientists who study animal behavior",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Scientists have used _________ water to wash away volcanic ash from the skeletons of victims.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "bottled",
+                "key": "A"
+            },
+            {
+                "choice": "volcanic",
+                "key": "B"
+            },
+            {
+                "choice": "purified",
+                "key": "C"
+            },
+            {
+                "choice": "sea",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Conflict had existed between Spain and England since the 1570s. England wanted a share of the wealth that Spain had been taking from the lands it had claimed in the Americas.",
+		"Elizabeth I, Queen of England, encouraged her staunch admiral of the navy, Sir Francis Drake, to raid Spanish ships and towns. Though these raids were on a small scale, Drake achieved dramatic success, adding gold and silver to England's treasury and diminishing Spain's supremacy.",
+		"Religious differences also caused conflict between the two countries. Whereas Spain was Roman Catholic, most of England had become Protestant. King Philip II of Spain wanted to claim the throne and make England a Catholic country again. To satisfy his ambition and also to retaliate against England's theft of his gold and silver, King Philip began to build his fleet of warships, the Spanish Armada, in January 1586.",
+		"Philip intended his fleet to be indestructible. In addition to building new warships, he marshaled 130 sailing vessels of all types and recruited more than 19,000 robust soldiers and 8,000 sailors. Although some of his ships lacked guns and others lacked ammunition, Philip was convinced that his Armada could withstand any battle with England.",
+		"The martial Armada set sail from Lisbon, Portugal, on May 9, 1588, but bad weather forced it back to port. The voyage resumed on July 22 after the weather became more stable.",
+		"The Spanish fleet met the smaller, faster, and more maneuverable English ships in battle off the coast of Plymouth, England, first on July 31 and again on August 2. The two battles left Spain vulnerable, having lost several ships and with its ammunition depleted. On August 7, while the Armada lay at anchor on the French side of the Strait of Dover, England sent eight burning ships into the midst of the Spanish fleet to set it on fire. Blocked on one side, the Spanish ships could only drift away, their crews in panic and disorder. Before the Armada could regroup, the English attacked again on August 8.",
+		"Although the Spaniards made a valiant effort to fight back, the fleet suffered extensive damage. During the eight hours of battle, the Armada drifted perilously close to the rocky coastline. At the moment when it seemed that the Spanish ships would be driven onto the English shore, the wind shifted, and the Armada drifted out into the North Sea. The Spaniards recognized the superiority of the English fleet and returned home, defeated.",
+        "question": "Sir Francis Drake added wealth to the treasury and diminished Spain's _________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "unlimited power",
+                "key": "A"
+            },
+            {
+                "choice": "unrestricted growth",
+                "key": "B"
+            },
+            {
+                "choice": "territory",
+                "key": "C"
+            },
+            {
+                "choice": "treaties",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "King Philip recruited many ______ soldiers and sailors.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "warlike",
+                "key": "A"
+            },
+            {
+                "choice": "strong",
+                "key": "B"
+            },
+            {
+                "choice": "accomplished",
+                "key": "C"
+            },
+            {
+                "choice": "timid",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ______ Armada set sail on May 9, 1588.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "complete",
+                "key": "A"
+            },
+            {
+                "choice": "warlike",
+                "key": "B"
+            },
+            {
+                "choice": "independent",
+                "key": "C"
+            },
+            {
+                "choice": "isolated",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The two battles left the Spanish fleet _________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "open to change",
+                "key": "A"
+            },
+            {
+                "choice": "triumphant",
+                "key": "B"
+            },
+            {
+                "choice": "open to attack",
+                "key": "C"
+            },
+            {
+                "choice": "defeated",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Armada was ______ on one side.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "closed off",
+                "key": "A"
+            },
+            {
+                "choice": "damaged",
+                "key": "B"
+            },
+            {
+                "choice": "alone",
+                "key": "C"
+            },
+            {
+                "choice": "circled",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The victory of the small Greek democracy of Athens over the mighty Persian Empire in 490 B.C. is one of the most famous events in history. Darius, king of the Persian Empire, was furious because Athens had interceded for the other Greek city-states in revolt against Persian domination. In anger the king sent an enormous army to defeat Athens. He thought it would take drastic steps to pacify the rebellious part of the empire.",
+		"Persia was ruled by one man. In Athens, however, all citizens helped to rule. Ennobled by this participation, Athenians were prepared to die for their city-state. Perhaps this was the secret of the remarkable victory at Marathon, which freed them from Persian rule. On their way to Marathon, the Persians tried to fool some Greek city-states by claiming to have come in peace. The frightened citizens of Delos refused to believe this. Not wanting to abet the conquest of Greece, they fled from their city and did not return until the Persians had left. They were wise, for the Persians next conquered the city of Eritrea and captured its people.",
+		"Tiny Athens stood alone against Persia. The Athenian people went to their sanctuaries. There they prayed for deliverance. They asked their gods to expedite their victory. The Athenians refurbished their weapons and moved to the plain of Marathon, where their little band would meet the Persians. At the last moment, soldiers from Plataea reinforced the Athenian troops.",
+		"The Athenian army attacked, and Greek citizens fought bravely. The power of the mighty Persians was offset by the love that the Athenians had for their city. Athenians defeated the Persians in both archery and hand combat. Greek soldiers seized Persian ships and burned them, and the Persians fled in terror. Herodotus, a famous historian, reports that 6,400 Persians died, compared to only 192 Athenians.",
+        "question": "Athens had _________ the other Greek city-states against the Persians.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "refused help to",
+                "key": "A"
+            },
+            {
+                "choice": "intervened on behalf of",
+                "key": "B"
+            },
+            {
+                "choice": "wanted to fight",
+                "key": "C"
+            },
+            {
+                "choice": "given orders for all to fight",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Darius took drastic steps to ________ the rebellious Athenians.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "weaken",
+                "key": "A"
+            },
+            {
+                "choice": "destroy",
+                "key": "B"
+            },
+            {
+                "choice": "calm",
+                "key": "C"
+            },
+            {
+                "choice": "irritate",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Their participation _________ to the Athenians.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "gave comfort",
+                "key": "A"
+            },
+            {
+                "choice": "gave honor",
+                "key": "B"
+            },
+            {
+                "choice": "gave strength",
+                "key": "C"
+            },
+            {
+                "choice": "gave fear",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The people of Delos did not want to ______ the conquest of Greece.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "end",
+                "key": "A"
+            },
+            {
+                "choice": "encourage",
+                "key": "B"
+            },
+            {
+                "choice": "think about",
+                "key": "C"
+            },
+            {
+                "choice": "daydream about",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The Athenians were _________ by some soldiers who arrived from Plataea.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "welcomed",
+                "key": "A"
+            },
+            {
+                "choice": "strengthened",
+                "key": "B"
+            },
+            {
+                "choice": "held",
+                "key": "C"
+            },
+            {
+                "choice": "captured",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"The Trojan War is one of the most famous wars in history. It is well known for the 10-year duration, for the heroism of a number of legendary characters, and for the Trojan horse. What may not be familiar, however, is the story of how the war began.",
+		"According to Greek myth, the strife between the Trojans and the Greeks started at the wedding of Peleus, King of Thessaly, and Thetis, a sea nymph. All of the gods and goddesses had been invited to the wedding celebration in Troy except Eris, goddess of discord. She had been omitted from the guest list because her presence always embroiled mortals and immortals alike in conflict.",
+		"To take revenge on those who had slighted her, Eris decided to cause a skirmish. Into the middle of the banquet hall, she threw a golden apple marked "for the most beautiful." All of the goddesses began to haggle over who should possess it. The gods and goddesses reached a stalemate when the choice was narrowed to Hera, Athena, and Aphrodite. Someone was needed to settle the controversy by picking a winner. The job eventually fell to Paris, son of King Priam of Troy, who was said to be a good judge of beauty. Paris did not have an easy job. Each goddess, eager to win the golden apple, tried aggressively to bribe him.",
+		" I'll grant you vast kingdoms to rule, promised Hera. Vast kingdoms are nothing in comparison with my gift, contradicted Athena. Choose me and I'll see that you win victory and fame in war. Aphrodite outdid her adversaries, however. She won the golden apple by offering Helen, daughter of Zeus and the most beautiful mortal in the land, to Paris. Paris, anxious to claim Helen, set off for Sparta in Greece.",
+		"Although Paris learned that Helen was married, he nevertheless accepted the hospitality of her husband, King Menelaus of Sparta. Therefore, Menelaus was outraged for a number of reasons when Paris departed, taking Helen and much of the king's wealth back to Troy. Menelaus collected his loyal forces and set sail for Troy to begin the war to reclaim Helen.",
+        "question": "Eris was known for _________ both mortals and immortals.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "scheming against",
+                "key": "A"
+            },
+            {
+                "choice": "creating conflict amongst",
+                "key": "B"
+            },
+            {
+                "choice": "feeling hostile toward",
+                "key": "C"
+            },
+            {
+                "choice": "ignoring",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Each goddess tried ______ to bribe Paris.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "boldly",
+                "key": "A"
+            },
+            {
+                "choice": "effectively",
+                "key": "B"
+            },
+            {
+                "choice": "secretly",
+                "key": "C"
+            },
+            {
+                "choice": "carefully",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Athena _________ Hera, promising Paris victory and fame in war.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "disregarded the statement of",
+                "key": "A"
+            },
+            {
+                "choice": "defeated",
+                "key": "B"
+            },
+            {
+                "choice": "agreed with",
+                "key": "C"
+            },
+            {
+                "choice": "restated the statement of",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"One of the most intriguing stories of the Russian Revolution concerns the identity of Anastasia, the youngest daughter of Czar Nicholas II. During his reign over Russia, the czar had planned to revoke many of the harsh laws established by previous czars. Some workers and peasants, however, clamored for more rapid social reform. In 1918, a group of these people known as Bolsheviks overthrew the government. On July 17 or 18, they murdered the czar and what was thought to be his entire family.",
+		"Although witnesses vouched that all the members of the czar's family had been executed, there were rumors suggesting that Anastasia had survived. Over the years, a number of women claimed to be Grand Duchess Anastasia. Perhaps the most famous claimant was Anastasia Tschaikovsky, who was also known as Anna Anderson.",
+		"In 1920, 18 months after the czar's execution, this terrified young woman was rescued from drowning in a Berlin river. She spent two years in a hospital, where she attempted to reclaim her health and shattered mind. The doctors and nurses thought that she resembled Anastasia and questioned her about her background. She disclaimed any connection with the czar's family. Eight years later, however, she claimed that she was Anastasia. She said that she had been rescued by two Russian soldiers after the czar and the rest of her family had been killed. Two brothers named Tschaikovsky had carried her into Romania. She had married one of the brothers, who had taken her to Berlin and left her there, penniless and without a vocation. Unable to invoke the aid of her mother's family in Germany, she had tried to drown herself.",
+		"During the next few years, scores of the czar's relatives, ex-servants, and acquaintances interviewed her. Many of these people said that her looks and mannerisms were evocative of the Anastasia that they had known. Her grandmother and other relatives denied that she was the real Anastasia, however.",
+		"Tired of being accused of fraud, Anastasia immigrated to the United States in 1928 and took the name Anna Anderson. She still wished to prove that she was Anastasia, though, and returned to Germany in 1933 to bring suit against her mother's family. There she declaimed to the court, asserting that she was indeed Anastasia and deserved her inheritance.",
+		"In 1957, the court decided that it could neither confirm nor deny Anastasia's identity. Although it will probably never be known whether this woman was the Grand Duchess Anastasia, her search to establish her identity has been the subject of numerous books, plays, and movies.",
+        "question": "Some Russian peasants and workers ______ for social reform.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "longed",
+                "key": "A"
+            },
+            {
+                "choice": "cried out",
+                "key": "B"
+            },
+            {
+                "choice": "begged",
+                "key": "C"
+            },
+            {
+                "choice": "hoped",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Witnesses ______ that all members of the czar's family had been executed.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "gave assurance",
+                "key": "A"
+            },
+            {
+                "choice": "thought",
+                "key": "B"
+            },
+            {
+                "choice": "hoped",
+                "key": "C"
+            },
+            {
+                "choice": "convinced some",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Tschaikovsky initially ______ any connection with the czar's family.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "denied",
+                "key": "A"
+            },
+            {
+                "choice": "stopped",
+                "key": "B"
+            },
+            {
+                "choice": "noted",
+                "key": "C"
+            },
+            {
+                "choice": "justified",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She was unable to ______ the aid of her relatives.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "locate",
+                "key": "A"
+            },
+            {
+                "choice": "speak about",
+                "key": "B"
+            },
+            {
+                "choice": "call upon",
+                "key": "C"
+            },
+            {
+                "choice": "identify",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In court she _________ maintaining that she was Anastasia and deserved her inheritance.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "finally appeared",
+                "key": "A"
+            },
+            {
+                "choice": "spoke forcefully",
+                "key": "B"
+            },
+            {
+                "choice": "gave testimony",	
+                "key": "C"
+            },
+            {
+                "choice": "gave evidence",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"King Louis XVI and Queen Marie Antoinette ruled France from 1774 to 1789, a time when the country was fighting bankruptcy. The royal couple did not let France's insecure financial situation limit their immoderate spending, however. Even though the minister of finance repeatedly warned the king and queen against wasting money, they continued to spend great fortunes on their personal pleasure. This lavish spending greatly enraged the people of France. They felt that the royal couple bought its luxurious lifestyle at the poor people's expense.",
+		"Marie Antoinette, the beautiful but exceedingly impractical queen, seemed uncaring about her subjects' misery. While French citizens begged for lower taxes, the queen embellished her palace with extravagant works of art. She also surrounded herself with artists, writers, and musicians, who encouraged the queen to spend money even more profusely.",
+		"While the queen's favorites glutted themselves on huge feasts at the royal table, many people in France were starving. The French government taxed the citizens outrageously. These high taxes paid for the entertainments the queen and her court so enjoyed. When the minister of finance tried to stop these royal spendthrifts, the queen replaced him. The intense hatred that the people felt for Louis XVI and Marie Antoinette kept building until it led to the French Revolution. During this time of struggle and violence (1789-1799), thousands of aristocrats, as well as the king and queen themselves, lost their lives at the guillotine. Perhaps if Louis XVI and Marie Antoinette had reined in their extravagant spending, the events that rocked France would not have occurred.",
+        "question": "The people surrounding the queen encouraged her to spend money ______.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "wisely",
+                "key": "A"
+            },
+            {
+                "choice": "abundantly",
+                "key": "B"
+            },
+            {
+                "choice": "carefully",
+                "key": "C"
+            },
+            {
+                "choice": "foolishly",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The minister of finance tried to curb these royal ______.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "aristocrats",
+                "key": "A"
+            },
+            {
+                "choice": "money wasters",
+                "key": "B"
+            },
+            {
+                "choice": "enemies",
+                "key": "C"
+            },
+            {
+                "choice": "individuals",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Many great inventions are initially greeted with ridicule and disbelief. The invention of the airplane was no exception. Although many people who heard about the first powered flight on December 17, 1903 were excited and impressed, others reacted with peals of laughter. The idea of flying an aircraft was repulsive to some people. Such people called Wilbur and Orville Wright, the inventors of the first flying machine, impulsive fools. Negative reactions, however, did not stop the Wrights. Impelled by their desire to succeed, they continued their experiments in aviation.",
+		"Orville and Wilbur Wright had always had a compelling interest in aeronautics and mechanics. As young boys they earned money by making and selling kites and mechanical toys. Later, they designed a newspaper-folding machine, built a printing press, and operated a bicycle-repair shop. In 1896, when they read about the death of Otto Lilienthal, the brothers' interest in flight grew into a compulsion.",
+		"Lilienthal, a pioneer in hang-gliding, had controlled his gliders by shifting his body in the desired direction. This idea was repellent to the Wright brothers, however, and they searched for more efficient methods to control the balance of airborne vehicles. In 1900 and 1901, the Wrights tested numerous gliders and developed control techniques. The brothers' inability to obtain enough lift power for the gliders almost led them to abandon their efforts.",
+		"After further study, the Wright brothers concluded that the published tables of air pressure on curved surfaces must be wrong. They set up a wind tunnel and began a series of experiments with model wings. Because of their efforts, the old tables were repealed in time and replaced by the first reliable figures for air pressure on curved surfaces. This work, in turn, made it possible for the brothers to design a machine that would fly. In 1903 the Wrights built their first airplane, which cost less than $1,000. They even designed and built their own source of propulsion-a lightweight gasoline engine. When they started the engine on December 17, the airplane pulsated wildly before taking off. The plane managed to stay aloft for 12 seconds, however, and it flew 120 feet.",
+		"By 1905, the Wrights had perfected the first airplane that could turn, circle, and remain airborne for half an hour at a time. Others had flown in balloons and hang gliders, but the Wright brothers were the first to build a full-size machine that could fly under its own power. As the contributors of one of the most outstanding engineering achievements in history, the Wright brothers are accurately called the fathers of aviation.",
+        "question": "The idea of flying an aircraft was ______ to some people.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "boring",
+                "key": "A"
+            },
+            {
+                "choice": "distasteful",
+                "key": "B"
+            },
+            {
+                "choice": "exciting",
+                "key": "C"
+            },
+            {
+                "choice": "needless",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"Mr. Harding was not a happy man as he walked down",
+    	"the palace pathway, and stepped out into the close. His",
+    	"position and pleasant house were a second time",
+		"gone from him; but that he could endure. He had been",
+	"5  schooled and insulted by a man young enough to be",
+    	"his son; but that he could put up with. He could even",
+    	"draw from the very injuries which had been inflicted",
+    	"on him some of that consolation which, we may",
+    	"believe, martyrs always receive from the injustice of",
+	"10  their own sufferings. He had admitted to his daughter",
+    	"that he wanted the comfort of his old home, and yet he",
+		"could have returned to his lodgings in the High Street,",
+    	"if not with exultation, at least with satisfaction, had",
+    	"that been all. But the venom of the chaplain's",
+	"15  harangue had worked into his blood, and sapped the",
+    	"life of his sweet contentment.",
+    	"'New men are carrying out new measures, and",
+    	"are carting away the useless rubbish of past centuries!'",
+    	"What cruel words these had been- and how often are",
+	"20  they now used with all the heartless cruelty of a",
+    	"Slope! A man is sufficiently condemned if it can only",
+    	"be shown that either in politics or religion he does not",
+    	"belong to some new school established within the last",
+    	"score of years. He may then regard himself as rubbish",
+	"25  and expect to be carted away. A man is nothing now",
+    	"unless he has within him a full appreciation of the",
+    	"new era; an era in which it would seem that neither",
+    	"honesty nor truth is very desirable, but in which",
+    	"success is the only touchstone of merit. We must",
+	"30  laugh at everything that is established. Let the joke be",
+    	"ever so bad, ever so untrue to the real principles of",
+    	"joking; nevertheless we must laugh - or else beware",
+    	"the cart. We must talk, think, and live up to the spirit",
+    	"of the times, or else we are nought. New men and new",
+	"35  measures, long credit and few scruples, great success",
+    	"or wonderful ruin, such are now the tastes of",
+    	"Englishmen who know how to live! Alas, alas! Under",
+    	"such circumstances Mr. Harding could not but feel",
+    	"that he was an Englishman who did not know how to",
+	"40  live. This new doctrine of Mr. Slope and the rubbish",
+    	"cart sadly disturbed his equanimity.",
+    	"'The same thing is going on throughout the",
+    	"whole country!' 'Work is now required from every",
+    	"man who receives wages!' And had he been living all",
+	"45  his life receiving wages, and doing no work? Had he",
+    	"in truth so lived as to be now in his old age justly",
+    	"reckoned as rubbish fit only to be hidden away in",
+    	"some huge dust-hole? The school of men to whom he",
+    	"professes to belong, the Grantlys, the Gwynnes, are",
+	"50  afflicted with no such self-accusations as these which",
+    	"troubled Mr. Harding. They, as a rule, are as satisfied",
+    	"with the wisdom and propriety of their own conduct",
+    	"as can be any Mr. Slope, or any Bishop with his own.",
+    	"But, unfortunately for himself, Mr. Harding had little",
+	"55  of this self-reliance. When he heard himself",
+    	"designated as rubbish by the Slopes of the world, he",
+    	"had no other resource than to make inquiry within his",
+    	"own bosom as to the truth of the designation. Alas,",
+    	"alas! the evidence seemed generally to go against him.",
+        "question": "It can be inferred that Mr Harding is especially disturbed because he",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "does not feel himself to be old",
+                "key": "A"
+            },
+            {
+                "choice": "is offended by the young man's impertinence",
+                "key": "B"
+            },
+            {
+                "choice": "believes no one else feels as he does",
+                "key": "C"
+            },
+            {
+                "choice": "feels there may be some truth in regarding himself as rubbish",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Mr. Harding differs from others of his school (line 49) because they",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "do not believe Slope",
+                "key": "A"
+            },
+            {
+                "choice": "have never been called rubbish",
+                "key": "B"
+            },
+            {
+                "choice": "are sure their conduct is irreproachable",
+                "key": "C"
+            },
+            {
+                "choice": "have already examined their consciences",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The tone of the sentence 'New men....live' (lines 34-37) is",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "objective",
+                "key": "A"
+            },
+            {
+                "choice": "ironic",
+                "key": "B"
+            },
+            {
+                "choice": "derogatory",
+                "key": "C"
+            },
+            {
+                "choice": "expository",
+                "key": "D"
+            }
+        ]
+    },
+    {
+    	"A stout old lady was walking with her basket down the middle of a",
+    	"street in Petrograd to the great confusion of the traffic and with no",
+    	"small peril to herself. It was pointed out to her that the",
+    	"pavement was the place for pedestrians, but she replied: 'I'm going",
+		"5   to walk where I like. We've got liberty now.' It did not occur",
+    	"to the dear old lady that if liberty entitled the pedestrian to",
+    	"walk down the middle of the road, then the end of such liberty",
+    	"would be universal chaos. Everybody would be getting in",
+    	"everybody else's way and nobody would get anywhere.",
+	"10  Individual liberty would have become social anarchy.",
+    	"There is a danger of the world getting liberty-drunk in",
+    	"these days like the old lady with the basket, and it is just as well",
+    	"to remind ourselves of what the rule of the road means. It means",
+    	"that in order that the liberties of all may be preserved, the",
+	"15  liberties of everybody must be curtailed. When the policeman,",
+    	"say, at Piccadilly Circus steps into the middle of the road and",
+    	"puts out his hand, he is the symbol not of tyranny, but of liberty.",
+    	"You may not think so. You may, being in a hurry, and seeing",
+    	"your car pulled up by this insolence of office, feel that your",
+	"20  liberty has been outraged. How dare this fellow interfere with",
+    	"your free use of the public highway? Then, if you are a",
+    	"reasonable person, you will reflect that if he did not interfere with",
+    	"you, he would interfere with no one, and the result would be that",
+    	"Piccadilly Circus would be a maelstrom that you would never",
+	"25  cross at all. You have submitted to a curtailment of private liberty",
+    	"in order that you may enjoy a social order which makes your",
+    	"liberty a reality.",
+    	"Liberty is not a personal affair only, but a social",
+		"contract. It is an accommodation of interests. In matters which do",
+	"30  not touch anybody else's liberty, of course, I may be as free as I",
+    	"like. If I choose to go down the road in a dressing-gown who",
+    	"shall say me nay? You have liberty to laugh at me, but I have",
+    	"liberty to be indifferent to you. And if I have a fancy for dyeing",
+    	"my hair, or waxing my moustache (which heaven forbid), or",
+	"35 wearing an overcoat and sandals, or going to bed late or getting",
+    	"up early, I shall follow my fancy and ask no man's permission. I",
+    	"shall not inquire of you whether I may eat mustard with my",
+    	"mutton. And you will not ask me whether you may follow this",
+    	"religion or that, whether you may prefer Ella Wheeler Wilcox to",
+	"40  Wordsworth, or champagne to shandy.",
+    	"In all these and a thousand other details you and I please",
+    	"ourselves and ask no one's leave. We have a whole kingdom in",
+    	"which we rule alone, can do what we choose, be wise or",
+    	"ridiculous, harsh or easy, conventional or odd. But directly we",
+	"45  step out of that kingdom, our personal liberty of action becomes",
+    	"qualified by other people's liberty. I might like to practice on the",
+    	"trombone from midnight till three in the morning. If I went on to",
+    	"the top of Everest to do it, I could please myself, but if I do it in",
+    	"my bedroom my family will object, and if I do it out in the streets",
+	"50  the neighbors will remind me that my liberty to blow the",
+    	"trombone must not interfere with their liberty to sleep in quiet.",
+    	"There are a lot of people in the world, and I have to",
+    	"accommodate my liberty to their liberties.",
+    	"We are all liable to forget this, and unfortunately we are much",
+	"55  more conscious of the imperfections of others in this respect than",
+    	"of our own. A reasonable consideration for the rights or feelings",
+    	"of others is the foundation of social conduct.",
+    	"It is in the small matters of conduct, in the observance of",
+    	"the rule of the road, that we pass judgment upon ourselves, and",
+	"60  declare that we are civilized or uncivilized. The great moments of",
+    	"heroism and sacrifice are rare. It is the little habits of",
+    	"commonplace intercourse that make up the great sum of life and",
+    	"sweeten or make bitter the journey.",
+        "question": "The author might have stated his rule of the road as",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "do not walk in the middle of the road",
+                "key": "A"
+            },
+            {
+                "choice": "follow the orders of policemen",
+                "key": "B"
+            },
+            {
+                "choice": "do not behave inconsiderately in public",
+                "key": "C"
+            },
+            {
+                "choice": "do what you like in private",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The authors attitude to the old lady in paragraph one is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "condescending",
+                "key": "A"
+            },
+            {
+                "choice": "intolerant",
+                "key": "B"
+            },
+            {
+                "choice": "objective",
+                "key": "C"
+            },
+            {
+                "choice": "Sardonic",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "The sentence It means....curtailed (lines 13-15) is an example of",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "hyperbole",
+                "key": "A"
+            },
+            {
+                "choice": "clich",
+                "key": "B"
+            },
+            {
+                "choice": "simile",
+                "key": "C"
+            },
+            {
+                "choice": "paradox",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Which sentence best sums up the authors main point?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "There is a danger....lines 11-13",
+                "key": "A"
+            },
+            {
+                "choice": "A reasonable.... lines 56-57",
+                "key": "B"
+            },
+            {
+                "choice": "It is in the small matters....lines 58-60",
+                "key": "C"
+            },
+            {
+                "choice": "The great moments....lines 60-61",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A situation analogous to the insolence of office described in paragraph 2 would be",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "a teacher correcting grammar errors",
+                "key": "A"
+            },
+            {
+                "choice": "an editor shortening the text of an article",
+                "key": "B"
+            },
+            {
+                "choice": "a tax inspector demanding to see someones accounts",
+                "key": "C"
+            },
+            {
+                "choice": "an army office giving orders to a soldier",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Qualified (line 46) most nearly means",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "accredited",
+                "key": "A"
+            },
+            {
+                "choice": "improved",
+                "key": "B"
+            },
+            {
+                "choice": "limited",
+                "key": "C"
+            },
+            {
+                "choice": "stymied",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The author assumes that he may be as free as he likes in",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "all matters of dress and food",
+                "key": "A"
+            },
+            {
+                "choice": "any situation which does not interfere with the liberty of others",
+                "key": "B"
+            },
+            {
+                "choice": "anything that is not against the law",
+                "key": "C"
+            },
+            {
+                "choice": "his own home",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

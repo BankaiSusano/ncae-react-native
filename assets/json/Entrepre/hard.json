@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "Jonas has sautéed some meat in the pan. There are some brown bits left on the bottom of the pan. While the pan was still on the stove, he added some white wine and scarped the bottom of the pan. What do you call the techniques just used?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Cleaning",
+                "key": "A"
+            },
+            {
+                "choice": "Deglazing",
+                "key": "B"
+            },
+            {
+                "choice": "Caramelizing",
+                "key": "C"
+            },
+            {
+                "choice": "Flambé",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Energy value is express in terms of calories which represents the chemical energy that released as heat when food is oxidized. Which nutrient has more than twice the calorie per gram?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Carbohydrates",
+                "key": "A"
+            },
+            {
+                "choice": "Protein",
+                "key": "B"
+            },
+            {
+                "choice": "Fat",
+                "key": "C"
+            },
+            {
+                "choice": "Minerals",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Food furnishes the body with the different nutrients it needs. Which of the following nutrients is needed as the main structural component of the body?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Carbohydrates",
+                "key": "A"
+            },
+            {
+                "choice": "Protein",
+                "key": "B"
+            },
+            {
+                "choice": "Fat",
+                "key": "C"
+            },
+            {
+                "choice": "Fiber",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Frostings are products that are closely associated with sugar. What kind of sugar is used primarily in the preparation of flat icings with butter cream?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "brown sugar",
+                "key": "A"
+            },
+            {
+                "choice": "refined sugar",
+                "key": "B"
+            },
+            {
+                "choice": "granulated sugar",
+                "key": "C"
+            },
+            {
+                "choice": "confectioner sugar",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Meats are considered rich in proteins. What kind of protein is found in connective tissue of meat that converts to gelatin when it is cooked?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Elastic",
+                "key": "A"
+            },
+            {
+                "choice": "Gluten",
+                "key": "B"
+            },
+            {
+                "choice": "Marbling",
+                "key": "C"
+            },
+            {
+                "choice": "Collagen",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these nutrients is an anti-oxidant?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Vitamin E",
+                "key": "A"
+            },
+            {
+                "choice": "Calcium",
+                "key": "B"
+            },
+            {
+                "choice": "Fiber",
+                "key": "C"
+            },
+            {
+                "choice": "Vitamin B12",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which cooking method destroys nutrients?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Boiling",
+                "key": "A"
+            },
+            {
+                "choice": "Roasting",
+                "key": "B"
+            },
+            {
+                "choice": "Slow cooking",
+                "key": "C"
+            },
+            {
+                "choice": "All of the above",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which food is the best source of thiamine?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Pork",
+                "key": "A"
+            },
+            {
+                "choice": "Milk",
+                "key": "B"
+            },
+            {
+                "choice": "Carrots",
+                "key": "C"
+            },
+            {
+                "choice": "Potatoes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What happens to carbohydrates that are not used right away as energy?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "They are stored in the body as fat.",
+                "key": "A"
+            },
+            {
+                "choice": "They are stored in the body as amino acids",
+                "key": "B"
+            },
+            {
+                "choice": "They circulate through the bloodstream until they are burned as fat.",
+                "key": "C"
+            },
+            {
+                "choice": "They are all used immediately as energy.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "All of these are good sources of Vitamin C. Which one has the most vitamin C?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "1 cup of sliced strawberries",
+                "key": "A"
+            },
+            {
+                "choice": "1 cup of chopped green chili peppers",
+                "key": "B"
+            },
+            {
+                "choice": "1 cup of orange sections",
+                "key": "C"
+            },
+            {
+                "choice": "1 cup of diced tomatoes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Saturated fats raise the cholesterol level in our bloodstream. Saturated fats can be found in?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Olives",
+                "key": "A"
+            },
+            {
+                "choice": "Beans",
+                "key": "B"
+            },
+            {
+                "choice": "Movie theater popcorn",
+                "key": "C"
+            },
+            {
+                "choice": "Fish",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Water boils at 212 degrees. What does rolling boil means? The bubbles are:",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "rolling non-stop",
+                "key": "A"
+            },
+            {
+                "choice": "forming rapidly and cannot be stopped when stirred",
+                "key": "B"
+            },
+            {
+                "choice": "forming slowly and can be stopped when stirred",
+                "key": "C"
+            },
+            {
+                "choice": "spilling out of a container",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following ingredients will use creaming method?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "butter, flour and egg",
+                "key": "A"
+            },
+            {
+                "choice": "flour, butter and egg",
+                "key": "B"
+            },
+            {
+                "choice": "butter, egg and sugar",
+                "key": "C"
+            },
+            {
+                "choice": "flour butter and sugar",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Onions when peeled or cut irritate the eyes and give biting sensations on the tongue. This is due to the presence of:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "sulfoxide",
+                "key": "A"
+            },
+            {
+                "choice": "sulfur compounds",
+                "key": "B"
+            },
+            {
+                "choice": "sodium nitrate",
+                "key": "C"
+            },
+            {
+                "choice": "mustard oil",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The practice of adding baking soda when cooking vegetables for the purpose of retaining the green color and the crispness should be avoided primarily because:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the flavor of the vegetable is modified",
+                "key": "A"
+            },
+            {
+                "choice": "vitamin C is destroyed in the presence of alkali",
+                "key": "B"
+            },
+            {
+                "choice": "they become less palatable",
+                "key": "C"
+            },
+            {
+                "choice": "they become hard to digest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To minimize meat shrinkage and retain much of its nutritive value, the best cooking temperature is?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "moist heat",
+                "key": "A"
+            },
+            {
+                "choice": "low to moderate heat",
+                "key": "B"
+            },
+            {
+                "choice": "high heat",
+                "key": "C"
+            },
+            {
+                "choice": "dry heat",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What does proofing mean?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Weighing the dough to make sure loaves are the same size.",
+                "key": "A"
+            },
+            {	
+                "choice": "Letting the yeast grow to produce carbon dioxide.",
+                "key": "B"
+            },
+            {
+                "choice": "Testing cakes for doneness",
+                "key": "C"
+            },
+            {
+                "choice": "Brushing risen loaves before baking with egg whites for a shiny glazed finish",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Why should eggs be beaten with the use of copper bowl? Copper bowl ________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "is special metal that makes egg fresher",
+                "key": "A"
+            },
+            {
+                "choice": "makes egg fluffy and moist",
+                "key": "B"
+            },
+            {
+                "choice": "keeps eggs fresh and firm",
+                "key": "C"
+            },
+            {
+                "choice": "has special property which stabilizes the eggs",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What do you call that pourable mixture of flour, liquid and other ingredients?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Dough",
+                "key": "A"
+            },
+            {
+                "choice": "Batter",
+                "key": "B"
+            },
+            {
+                "choice": "Cream",
+                "key": "C"
+            },
+            {
+                "choice": "Syrup",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which flour typically forms the most gluten?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "cake flour",
+                "key": "A"
+            },
+            {
+                "choice": "all purpose flour",
+                "key": "B"
+            },
+            {
+                "choice": "bread flour",
+                "key": "C"
+            },
+            {
+                "choice": "pastry flour",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Diana is cooking eggs for breakfast. She breaks the eggs one at a time into a dish and slide them into a hot water for about 3 to 5 minutes or unitl the whites are coagulated and yolks are still soft. What procedure in cooking eggs does she apply?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Boiling",
+                "key": "A"
+            },
+            {
+                "choice": "Poaching",
+                "key": "B"
+            },
+            {
+                "choice": "Simmering",
+                "key": "C"
+            },
+            {
+                "choice": "Blanching",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Every chef knows that mise enplace is the first step to a successful food preparation. This French term which means putting everything in place applies to ________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "throwing the garbage",
+                "key": "A"
+            },
+            {
+                "choice": "sautéing the spices",
+                "key": "B"
+            },
+            {
+                "choice": "creaming the butter",
+                "key": "C"
+            },
+            {
+                "choice": "pre-heating the oven",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Mixed vegetables are best when cooked very briefly by dipping the food into a boiling water until they are crisp-tender and then into cold water. This practice is called ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Blanching",
+                "key": "A"
+            },
+            {
+                "choice": "Baking",
+                "key": "B"
+            },
+            {
+                "choice": "Sautéing",
+                "key": "C"
+            },
+            {
+                "choice": "Steaming",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Pasta is cooked in boiling water with salt and oil for about 12 to 15 minutes or until al dente. Al dente is an Italian term which means ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "firm yet tender to the bite",
+                "key": "A"
+            },
+            {
+                "choice": "soft and soggy",
+                "key": "B"
+            },
+            {
+                "choice": "pleasant flavor",
+                "key": "C"
+            },
+            {
+                "choice": "crisp texture",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A student is preparing chicken macaroni salad as an appetizer dish. What will the student do for the cooked chicken?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "chop",
+                "key": "A"
+            },
+            {
+                "choice": "mince",
+                "key": "B"
+            },
+            {
+                "choice": "flake",
+                "key": "C"
+            },
+            {
+                "choice": "grate",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Food is more appetizing to the eye if small portions of colorful food such as celery, parsley and tomatoes are added to a dish to improve its appearance. Which of the term applied to the statement?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "glace",
+                "key": "A"
+            },
+            {
+                "choice": "garnish",
+                "key": "B"
+            },
+            {
+                "choice": "frosting",
+                "key": "C"
+            },
+            {
+                "choice": "decoration",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What vegetable cut is appropriate for potato in preparing menudo?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "slice",
+                "key": "A"
+            },
+            {
+                "choice": "mince",
+                "key": "B"
+            },
+            {
+                "choice": "julienne",
+                "key": "C"
+            },
+            {
+                "choice": "cubes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is a thickening agent made by the combination of 1 part melted butter and 1 part flour, cooked together?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Roux",
+                "key": "A"
+            },
+            {
+                "choice": "Roe",
+                "key": "B"
+            },
+            {
+                "choice": "Raw",
+                "key": "C"
+            },
+            {
+                "choice": "Row",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The food is prepared by skewing the meat, seasoned and brushed with oil, placed on greased grid and cooked over live coals. Which is referred to?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Broil",
+                "key": "A"
+            },
+            {
+                "choice": "Bake",
+                "key": "B"
+            },
+            {
+                "choice": "Barbeque",
+                "key": "C"
+            },
+            {
+                "choice": "Pan fry",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which term applies when eggs and cream are beaten rapidly until thick and stiff with a whisk to incorporate air and increase volume?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Creaming",
+                "key": "A"
+            },
+            {
+                "choice": "Whipping",
+                "key": "B"
+            },
+            {
+                "choice": "Blending",
+                "key": "C"
+            },
+            {
+                "choice": "Stirring",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To soak the meat or fish in a mixture of oil, vinegar and wine to add flavor and make it tender is to ________ it.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "marinade",
+                "key": "A"
+            },
+            {
+                "choice": "season",
+                "key": "B"
+            },
+            {
+                "choice": "dip",
+                "key": "C"
+            },
+            {
+                "choice": "marinate",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Working the dough by stretching and folding in a floured surface to obtain the required consistency is ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Beating",
+                "key": "A"
+            },
+            {
+                "choice": "Kneading",
+                "key": "B"
+            },
+            {
+                "choice": "Punching",
+                "key": "C"
+            },
+            {
+                "choice": "Folding",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following term may apply in cutting vegetables into thin match sticks size which are used to garnished dishes?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Mirepoix",
+                "key": "A"
+            },
+            {
+                "choice": "Macedoine",
+                "key": "B"
+            },
+            {
+                "choice": "Brunoise",
+                "key": "C"
+            },
+            {
+                "choice": "Julienne",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A 50g serving size of chiffon cake contains 3g fat, 22g carbohydrates and 3g protein. How many kcal are in a serving size of chiffon cake?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "117 kcal",
+                "key": "A"
+            },
+            {
+                "choice": "127 kcal",
+                "key": "B"
+            },
+            {
+                "choice": "137 kcal",
+                "key": "C"
+            },
+            {
+                "choice": "147 kcal",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Fat-soluble vitamins can easily be dissolved in fat. The following are examples of fat soluble vitamins, EXCEPT:",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Vitamin D",
+                "key": "A"
+            },
+            {
+                "choice": "Vitamin K",
+                "key": "B"
+            },
+            {
+                "choice": "Vitamin E",
+                "key": "C"
+            },
+            {
+                "choice": "Vitamin C",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The food pyramid illustrates the balance of foods needed for a healthy lifestyle. Fat, sugar, salt and alcohol are group under what classification?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Eat Least Food",
+                "key": "A"
+            },
+            {
+                "choice": "Eat Moderately Foods",
+                "key": "B"
+            },
+            {
+                "choice": "Eat All Foods",
+                "key": "C"
+            },
+            {
+                "choice": "Eat Most Foods",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The following are physiological functions of food, EXCEPT:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "give energy",
+                "key": "A"
+            },
+            {
+                "choice": "build and repair cells",
+                "key": "B"
+            },
+            {
+                "choice": "provide satisfaction",	
+                "key": "C"
+            },
+            {
+                "choice": "regulate body process",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "CHON is the chemical formula for ________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "carbohydrates",
+                "key": "A"
+            },
+            {
+                "choice": "protein",
+                "key": "B"
+            },
+            {
+                "choice": "fat",
+                "key": "C"
+            },
+            {
+                "choice": "minerals",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What vitamin deficiency is present when a person suffers from poor night vision or blindness?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Retinol",
+                "key": "A"
+            },
+            {
+                "choice": "Thiamine",
+                "key": "B"
+            },
+            {
+                "choice": "Niacin",
+                "key": "C"
+            },
+            {
+                "choice": "Folic acid",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What disease would result to a person who has an iron deficiency?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Cough and cold",
+                "key": "A"
+            },
+            {
+                "choice": "Nose bleed",
+                "key": "B"
+            },
+            {
+                "choice": "Anemia",
+                "key": "C"
+            },
+            {
+                "choice": "Xeropthalmia",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following fruit and vegetables have higher water percentage composition?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Apple",
+                "key": "A"
+            },
+            {
+                "choice": "Strawberry",
+                "key": "B"
+            },
+            {
+                "choice": "Carrots",
+                "key": "C"
+            },
+            {
+                "choice": "Tomatoes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a function of fat?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Enhance flavor and palatability of food",
+                "key": "A"
+            },
+            {
+                "choice": "Carrier of fat-soluble vitamins",
+                "key": "B"
+            },
+            {
+                "choice": "Protect the heart and kidneys",
+                "key": "C"
+            },
+            {
+                "choice": "Repair body tissues",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The following vegetables are good sources of carotene, EXCEPT:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Mangoes",
+                "key": "A"
+            },
+            {
+                "choice": "Carrots",
+                "key": "B"
+            },
+            {
+                "choice": "Legumes",
+                "key": "C"
+            },
+            {
+                "choice": "Tomatoes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is NOT a group from the Food Guide Pyramid?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "water, milk, yogurt",
+                "key": "A"
+            },
+            {
+                "choice": "food additives",
+                "key": "B"
+            },
+            {
+                "choice": "chicken, pork, egg",
+                "key": "C"
+            },
+            {
+                "choice": "rice, corn, pasta",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which statement regarding vitamins is most accurate?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Inorganic substances needed in the body",
+                "key": "A"
+            },
+            {
+                "choice": "Cannot be destroyed by heat, light or oxygen",
+                "key": "B"
+            },
+            {
+                "choice": "Regulate physiological processes",
+                "key": "C"
+            },
+            {
+                "choice": "Control composition of body fluids",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "Estimate the kilocalorie value of a 25g biscuit with 16g total carbohydrates",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "54 kcal",
+                "key": "A"
+            },
+            {
+                "choice": "64 kcal",
+                "key": "B"
+            },
+            {
+                "choice": "74 kcal",
+                "key": "C"
+            },
+            {
+                "choice": "84 kcal",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Which antioxidant vitamin helps to absorb iron?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Vitamin C",
+                "key": "A"
+            },
+            {
+                "choice": "Vitamin A",
+                "key": "B"
+            },
+            {
+                "choice": "Vitamin D",
+                "key": "C"
+            },
+            {
+                "choice": "Vitamin E",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is not a function of water?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Regulate body processes",
+                "key": "A"
+            },
+            {
+                "choice": "Carrier of waste products",
+                "key": "B"
+            },
+            {
+                "choice": "Provides energy",
+                "key": "C"
+            },
+            {
+                "choice": "Regulates body temperature",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What do you call the sugar in milk or milk carbohydrate?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Fructose",
+                "key": "A"
+            },
+            {
+                "choice": "Lactose",
+                "key": "B"
+            },
+            {
+                "choice": "Glucose",
+                "key": "C"
+            },
+            {
+                "choice": "Sucrose",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The loss of riboflavin in milk can be prevented if milk is ________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "heated to a boiling point",
+                "key": "A"
+            },
+            {
+                "choice": "pasteurized before packing",
+                "key": "B"
+            },
+            {
+                "choice": "kept cold and protected from light",
+                "key": "C"
+            },
+            {
+                "choice": "fermented and sealed",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

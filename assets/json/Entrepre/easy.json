@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "In the entrepreneurial world, new ideas and opportunities are evolving. What is the ability to create new things, invest in new enterprises and expand business?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Creativity",
+                "key": "A"
+            },
+            {
+                "choice": "Entrepreneurship",
+                "key": "B"
+            },
+            {
+                "choice": "Manufacturing",
+                "key": "C"
+            },
+            {
+                "choice": "Producing",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Alvin has transferred to a new locality. He observed that there is an opportunity for him to put up his own business since he has enough capital and very much interested to the idea. Which of these factors must he possess so that he will not rely on the services of the employees?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Markets",
+                "key": "A"
+            },
+            {
+                "choice": "Manpower",
+                "key": "B"
+            },
+            {
+                "choice": "Supply of resources",
+                "key": "C"
+            },
+            {
+                "choice": "Knowledge/Skills",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Management functions and principles play a very critical role in running a business. What principle of planning specifies that the objectives of an entrepreneur should match the needs of the society?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "must be realistic",
+                "key": "A"
+            },
+            {
+                "choice": "must be based on felt needs",
+                "key": "B"
+            },
+            {
+                "choice": "must focus on dealing with a crisis",
+                "key": "C"
+            },
+            {
+                "choice": "must start with a simple project",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Entrepreneurs use various management tools to succeed in a business. What management tool is used to analyze business opportunities?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Environmental scanning",
+                "key": "A"
+            },
+            {
+                "choice": "Market study",
+                "key": "B"
+            },
+            {
+                "choice": "Market survey",
+                "key": "C"
+            },
+            {
+                "choice": "SWOT",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When an entrepreneur communicates with people through interviews, observations and advertisement on what is new, what entrepreneurial activity does he/she engage?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Statistical study",
+                "key": "A"
+            },
+            {
+                "choice": "Marketing study",
+                "key": "B"
+            },
+            {
+                "choice": "Entrepreneurial scanning",
+                "key": "C"
+            },
+            {
+                "choice": "Environmental scanning",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "There are P's in preparing market research. Which P in marketing is designed to communicate the product to customers?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Place",
+                "key": "A"
+            },
+            {
+                "choice": "Price",
+                "key": "B"
+            },
+            {
+                "choice": "People",
+                "key": "C"
+            },
+            {
+                "choice": "Promotion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The site of the business enterprise is one of the requirements of entrepreneurship. Which of the following is the most important in choosing the best location for the business?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "access to supplies and raw materials",
+                "key": "A"
+            },
+            {
+                "choice": "clean, decent and peaceful environment",
+                "key": "B"
+            },
+            {
+                "choice": "less competitors in the area",
+                "key": "C"
+            },
+            {
+                "choice": " enough capital to pay space rental",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which term refers to people, institutions or organizations for whom the business is designed?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "sample",
+                "key": "A"
+            },
+            {
+                "choice": "population",
+                "key": "B"
+            },
+            {
+                "choice": "market",
+                "key": "C"
+            },
+            {
+                "choice": "society",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which one is not included in planning a business?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "how and when to do it",
+                "key": "A"
+            },
+            {
+                "choice": "how to increase profits",
+                "key": "B"
+            },
+            {
+                "choice": "what to expect in the future",
+                "key": "C"
+            },
+            {
+                "choice": " what to do",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the benefit of business planning wherein the entrepreneur determines whether the business is profitable or not?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "minimize cost production",
+                "key": "A"
+            },
+            {
+                "choice": "detect the weakness of the business",
+                "key": "B"
+            },
+            {
+                "choice": "eliminate business risk",
+                "key": "C"
+            },
+            {
+                "choice": "estimate sales",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is thinking ahead of objectives, strategies, financing, production, marketing, profit proposal and growth facilities?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "forecasting",
+                "key": "A"
+            },
+            {
+                "choice": "managing",
+                "key": "B"
+            },
+            {
+                "choice": "planning",
+                "key": "C"
+            },
+            {
+                "choice": "projecting",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Business enterprises should operate in a dynamic environment in order to survive. What kind of environment includes technological, social and ethical/political factors?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Macro environment",
+                "key": "A"
+            },
+            {
+                "choice": "Micro environment",
+                "key": "B"
+            },
+            {
+                "choice": "Technological environment",
+                "key": "C"
+            },
+            {
+                "choice": "Social environment",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Mr. Silva purchased a right to operate an already established business, what type of retail ownership is it?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Corporate",
+                "key": "A"
+            },
+            {
+                "choice": "Franchise",
+                "key": "B"
+            },
+            {
+                "choice": "Independent",
+                "key": "C"
+            },
+            {
+                "choice": "Single-store-ownership",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Who among the following is the principal actor of the production?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Entrepreneur",
+                "key": "A"
+            },
+            {
+                "choice": "Customer",
+                "key": "B"
+            },
+            {
+                "choice": "Production manager",
+                "key": "C"
+            },
+            {
+                "choice": "Worker",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "These are the perishable tangible used in the production process",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Financial resources",
+                "key": "A"
+            },
+            {
+                "choice": "Human resources",
+                "key": "B"
+            },
+            {
+                "choice": "Information resources",
+                "key": "C"
+            },
+            {
+                "choice": "Material resources",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which method of establishing a business starts from scratch?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "buy-out",
+                "key": "A"
+            },
+            {
+                "choice": "franchising",
+                "key": "B"
+            },
+            {
+                "choice": "loan",
+                "key": "C"
+            },
+            {
+                "choice": "start-up",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What brief description of the market describes the buyers and users of the product and the area of dispersion?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "market analysis",
+                "key": "A"
+            },
+            {	
+                "choice": "market dispersion",
+                "key": "B"
+            },
+            {
+                "choice": "marketing",
+                "key": "C"
+            },
+            {
+                "choice": "market study",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It is a type of organization wherein a superior delegates authority to a subordinate",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "committee type",
+                "key": "A"
+            },
+            {
+                "choice": "functional type",
+                "key": "B"
+            },
+            {
+                "choice": "line type",
+                "key": "C"
+            },
+            {
+                "choice": "line and staff type",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is one disadvantage of a functional type of organization?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Morale is likely to be low when discipline is weak.",
+                "key": "A"
+            },
+            {
+                "choice": "Each manager is supreme in his own field.",
+                "key": "B"
+            },
+            {
+                "choice": "It is difficult to secure executives and superiors with an all around knowledge",
+                "key": "C"
+            },
+            {
+                "choice": "There is greater flexibility.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What type of product, as designed, produced and marketed by the seller?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Licensed brand",
+                "key": "A"
+            },
+            {
+                "choice": "National brand",
+                "key": "B"
+            },
+            {
+                "choice": "Private label brand",
+                "key": "C"
+            },
+            {
+                "choice": "Trademark",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the correct definition of the term entrepreneur? A person who ________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "pursues opportunity without regard to resources",
+                "key": "A"
+            },
+            {
+                "choice": "starts a new business with the aim of making a profit",
+                "key": "B"
+            },
+            {
+                "choice": "seeks to create value for local communities, people or customer by starting new ventures which exploit new products, processes or markets",
+                "key": "C"
+            },
+            {
+                "choice": "seeks to generate value through creation or expansion of economic activity, by identifying and exploiting new products, processes or markets",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following skills are NOT needed by an entrepreneur?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Technical skills",
+                "key": "A"
+            },
+            {
+                "choice": "Personal entrepreneurial skills",
+                "key": "B"
+            },
+            {
+                "choice": "Working skills",
+                "key": "C"
+            },
+            {
+                "choice": "Business management skills",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following statement is INAPPROPRIATE in starting a business?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Study the concepts and principles of entrepreneurial skills.",
+                "key": "A"
+            },
+            {
+                "choice": "Cope with failures of the business.",
+                "key": "B"
+            },
+            {
+                "choice": "Undergo training on entrepreneurial skills",
+                "key": "C"
+            },
+            {
+                "choice": "Know what characteristics are needed to become an entrepreneur",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a source of fund for Mr. Fajardo's future business?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Seek assistance from Central Bank of the Philippines",
+                "key": "A"
+            },
+            {
+                "choice": "Borrow money from friends and relatives",
+                "key": "B"
+            },
+            {
+                "choice": "Avail of the government program on financing micro-macro business",
+                "key": "C"
+            },
+            {
+                "choice": "Use part of her retirement benefit.",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If her business idea is a boutique, what quality of a future entrepreneur is INAPPROPRIATE?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Relaxed",
+                "key": "A"
+            },
+            {
+                "choice": "Hard worker",
+                "key": "B"
+            },
+            {
+                "choice": "Risk taker",
+                "key": "C"
+            },
+            {
+                "choice": "Innovative",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of an entrepreneur?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Coping with failure",
+                "key": "A"
+            },
+            {
+                "choice": "Irritated",
+                "key": "B"
+            },
+            {
+                "choice": "Opportunity seeker",
+                "key": "C"
+            },
+            {
+                "choice": "Persistent",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which among these characteristics of an entrepreneur is UNDESIRABLE?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Opportunity seeker",
+                "key": "A"
+            },
+            {
+                "choice": "Goal setter",
+                "key": "B"
+            },
+            {
+                "choice": "Futuristic",
+                "key": "C"
+            },
+            {
+                "choice": "Impassive",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a primary cause of failure in small business?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Poor financial control",
+                "key": "A"
+            },
+            {
+                "choice": "Poor location",
+                "key": "B"
+            },
+            {
+                "choice": "Management mistakes",
+                "key": "C"
+            },
+            {
+                "choice": "improper inventory control",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of these traits gets an entrepreneur off of his feet and puts him into action, turning daydream into reality?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Perseverance",
+                "key": "A"
+            },
+            {
+                "choice": "Ambition",
+                "key": "B"
+            },
+            {
+                "choice": "Creativity",
+                "key": "C"
+            },
+            {
+                "choice": "Enthusiasm",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which trait is an entrepreneur able to withstand the troubles that come with a starting business?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Perseverance",
+                "key": "A"
+            },
+            {
+                "choice": "Ambition",
+                "key": "B"
+            },
+            {
+                "choice": "Creativity",
+                "key": "C"
+            },
+            {
+                "choice": "Enthusiasm",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the general function of marketing, involves the physical meeting point for buyers and sellers at the point of production or via some other means of communication?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Specific functions",
+                "key": "A"
+            },
+            {
+                "choice": "Exchange functions",
+                "key": "B"
+            },
+            {
+                "choice": "Physical functions",
+                "key": "C"
+            },
+            {
+                "choice": "Facilitating functions",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which type of marketing functions, enables the actual flow of commodities through space and time from producer to consumer and their transformation to a form desirable function to the consumers?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Specific functions",
+                "key": "A"
+            },
+            {
+                "choice": "Exchange functions",
+                "key": "B"
+            },
+            {
+                "choice": "Physical functions",
+                "key": "C"
+            },
+            {
+                "choice": "Facilitating functions",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "From a social viewpoint, which of the following statements about marketing objective is NOT true?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Assist in the efficient allocation of resources",
+                "key": "A"
+            },
+            {
+                "choice": "Create wealth and promote economic growth",
+                "key": "B"
+            },
+            {
+                "choice": "Improve income distribution among different sectors of the economy.",
+                "key": "C"
+            },
+            {
+                "choice": "Maintain instability of supply and demand for marketed goods",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which is considered a vehicle for informing target market about the enterprise and the products or services?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Product",
+                "key": "A"
+            },
+            {
+                "choice": "Price",
+                "key": "B"
+            },
+            {
+                "choice": "Place",
+                "key": "C"
+            },
+            {
+                "choice": "Promotion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "At what stage of marketing effort does an entrepreneur concentrate on targeting a new market of buyers and taking market share from competitors by price cutting or relaunching the product?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Introduction",
+                "key": "A"
+            },
+            {
+                "choice": "Growth",
+                "key": "B"
+            },
+            {
+                "choice": "Maturity",
+                "key": "C"
+            },
+            {
+                "choice": "Decline",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT appropriate in running a small-scale business?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Keeping clear records",
+                "key": "A"
+            },
+            {
+                "choice": "Verifying profit and loss",
+                "key": "B"
+            },
+            {
+                "choice": "Managing cash flow",
+                "key": "C"
+            },
+            {
+                "choice": "Distribution channel",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which marketing channel operates with capital owned directly by the operators and their partners, or in some cases by shareholders?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Cooperatives",
+                "key": "A"
+            },
+            {
+                "choice": "Independent, locally based private enterprise",
+                "key": "B"
+            },
+            {
+                "choice": "Marketing boards and other state enterprises",	
+                "key": "C"
+            },
+            {
+                "choice": "Transnational companies",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "At which stage of a product life cycle must an entrepreneur decide whether he wants to try to rejuvenate the product by investing in development and aggressive marketing or to quietly admit defeat and exit the market?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Introduction",
+                "key": "A"
+            },
+            {
+                "choice": "Growth",
+                "key": "B"
+            },
+            {
+                "choice": "Maturity",
+                "key": "C"
+            },
+            {
+                "choice": "Decline",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A marketing mix that can have both tangible and intangible aspects and is the thing you offer to satisfy your customers' wants and needs is ________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Product",
+                "key": "A"
+            },
+            {
+                "choice": "Packaging",
+                "key": "B"
+            },
+            {
+                "choice": "Price",
+                "key": "C"
+            },
+            {
+                "choice": "Promotion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Find the profit of Weng's water refilling business with revenue of 56,000,000 and costs of 42,000,000.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "14,000,000",
+                "key": "A"
+            },
+            {
+                "choice": "140,000",
+                "key": "B"
+            },
+            {
+                "choice": "1,400,000",
+                "key": "C"
+            },
+            {
+                "choice": "14,000",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Norma's food stall has costs of 2,900. Her total food sales are 11,600. What percent of her food sales do the food costs represent?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "20%",
+                "key": "A"
+            },
+            {
+                "choice": "25%",
+                "key": "B"
+            },
+            {
+                "choice": "27%",
+                "key": "C"
+            },
+            {
+                "choice": "30%",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Marvin needs 250 cookies for a buffet. He will make oatmeal raisin, macaroons, and chocolate chunk cookies. He wants 25% of the cookies to be oatmeal raisin and 15% of the cookies to be macaroons. How many chocolate chunk cookies must Marvin bake?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "150",
+                "key": "A"
+            },
+            {
+                "choice": "125",
+                "key": "B"
+            },
+            {
+                "choice": "140",
+                "key": "C"
+            },
+            {
+                "choice": "100",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If a shirt is marked down 25%, what will the purchase price be?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "25",
+                "key": "A"
+            },
+            {
+                "choice": "75% of its original price",
+                "key": "B"
+            },
+            {
+                "choice": "50% off",
+                "key": "C"
+            },
+            {
+                "choice": "75",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A customer places a special order through 480 Furniture Store. The list price in the manufacturer's catalog is 1,600. 480 Furniture receives a 35% trade discount. What is the net price for the furniture order?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "560",
+                "key": "A"
+            },
+            {
+                "choice": "1,535",
+                "key": "B"
+            },
+            {
+                "choice": "1,565",
+                "key": "C"
+            },
+            {
+                "choice": "1,040",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ron's Manufacturing offers discounts on most of its products. What is the trade discount rate on an item with a list price of 16.79 and a net price ",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "22%",
+                "key": "A"
+            },
+            {
+                "choice": "26%",
+                "key": "B"
+            },
+            {
+                "choice": "54%",
+                "key": "C"
+            },
+            {
+                "choice": "74%",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "What type of financial statement summarizes the information concerning the cash inflows and outflows during a particular period?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Balance sheet",
+                "key": "A"
+            },
+            {
+                "choice": "Statement cash flows",
+                "key": "B"
+            },
+            {
+                "choice": "Income statement",
+                "key": "C"
+            },
+            {
+                "choice": "Statement of retained earning",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Closing entries are made",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "so that financial statements can be made",
+                "key": "A"
+            },
+            {
+                "choice": "in order to terminate the business as an operating entity",
+                "key": "B"
+            },
+            {
+                "choice": "in order to transfer net income/loss and owner's drawings to the owner's capital account",
+                "key": "C"
+            },
+            {
+                "choice": "so that all assets, liabilities, and owner's capital accounts will have zero balances when the next accounting period starts",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Suppliers who allow business to receive goods and services before paying for them are known as:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Finance companies",
+                "key": "A"
+            },
+            {
+                "choice": "Leasing companies",
+                "key": "B"
+            },
+            {
+                "choice": "Trade companies",
+                "key": "C"
+            },
+            {
+                "choice": "Trade debtors",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of external finance?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Disposal by a business of surplus assets",
+                "key": "A"
+            },
+            {
+                "choice": "Bank loan",
+                "key": "B"
+            },
+            {
+                "choice": "Day to day cash from sales to customers",
+                "key": "C"
+            },
+            {
+                "choice": "Money loaned from trade suppliers through extended credit",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which entrepreneurial trait gives an entrepreneur a positive outlook in life which gives the energy to pursue his endeavors?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Perseverance",
+                "key": "A"
+            },
+            {
+                "choice": "Ambition",
+                "key": "B"
+            },
+            {
+                "choice": "Creativity",
+                "key": "C"
+            },
+            {
+                "choice": "Enthusiasm",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

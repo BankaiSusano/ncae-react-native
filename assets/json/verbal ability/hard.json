@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "Basis",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Assis",
+                "key": "A"
+            },
+            {
+                "choice": "Basess",
+                "key": "B"
+            },
+            {
+                "choice": "Bases",
+                "key": "C"
+            },
+            {
+                "choice": "Basium",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "Woman",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Womens",
+                "key": "A"
+            },
+            {
+                "choice": "Womans",
+                "key": "B"
+            },
+            {
+                "choice": "Women",
+                "key": "C"
+            },
+            {
+                "choice": "Womanses",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Loss",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Loss",
+                "key": "A"
+            },
+            {
+                "choice": "Loses",
+                "key": "B"
+            },
+            {
+                "choice": "Looses",
+                "key": "C"
+            },
+            {
+                "choice": "Losses",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ass-",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Asses",
+                "key": "A"
+            },
+            {
+                "choice": "Ass",
+                "key": "B"
+            },
+            {
+                "choice": "Asss",
+                "key": "C"
+            },
+            {
+                "choice": "Assess",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Loss-",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Lossess",
+                "key": "A"
+            },
+            {
+                "choice": "Losses",
+                "key": "B"
+            },
+            {
+                "choice": "Loses",
+                "key": "C"
+            },
+            {
+                "choice": "None of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "My dad has had several _______.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Jobz",
+                "key": "A"
+            },
+            {
+                "choice": "jobes",
+                "key": "B"
+            },
+            {
+                "choice": "jobs",
+                "key": "C"
+            },
+            {
+                "choice": "jobies",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Once he worked as a clown for children's __________.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Partys",
+                "key": "A"
+            },
+            {
+                "choice": "parties",
+                "key": "B"
+            },
+            {
+                "choice": "partyses",
+                "key": "C"
+            },
+            {
+                "choice": "parties",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Berry",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Berria",
+                "key": "A"
+            },
+            {
+                "choice": "Berrys",
+                "key": "B"
+            },
+            {
+                "choice": "Berries",
+                "key": "C"
+            },
+            {
+                "choice": "Berrians",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Whatever the job, he has had to pay ______.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Taxes",
+                "key": "A"
+            },
+            {
+                "choice": "Taxs",
+                "key": "B"
+            },
+            {
+                "choice": "Taxies",
+                "key": "C"
+            },
+            {
+                "choice": "Taxs'",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Thief",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Thievs",
+                "key": "A"
+            },
+            {
+                "choice": "Thieve",
+                "key": "B"
+            },
+            {
+                "choice": "Thiefs",
+                "key": "C"
+            },
+            {
+                "choice": "Thieves",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It will take all of you energy and will to be able to walk again.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Take",
+                "key": "A"
+            },
+            {
+                "choice": "All",
+                "key": "B"
+            },
+            {
+                "choice": "Your",
+                "key": "C"
+            },
+            {
+                "choice": "Energy",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Many of these people have been ignored.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Many",
+                "key": "A"
+            },
+            {
+                "choice": "These",
+                "key": "B"
+            },
+            {
+                "choice": "People",
+                "key": "C"
+            },
+            {
+                "choice": "Ignored",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The works of many great poets have been placed on reserve.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Many",
+                "key": "A"
+            },
+            {
+                "choice": "Great",
+                "key": "B"
+            },
+            {
+                "choice": "Placed",
+                "key": "C"
+            },
+            {
+                "choice": "Reserve",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Winter is very cold.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Winter",
+                "key": "A"
+            },
+            {
+                "choice": "Is",
+                "key": "B"
+            },
+            {
+                "choice": "Very",
+                "key": "C"
+            },
+            {
+                "choice": "Cold",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "School started early",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "School",
+                "key": "A"
+            },
+            {
+                "choice": "Started",
+                "key": "B"
+            },
+            {
+                "choice": "Early",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The girl was happy.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Was",
+                "key": "A"
+            },
+            {
+                "choice": "The",
+                "key": "B"
+            },
+            {
+                "choice": "Happy",
+                "key": "C"
+            },
+            {
+                "choice": "Girl",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Bringing back of normal functioning.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "of the working bodies after demonetization",
+                "key": "A"
+            },
+            {	
+                "choice": "is the biggest concerned",
+                "key": "B"
+            },
+            {
+                "choice": "for the people now",
+                "key": "C"
+            },
+            {
+                "choice": "No error",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Albert studied for his test after going swimming.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Albert",
+                "key": "A"
+            },
+            {
+                "choice": "For",
+                "key": "B"
+            },
+            {
+                "choice": "studied",
+                "key": "C"
+            },
+            {
+                "choice": "after",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Intention",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Intension",
+                "key": "A"
+            },
+            {
+                "choice": "intent",
+                "key": "B"
+            },
+            {
+                "choice": "intensity",
+                "key": "C"
+            },
+            {
+                "choice": "intention",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Elusion",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Elude",
+                "key": "A"
+            },
+            {
+                "choice": "Elusive",
+                "key": "B"
+            },
+            {
+                "choice": "Elusory",
+                "key": "C"
+            },
+            {
+                "choice": "Elusiveness",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Entrance",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Enter",
+                "key": "A"
+            },
+            {
+                "choice": "Entrant",
+                "key": "B"
+            },
+            {
+                "choice": "Entry",
+                "key": "C"
+            },
+            {
+                "choice": "Entertain",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following nouns is a place?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Yard",
+                "key": "A"
+            },
+            {
+                "choice": "Dad",
+                "key": "B"
+            },
+            {
+                "choice": "Grass",
+                "key": "C"
+            },
+            {
+                "choice": "Tall",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Does wood sink in water? (Which word is a material noun?)",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Sink",
+                "key": "A"
+            },
+            {
+                "choice": "does",
+                "key": "B"
+            },
+            {
+                "choice": "water",
+                "key": "C"
+            },
+            {
+                "choice": "wood",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "My mother wears gold jewelry.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Wears",
+                "key": "A"
+            },
+            {
+                "choice": "Jewelry",
+                "key": "B"
+            },
+            {
+                "choice": "Mother",
+                "key": "C"
+            },
+            {
+                "choice": "Gold",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ______ could not see a thing without his glasses.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Leena",
+                "key": "A"
+            },
+            {
+                "choice": "Franco",
+                "key": "B"
+            },
+            {
+                "choice": "Boy",
+                "key": "C"
+            },
+            {
+                "choice": "Owl",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To seize a foreign embassy and its inhabitants is flagrant disregard for diplomatic neutrality.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Seize",
+                "key": "A"
+            },
+            {
+                "choice": "Its",
+                "key": "B"
+            },
+            {
+                "choice": "Flagrant",
+                "key": "C"
+            },
+            {
+                "choice": "Neutrality",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sharks and lampreys are not true fish because their skeletons are made of cartilage rather than bone.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "True",
+                "key": "A"
+            },
+            {
+                "choice": "Because",
+                "key": "B"
+            },
+            {
+                "choice": "Their",
+                "key": "C"
+            },
+            {
+                "choice": "Bone",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Joe, have you met  your new boss?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Have",
+                "key": "A"
+            },
+            {
+                "choice": "Met",
+                "key": "B"
+            },
+            {
+                "choice": "Your",
+                "key": "C"
+            },
+            {
+                "choice": "Boss",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Susan was exceeding proud of her beautiful new home.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Exceedingly",
+                "key": "A"
+            },
+            {
+                "choice": "Home",
+                "key": "B"
+            },
+            {
+                "choice": "Proud",
+                "key": "C"
+            },
+            {
+                "choice": "Beautiful",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "My mother tried to live in South Georgia for two years but couldn't stand the heat.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Live",
+                "key": "A"
+            },
+            {
+                "choice": "Heat",
+                "key": "B"
+            },
+            {
+                "choice": "Tried",
+                "key": "C"
+            },
+            {
+                "choice": "But",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "This newspaper is a BIWEEKLY.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "The newspaper is published once a week",
+                "key": "A"
+            },
+            {
+                "choice": "The newspaper is published three times a week",
+                "key": "B"
+            },
+            {
+                "choice": "The newspaper is published twice a week",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The prefix meaning external is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Exo",
+                "key": "A"
+            },
+            {
+                "choice": "Intra",
+                "key": "B"
+            },
+            {
+                "choice": "Endo",
+                "key": "C"
+            },
+            {
+                "choice": "Post",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "We usually don't publish articles we don't PREVIEW.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "We usually read articles before publication",
+                "key": "A"
+            },
+            {
+                "choice": "We do not read articles after publication",
+                "key": "B"
+            },
+            {
+                "choice": "We read articles the day we publish them ",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The prefix meaning up is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Ana",
+                "key": "A"
+            },
+            {
+                "choice": "Apo",
+                "key": "B"
+            },
+            {
+                "choice": "Sub",
+                "key": "C"
+            },
+            {
+                "choice": "Post",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In many countries it is __legal to keep a gun in your house.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Un",
+                "key": "A"
+            },
+            {
+                "choice": "il",
+                "key": "B"
+            },
+            {
+                "choice": "in",
+                "key": "C"
+            },
+            {
+                "choice": "kn",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Understanding",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "miss",
+                "key": "A"
+            },
+            {
+                "choice": "un",
+                "key": "B"
+            },
+            {
+                "choice": "de",
+                "key": "C"
+            },
+            {
+                "choice": "mis",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the prefix of 'Driver'?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Over",
+                "key": "A"
+            },
+            {
+                "choice": "Co",
+                "key": "B"
+            },
+            {
+                "choice": "Mis",	
+                "key": "C"
+            },
+            {
+                "choice": "tn",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Thousands of people have taken part in a ____-democracy demonstration.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Pro",
+                "key": "A"
+            },
+            {
+                "choice": "Anti",
+                "key": "B"
+            },
+            {
+                "choice": "A",
+                "key": "C"
+            },
+            {
+                "choice": "An",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She works for a ______ national company. It has officer in over 30 countries.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Inter",
+                "key": "A"
+            },
+            {
+                "choice": "Multi",
+                "key": "B"
+            },
+            {
+                "choice": "Bi",
+                "key": "C"
+            },
+            {
+                "choice": "Fn",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The prefix CO- means together, so when you COOPERATE you",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "work separately",
+                "key": "A"
+            },
+            {
+                "choice": "argue",
+                "key": "B"
+            },
+            {
+                "choice": "work with someone else",
+                "key": "C"
+            },
+            {
+                "choice": "operate something",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Beauty",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "fy",
+                "key": "A"
+            },
+            {
+                "choice": "fi",
+                "key": "B"
+            },
+            {
+                "choice": "ice",
+                "key": "C"
+            },
+            {
+                "choice": "ic",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What does the suffix est mean?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "past tense",
+                "key": "A"
+            },
+            {
+                "choice": "action or process",
+                "key": "B"
+            },
+            {
+                "choice": "to compare",
+                "key": "C"
+            },
+            {
+                "choice": "having a lot something",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Captivate",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "on",
+                "key": "A"
+            },
+            {
+                "choice": "en",
+                "key": "B"
+            },
+            {
+                "choice": "tion",
+                "key": "C"
+            },
+            {
+                "choice": "ton",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " What does the suffix ing mean?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "past tense",
+                "key": "A"
+            },
+            {
+                "choice": "action or process",
+                "key": "B"
+            },
+            {
+                "choice": "full of",
+                "key": "C"
+            },
+            {
+                "choice": "runner ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "We were walk____ through the park when we saw a squirrel.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Ed",
+                "key": "A"
+            },
+            {
+                "choice": "ness",
+                "key": "B"
+            },
+            {
+                "choice": "er",
+                "key": "C"
+            },
+            {
+                "choice": "ing",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "We chose the large ______pumpkin.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Ly",
+                "key": "A"
+            },
+            {
+                "choice": "est",
+                "key": "B"
+            },
+            {
+                "choice": "ful",
+                "key": "C"
+            },
+            {
+                "choice": "ness",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "Conditional",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Again",
+                "key": "A"
+            },
+            {
+                "choice": "Not",
+                "key": "B"
+            },
+            {
+                "choice": "One or same",
+                "key": "C"
+            },
+            {
+                "choice": "State or situation",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He passed his exam. He was success___ for the second time.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Ful",
+                "key": "A"
+            },
+            {
+                "choice": "Fil",
+                "key": "B"
+            },
+            {
+                "choice": "Ness",
+                "key": "C"
+            },
+            {
+                "choice": "Ed",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I don't  want to get into a argue___ with you about this.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Ment",
+                "key": "A"
+            },
+            {
+                "choice": "ing",
+                "key": "B"
+            },
+            {
+                "choice": "ed",
+                "key": "C"
+            },
+            {
+                "choice": "ness",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following words cannot use the suffix -ful?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Color",
+                "key": "A"
+            },
+            {
+                "choice": "doubt",
+                "key": "B"
+            },
+            {
+                "choice": "hope",
+                "key": "C"
+            },
+            {
+                "choice": "value",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+

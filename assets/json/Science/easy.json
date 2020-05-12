@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "What is the empty tube that serves as passageway of air into the lungs?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Bronchi",
+                "key": "A"
+            },
+            {
+                "choice": "Alveoli",
+                "key": "B"
+            },
+            {
+                "choice": "Bronchioles",
+                "key": "C"
+            },
+            {
+                "choice": "Trachea",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not part of the circulatory systems?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Blood vessel",
+                "key": "A"
+            },
+            {
+                "choice": "Blood",
+                "key": "B"
+            },
+            {
+                "choice": "Liver",
+                "key": "C"
+            },
+            {
+                "choice": "Heart",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the role of the heart from our body?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Carries the materials",
+                "key": "A"
+            },
+            {
+                "choice": "Pumps the blood",
+                "key": "B"
+            },
+            {
+                "choice": "Carries the blood",
+                "key": "C"
+            },
+            {
+                "choice": "Carry oxygenated",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which parts of the circulatory system that carries the material throughout the body?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Heart",
+                "key": "A"
+            },
+            {
+                "choice": "Capillary",
+                "key": "B"
+            },
+            {
+                "choice": "Blood vessel",
+                "key": "C"
+            },
+            {
+                "choice": "Blood",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The _______ is the life support structure that nourishes your cells with nutrients from the food you eat and oxygen from the air you breathe.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Capillary",
+                "key": "A"
+            },
+            {
+                "choice": "Systematic circulations",
+                "key": "B"
+            },
+            {
+                "choice": "Circulatory system",
+                "key": "C"
+            },
+            {
+                "choice": "Pulmonary",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "It can control the movement of blood into the heart chambers and out to the aorta and the pulmonary artery.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Aora",
+                "key": "A"
+            },
+            {
+                "choice": "Left atrium",
+                "key": "B"
+            },
+            {
+                "choice": "Right atrium",
+                "key": "C"
+            },
+            {
+                "choice": "Valve",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many chromosomes in each cell that have a human?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "52",
+                "key": "A"
+            },
+            {
+                "choice": "46",
+                "key": "B"
+            },
+            {
+                "choice": "15",
+                "key": "C"
+            },
+            {
+                "choice": "25",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How many pairs of chromosomes for both males and females?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "22",
+                "key": "A"
+            },
+            {
+                "choice": "18",
+                "key": "B"
+            },
+            {
+                "choice": "23",
+                "key": "C"
+            },
+            {
+                "choice": "30",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the meaning of DNA?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Double-acid",
+                "key": "A"
+            },
+            {
+                "choice": "Deoxyribonucleic acid",
+                "key": "B"
+            },
+            {
+                "choice": "Double stranded",
+                "key": "C"
+            },
+            {
+                "choice": "Diammonium acid",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A different form of a gene that controls a certain trait",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Codominance",
+                "key": "A"
+            },
+            {
+                "choice": "Allele",
+                "key": "B"
+            },
+            {
+                "choice": "Antigen",
+                "key": "C"
+            },
+            {
+                "choice": "Gamete",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In the Philippines theirs a major deforestation in an environment problems which one is not the problem?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Kaingin farming",
+                "key": "A"
+            },
+            {
+                "choice": "Soil erosion",
+                "key": "B"
+            },
+            {
+                "choice": "Illegal logging",
+                "key": "C"
+            },
+            {
+                "choice": "Forest fires",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the major problem in lakes, rivers and ponds?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Eutrophication",
+                "key": "A"
+            },
+            {
+                "choice": "Typhoon",
+                "key": "B"
+            },
+            {
+                "choice": "Floods",
+                "key": "C"
+            },
+            {
+                "choice": "Forest fire",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "_______ is commonly known as acid rain.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Air pollution",
+                "key": "A"
+            },
+            {
+                "choice": "Water pollution",
+                "key": "B"
+            },
+            {
+                "choice": "Deforestation",
+                "key": "C"
+            },
+            {
+                "choice": "Acid precipitation",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Species that have rapidly decreasing numbers of individuals.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Endangered species",
+                "key": "A"
+            },
+            {
+                "choice": "Deforestation",
+                "key": "B"
+            },
+            {
+                "choice": "Threatened species",
+                "key": "C"
+            },
+            {
+                "choice": "Eutrophication",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Chlorophyll absorbs white light but it look green because white light are consists of three primary colors. Which of the chooses is not belong to the primary color of the Chlorophyll?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Yellow",
+                "key": "A"
+            },
+            {
+                "choice": "Green",
+                "key": "B"
+            },
+            {
+                "choice": "Red",
+                "key": "C"
+            },
+            {
+                "choice": "Blue",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "________ is a process of food making done by plants and other autotrophic organisms.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Chlorophyll",
+                "key": "A"
+            },
+            {
+                "choice": "Mitochondrion",
+                "key": "B"
+            },
+            {
+                "choice": "Photosynthesis",
+                "key": "C"
+            },
+            {
+                "choice": "Ribosome",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "________ is a process of food making done by plants and other autotrophic organisms.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Chlorophyll",
+                "key": "A"
+            },
+            {
+                "choice": "Mitochondrion",
+                "key": "B"
+            },
+            {
+                "choice": "Photosynthesis",
+                "key": "C"
+            },
+            {
+                "choice": "Ribosome",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "There are three major steps that involves in the breakdown of the glucose. Which of the following is not a part of those steps?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Glycolysis",
+                "key": "A"
+            },
+            {
+                "choice": "Glycogen in the liver",
+                "key": "B"
+            },
+            {
+                "choice": "Krebs cycle",
+                "key": "C"
+            },
+            {
+                "choice": "Electron transport chain",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "There are three physicists led the development of a better model of the atom. Which of the following is not included?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Werner Karl Heisenber",
+                "key": "A"
+            },
+            {
+                "choice": "Antoni van Leeuwenhoe",
+                "key": "B"
+            },
+            {
+                "choice": "Louie de Broglie",
+                "key": "C"
+            },
+            {
+                "choice": "Erwin Schrodinger",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Plants have a green pigments called ______?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Chlorophyll",
+                "key": "A"
+            },
+            {
+                "choice": "Mitochondrion",
+                "key": "B"
+            },
+            {
+                "choice": "Chloroplast",
+                "key": "C"
+            },
+            {
+                "choice": "Photosynthesis",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is considered as the power house of the cell?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Succinate dehydrogenase",
+                "key": "A"
+            },
+            {
+                "choice": "Cristae",
+                "key": "B"
+            },
+            {
+                "choice": "Mitochondrion",
+                "key": "C"
+            },
+            {
+                "choice": "NADH dehydrogenase",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical symbol of sodium?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Ar",
+                "key": "A"
+            },
+            {
+                "choice": "Na",
+                "key": "B"
+            },
+            {
+                "choice": "Ne",
+                "key": "C"
+            },
+            {
+                "choice": "Be",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The ________ valence electrons are the outermost electrons which are directly involved in chemical bonding.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Valence electrons",
+                "key": "A"
+            },
+            {
+                "choice": "Ionic compound",
+                "key": "B"
+            },
+            {
+                "choice": "Electrons",
+                "key": "C"
+            },
+            {
+                "choice": "Symbols",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Movement of blood from the heart, to the lung, and back to the heart.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Systemic circulation",
+                "key": "A"
+            },
+            {
+                "choice": "Sugar and water",
+                "key": "B"
+            },
+            {
+                "choice": "Coronary circulation",
+                "key": "C"
+            },
+            {
+                "choice": "Pulmonary circulation",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The _______ is a hollow muscular organ, about the size of your fist, which is located in the center of your chest between the lungs.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Atrium",
+                "key": "A"
+            },
+            {
+                "choice": "Ventricle",
+                "key": "B"
+            },
+            {
+                "choice": "Valve",
+                "key": "C"
+            },
+            {
+                "choice": "Heart",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "___________ is the waste material given off during this process.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Respiratory",
+                "key": "A"
+            },
+            {
+                "choice": "Blood pressure",
+                "key": "B"
+            },
+            {
+                "choice": "Carbon dioxide",
+                "key": "C"
+            },
+            {
+                "choice": "Heart rate",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "___________ refers to the size or strength of the force.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Direction",
+                "key": "A"
+            },
+            {
+                "choice": "Magnitude",
+                "key": "B"
+            },
+            {
+                "choice": "Point of application",
+                "key": "C"
+            },
+            {
+                "choice": "Line of action",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the chooses is not Newton’s Law of Motion?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Law of Inertia",
+                "key": "A"
+            },
+            {
+                "choice": "Law of Procedure",
+                "key": "B"
+            },
+            {
+                "choice": "Law of Acceleration",
+                "key": "C"
+            },
+            {
+                "choice": "Law of Interaction",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In ______, work is an abstract idea related to energy.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Chemistry",
+                "key": "A"
+            },
+            {
+                "choice": "Biology",
+                "key": "B"
+            },
+            {
+                "choice": "Anatomy",
+                "key": "C"
+            },
+            {
+                "choice": "Physics",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The energy of a moving object is called energy of motion or ________.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Transferring energy",
+                "key": "A"
+            },
+            {
+                "choice": "Law of forces",
+                "key": "B"
+            },
+            {
+                "choice": "Kinetic energy",
+                "key": "C"
+            },
+            {
+                "choice": "Electricity",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "________ is the transfer of energy between objects or places because of different in temperature.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Temperature",
+                "key": "A"
+            },
+            {
+                "choice": "Power",
+                "key": "B"
+            },
+            {
+                "choice": "Heat",
+                "key": "C"
+            },
+            {
+                "choice": "Energy",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the symbol of current?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "V",
+                "key": "A"
+            },
+            {
+                "choice": "I",
+                "key": "B"
+            },
+            {
+                "choice": "R",
+                "key": "C"
+            },
+            {
+                "choice": "L",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Who is the French physicist that made important contribution to the theory of electricity and magnetism?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Andre-Marie Ampere",
+                "key": "A"
+            },
+            {
+                "choice": "William Gillbert",
+                "key": "B"
+            },
+            {
+                "choice": "Blaise Pascal",
+                "key": "C"
+            },
+            {
+                "choice": "Galileo Galilei",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The batteries we use in flashlights and watches are called?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Electric current",
+                "key": "A"
+            },
+            {
+                "choice": "Heat",
+                "key": "B"
+            },
+            {
+                "choice": "Temperature",
+                "key": "C"
+            },
+            {
+                "choice": "Dry cells",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the symbol of voltage?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "V",
+                "key": "A"
+            },
+            {
+                "choice": "I",
+                "key": "B"
+            },
+            {
+                "choice": "R",
+                "key": "C"
+            },
+            {
+                "choice": "L",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Who is the Italian physicist that invented the votaic pile, the forerunner of what we now call the dry cell?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Willebrod Snell",
+                "key": "A"
+            },
+            {
+                "choice": "Robert Hooke",
+                "key": "B"
+            },
+            {
+                "choice": "Alessandro Volta",
+                "key": "C"
+            },
+            {
+                "choice": "George Simon Ohm",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the symbol of resistance?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "V",
+                "key": "A"
+            },
+            {
+                "choice": "I",
+                "key": "B"
+            },
+            {
+                "choice": "R",
+                "key": "C"
+            },
+            {
+                "choice": "L",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The unit, ohms (Ω) is named after the German physicist _______?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Willebrod Snell",
+                "key": "A"
+            },
+            {
+                "choice": "Robert Hooke",
+                "key": "B"
+            },
+            {
+                "choice": "Alessandro Volta",
+                "key": "C"
+            },
+            {
+                "choice": "George Simon Ohm",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "______ is the bending of light when it travels from one medium to another of different optical densities.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Refraction",
+                "key": "A"
+            },
+            {
+                "choice": "Wave",
+                "key": "B"
+            },
+            {
+                "choice": "Sound",
+                "key": "C"
+            },
+            {
+                "choice": "Light",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When a rainbow forms the rainbow starts with the color _____?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "violet",
+                "key": "A"
+            },
+            {
+                "choice": "Green",
+                "key": "B"
+            },
+            {
+                "choice": "Yellow",
+                "key": "C"
+            },
+            {
+                "choice": "Red",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When a rainbow forms the rainbow ends with the color _____?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "violet",
+                "key": "A"
+            },
+            {
+                "choice": "Green",
+                "key": "B"
+            },
+            {
+                "choice": "Yellow",
+                "key": "C"
+            },
+            {
+                "choice": "Red",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A strong earthquake hit Luzon on _____?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "July 16, 1990",
+                "key": "A"
+            },
+            {
+                "choice": "July 20, 1994",
+                "key": "B"
+            },
+            {
+                "choice": "July 25, 1997",
+                "key": "C"
+            },
+            {
+                "choice": "June 25, 1990",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the meaning of PHIVOLCS?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Philippine Institute of Volcanics",
+                "key": "A"
+            },
+            {
+                "choice": "The Philippine Institute of Volcanology and Seismology",
+                "key": "B"
+            },
+            {
+                "choice": "The Philippine Institute Vocanic and Seismology",
+                "key": "C"
+            },
+            {
+                "choice": "Philippine Institute Volcanic Science",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In March 2011, a powerful earthquake took place in the _________ near ______?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Pacific Ocean, Philippines",
+                "key": "A"
+            },
+            {
+                "choice": "Antartic Ocean, Philippines",
+                "key": "B"
+            },
+            {
+                "choice": "Pacific Ocean, Japan",
+                "key": "C"
+            },
+            {
+                "choice": "Antartic Ocean, Japan",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In _____, a strong earthquake occurred in the Indian Ocean near Indonesia?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "November 2001",
+                "key": "A"
+            },
+            {
+                "choice": "October 2004",
+                "key": "B"
+            },
+            {
+                "choice": "July 2002",
+                "key": "C"
+            },
+            {
+                "choice": "December 2004",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "An earthquake took place in the Moro Gulf in Mindanao on ______?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "1978",
+                "key": "A"
+            },
+            {
+                "choice": "1976",
+                "key": "B"
+            },
+            {
+                "choice": "1977",
+                "key": "C"
+            },
+            {
+                "choice": "1971",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of  the following presents a safety hazard while working in the science laboratory?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Knowing how to use equipment",
+                "key": "A"
+            },
+            {
+                "choice": "Wearing safety goggles",
+                "key": "B"
+            },
+            {
+                "choice": "Following directions",
+                "key": "C"
+            },
+            {
+                "choice": "Working alone",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the proper safety response to a trash-can fire in a lab?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Throw chemicals on the fire",
+                "key": "A"
+            },
+            {
+                "choice": "Leave the room to seek help",
+                "key": "B"
+            },
+            {
+                "choice": "Watch the fire to see if it spreads",
+                "key": "C"
+            },
+            {
+                "choice": "Use the appropriate fire extinguisher",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A very large redwood tree is measured to be about 100 units tall.  Which unit is the most appropriate to use? ",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Millimeters",
+                "key": "A"
+            },
+            {
+                "choice": "Centimeters",
+                "key": "B"
+            },
+            {
+                "choice": "Meters",
+                "key": "C"
+            },
+            {
+                "choice": "Kilometers",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The fine lead used in mechanical pencils has a diameter of about",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "0.5 centimeters",
+                "key": "A"
+            },
+            {
+                "choice": "5.0 centimeters ",
+                "key": "B"
+            },
+            {
+                "choice": "0.5 millimeters",
+                "key": "C"
+            },
+            {
+                "choice": "5.0  millimeters",
+                "key": "D"
+            }
+        ]
+    }
+]

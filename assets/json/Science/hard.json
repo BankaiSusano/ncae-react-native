@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "Some insects consume nectar from flowering plants and help the plant by spreading pollen Which type of relationship between insects and plants does this demonstrate?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Parasitic",
+                "key": "A"
+            },
+            {
+                "choice": "Competitive",
+                "key": "B"
+            },
+            {
+                "choice": "Predator-prey",
+                "key": "C"
+            },
+            {
+                "choice": "Mutually beneficial",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which action would have the greatest impact on reducing river pollution in a farm area?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "planting crops that absorb less water",
+                "key": "A"
+            },
+            {
+                "choice": "plowing land earlier in the year",
+                "key": "B"
+            },
+            {
+                "choice": "controlling the use of fertilizer",
+                "key": "C"
+            },
+            {
+                "choice": "increasing irrigation of crops ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A chemical change could best be demonstrated by",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "burning a piece of paper",
+                "key": "A"
+            },
+            {
+                "choice": "folding a piece of paper",
+                "key": "B"
+            },
+            {
+                "choice": "cutting a piece of paper",
+                "key": "C"
+            },
+            {
+                "choice": "dropping a piece of paper",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": ". Engineers have recently developed alternative fuels such as ethanol to power vehicles. Ethanol is a fuel that is made from corn or other crops including wheat, barley, and potatoes. E85 is a mixture of 85% ethanol and 15% gasoline. The greatest environmental advantage to using E85 would be that",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "it has gasoline mixed in it",
+                "key": "A"
+            },
+            {
+                "choice": "it is used to power vehicles",
+                "key": "B"
+            },
+            {
+                "choice": "it is made up mostly of renewable resources",
+                "key": "C"
+            },
+            {
+                "choice": "it is made from crops that require powerful fertilizers",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Many lizards that live in Arizona are unable to live in Michigan. Which statement best explains why Arizona lizards have difficulty surviving in Michigan?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "They have the ability to live both on land and in the water.",
+                "key": "A"
+            },
+            {
+                "choice": "They are unable to live where temperatures are lower than 30°F (–1.1°C)",
+                "key": "B"
+            },
+            {
+                "choice": "They have the ability to live where temperatures are above 100°F (37.8°C).",
+                "key": "C"
+            },
+            {
+                "choice": "They are unable to live where there is no water",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which statement best describes organisms in a food web?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Producers acquire energy directly from the consumers",
+                "key": "A"
+            },
+            {
+                "choice": "Consumers acquire energy indirectly from the Sun",
+                "key": "B"
+            },
+            {
+                "choice": "Decomposers acquire energy directly from the Sun",
+                "key": "C"
+            },
+            {
+                "choice": "Producers acquire energy indirectly from the decomposers",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "When a solid substance is heated, individual molecules",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "move faster",
+                "key": "A"
+            },
+            {
+                "choice": "move slower",
+                "key": "B"
+            },
+            {
+                "choice": "break apart into atoms",
+                "key": "C"
+            },
+            {
+                "choice": "do not change speed or direction",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Fog would most likely occur when",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "cool rain falls on warmer ground",
+                "key": "A"
+            },
+            {
+                "choice": "air pressure increases and water vapor decreases",
+                "key": "B"
+            },
+            {
+                "choice": "relative humidity decreases and dew point decreases",
+                "key": "C"
+            },
+            {
+                "choice": "moist air passes over cooler ground causing condensation",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which characteristic of Earth is most responsible for our seasons?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Earth’s gravitational pull on the moon",
+                "key": "A"
+            },
+            {
+                "choice": "Earth’s rotation",
+                "key": "B"
+            },
+            {
+                "choice": "Earth’s mass",
+                "key": "C"
+            },
+            {
+                "choice": "Earth’s tilt on its axis",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "On a hot day, a glass containing ice water slowly collects liquid on the outside of the glass. Which statement best explains where this liquid come from?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Air molecules outside of the glass turned to liquid on the outside surface of the glass",
+                "key": "A"
+            },
+            {
+                "choice": "Water from the inside of the glass seeped to the outside of the glass",
+                "key": "B"
+            },
+            {
+                "choice": "Water vapor from the air outside of the glass condensed on the outside surface of the glass",
+                "key": "C"
+            },
+            {
+                "choice": "Water from inside the glass and water from the air outside the glass combined on the outside of the glass",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "During a scientific investigation, when should measurements be recorded?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "when forming a hypothesis",
+                "key": "A"
+            },
+            {
+                "choice": "when designing an experiment",
+                "key": "B"
+            },
+            {
+                "choice": "when communicating results",
+                "key": "C"
+            },
+            {
+                "choice": "when gathering data",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the main reason for clearly recording the procedures for an experiment?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "so the experiment can be modified",
+                "key": "A"
+            },
+            {
+                "choice": "so the experiment can be connected",
+                "key": "B"
+            },
+            {
+                "choice": "so the experiment can be repeated",
+                "key": "C"
+            },
+            {
+                "choice": "so the experiment can be summarized",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A group of students predicts that folding an index card into a different shape will result in a chemical change. Which step of the scientific process is this?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Experiment",
+                "key": "A"
+            },
+            {
+                "choice": "Observation",
+                "key": "B"
+            },
+            {
+                "choice": "hypothesis",
+                "key": "C"
+            },
+            {
+                "choice": "conclusion",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In Michigan, it is warmer in summer than in winter because in summer",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Earth is closer to the Sun",
+                "key": "A"
+            },
+            {
+                "choice": "there are fewer clouds",
+                "key": "B"
+            },
+            {
+                "choice": "the Sun’s rays hit Michigan more directly",
+                "key": "C"
+            },
+            {
+                "choice": "Michigan is tilted away from the Sun",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In Western history, the first recorded scientist to propose that Earth revolved around the Sun was",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Galileo",
+                "key": "A"
+            },
+            {
+                "choice": "Copernicus",
+                "key": "B"
+            },
+            {
+                "choice": "Ptolemy",
+                "key": "C"
+            },
+            {
+                "choice": "Aristarchus",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Sperm and egg cells are referred to as",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "gametes",
+                "key": "A"
+            },
+            {
+                "choice": "zygotes",
+                "key": "B"
+            },
+            {
+                "choice": "diploid cells",
+                "key": "C"
+            },
+            {
+                "choice": "homologous cells",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following elements has a total of six electrons in its valence shell?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Nickel",
+                "key": "A"
+            },
+            {
+                "choice": "sulphur",
+                "key": "B"
+            },
+            {
+                "choice": "chromium",
+                "key": "C"
+            },
+            {
+                "choice": "bromine",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Jupiter, Saturn, Neptune, and Uranus are considered a family known as",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the galactic planets ",
+                "key": "A"
+            },
+            {
+                "choice": "gas giant planets",
+                "key": "B"
+            },
+            {
+                "choice": "terrestrial planets",
+                "key": "C"
+            },
+            {
+                "choice": "solar planets ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "What is the azimuth of Polaris when observed from Winnipeg, Manitoba?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "0°",
+                "key": "A"
+            },
+            {
+                "choice": "15°",
+                "key": "B"
+            },
+            {
+                "choice": "35°",
+                "key": "C"
+            },
+            {
+                "choice": "50°",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "An example of a naturally occurring diatomic molecule is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "gold",
+                "key": "A"
+            },
+            {
+                "choice": "copernicium",
+                "key": "B"
+            },
+            {
+                "choice": "carbon dioxide",
+                "key": "C"
+            },
+            {
+                "choice": "hydrogen gas",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Twelve coulombs of electric charge travels through a resistor which uses 24 joules of energy. What is the potential difference across the resistor?",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "2 J/C",
+                "key": "A"
+            },
+            {
+                "choice": "12 J/C",
+                "key": "B"
+            },
+            {
+                "choice": "36 J/C",
+                "key": "C"
+            },
+            {
+                "choice": "288 J/C",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ernest Rutherford is credited for the discovery of",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the moons of Jupiter",
+                "key": "A"
+            },
+            {
+                "choice": "the nucleus of the atom",
+                "key": "B"
+            },
+            {
+                "choice": "deoxyribonucleic acid (DNA)",
+                "key": "C"
+            },
+            {
+                "choice": "the piezoelectric effect",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Human egg cells are produced in the",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "ovaries",
+                "key": "A"
+            },
+            {
+                "choice": "vagina",
+                "key": "B"
+            },
+            {
+                "choice": "cervix",
+                "key": "C"
+            },
+            {
+                "choice": "uterus",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The unit for measuring electric current is the",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "joule",
+                "key": "A"
+            },
+            {
+                "choice": "ohm",
+                "key": "B"
+            },
+            {
+                "choice": "ampere",
+                "key": "C"
+            },
+            {
+                "choice": "tesla",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "How long does it take the Moon to revolve around Earth?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "24 hours",
+                "key": "A"
+            },
+            {
+                "choice": "27 days",
+                "key": "B"
+            },
+            {
+                "choice": "12 days",
+                "key": "C"
+            },
+            {
+                "choice": "1 week ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A mother is homozygous recessive for a sex-linked trait. Which statement is true?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Half of her daughters will display the dominant phenotype",
+                "key": "A"
+            },
+            {
+                "choice": "All of her daughters will display the recessive phenotype",
+                "key": "B"
+            },
+            {
+                "choice": "All of her sons will display the dominant phenotype",
+                "key": "C"
+            },
+            {
+                "choice": "All of her sons will display the recessive phenotype",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Stars such as our Sun produce their energy",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "through the nuclear fission of helium into hydrogen",
+                "key": "A"
+            },
+            {
+                "choice": "through the nuclear fusion of hydrogen into helium",
+                "key": "B"
+            },
+            {
+                "choice": "through the nuclear fission of hydrogen into helium",
+                "key": "C"
+            },
+            {
+                "choice": "through the combustion of hydrocarbons",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A diploid human cell contains ",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "64 chromosomes",
+                "key": "A"
+            },
+            {
+                "choice": "23 pairs of chromosomes",
+                "key": "B"
+            },
+            {
+                "choice": "46 pairs of chromosomes",
+                "key": "C"
+            },
+            {
+                "choice": "23 chromosomes",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A rod that has been negatively charged touches an electroscope.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Negative charges move out of the electroscope",
+                "key": "A"
+            },
+            {
+                "choice": "Positive charges move out of the electroscope",
+                "key": "B"
+            },
+            {
+                "choice": "Negative charges move into the electroscope",
+                "key": "C"
+            },
+            {
+                "choice": "Positive charges move into the electroscope",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A metal that can be hammered into thin sheets demonstrates the property called",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "malleability",
+                "key": "A"
+            },
+            {
+                "choice": "conductivity",
+                "key": "B"
+            },
+            {
+                "choice": "ductility",
+                "key": "C"
+            },
+            {
+                "choice": "lustre",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which scientist contributed to the first periodic table? ",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Tycho Brahe",
+                "key": "A"
+            },
+            {
+                "choice": "Dimitri Mendeleev ",
+                "key": "B"
+            },
+            {
+                "choice": "Aristotle",
+                "key": "C"
+            },
+            {
+                "choice": "Isaac Newton",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Students from the town’s high school are concerned that emissions from the fertilizer plant contribute to the greenhouse effect. These emissions contain",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "ozone, which traps infrared energy",
+                "key": "A"
+            },
+            {
+                "choice": "ozone, which absorbs infrared energy",
+                "key": "B"
+            },
+            {
+                "choice": "carbon dioxide, which absorbs infrared energy",
+                "key": "C"
+            },
+            {
+                "choice": "carbon dioxide, which traps infrared energy",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Environmentalists predict that after the plant has been in operation for ten years, the emissions will most likely",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "raise the pH of the irrigation system’s water because of the acidity",
+                "key": "A"
+            },
+            {
+                "choice": "increase the effects of acid rain on the organisms in the area",
+                "key": "B"
+            },
+            {
+                "choice": "reduce the community’s concern about environmental quality",
+                "key": "C"
+            },
+            {
+                "choice": "help the corporation improve its public relations image",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "From the perspective of long-term environmental quality, the farmers of the area would be most concerned with the",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "use of the local transportation system by the corporation",
+                "key": "A"
+            },
+            {
+                "choice": "accidental deaths at the fertilizer plant or gas wells",
+                "key": "B"
+            },
+            {
+                "choice": "availability of cheaper fertilizer from the plant",
+                "key": "C"
+            },
+            {
+                "choice": "release of sulphur oxides from the plant",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Not far from the town, a pulp and paper mill is being built. The owners of the mill believe that with clear-cut harvesting and a reforestation program, the mill can have a harvestable forest forever. The mill owners have a perspective that is primarily concerned with ",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "the environment",
+                "key": "A"
+            },
+            {
+                "choice": "education",
+                "key": "B"
+            },
+            {
+                "choice": "ethics",
+                "key": "C"
+            },
+            {
+                "choice": "economics",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To which part of the drill do you attach the bit?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Coil",
+                "key": "A"
+            },
+            {
+                "choice": "Armature",
+                "key": "B"
+            },
+            {
+                "choice": "Permanent magnet",
+                "key": "C"
+            },
+            {
+                "choice": "Split-ring commutator",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Using this drill to make a hole in the wall is an example of converting",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "chemical energy to potential energy and then to mechanical energy",
+                "key": "A"
+            },
+            {
+                "choice": "chemical energy to electrical energy and then to mechanical energy",
+                "key": "B"
+            },
+            {
+                "choice": "electrical energy to thermal energy and then to electrical energy",
+                "key": "C"
+            },
+            {
+                "choice": "electrical energy to kinetic energy and then to electrical energy",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "While you are cooking with the hot plate and toasting a slice of bread, the electric heaters start. Almost immediately, the hot plate, toaster, and electric heaters quit working. This most likely happened because",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "a fuse in the toaster burned out",
+                "key": "A"
+            },
+            {
+                "choice": "a circuit breaker in the electrical panel tripped",
+                "key": "B"
+            },
+            {
+                "choice": "the element in the hot plate burned out",
+                "key": "C"
+            },
+            {
+                "choice": "the circuit breakers in the electric heaters tripped",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "While checking all the fuses and circuit breakers, you notice that in the electrical panel, a 20A fuse has been placed in the circuit designed for a 15A fuse. This is a dangerous situation because",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "the fuse does not fit properly",
+                "key": "A"
+            },
+            {
+                "choice": "the fuse may cause an electrical shock",
+                "key": "B"
+            },
+            {
+                "choice": "an increase in electrical current may cause the fuse to trip",
+                "key": "C"
+            },
+            {
+                "choice": "an increase in electrical current may cause the wires to overheat ",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The device on an electric heater that controls how much electric current will flow through the electric heater, and therefore how much heat is produced, is called a ",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "resistor",
+                "key": "A"
+            },
+            {
+                "choice": "switch",
+                "key": "B"
+            },
+            {
+                "choice": "variable resistor",
+                "key": "C"
+            },
+            {
+                "choice": "breaker switch",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The maintenance supervisor asks you to help change the oil in his truck. If it takes 70 seconds for 50 mL of dirty oil to flow out of the engine, the flow rate is",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "0.71 mL/s",
+                "key": "A"
+            },
+            {
+                "choice": "1.4 mL/s",
+                "key": "B"
+            },
+            {
+                "choice": "20.0 mL/s",
+                "key": "C"
+            },
+            {
+                "choice": "35.0 mL/s",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "A technician explains to the delegates that in order to reduce the cost of heating the workers’ housing, the company is considering installing a popular active solar heating system. Which of the following statements describes a component of an active solar heating system?",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Water pipes are made of glass to allow for maximum energy transmission",
+                "key": "A"
+            },
+            {
+                "choice": "A highly reflective material is used to ensure the efficient use of sunlight",
+                "key": "B"
+            },
+            {
+                "choice": "A heat-absorbing layer of material is used to transfer heat to the water pipes",
+                "key": "C"
+            },
+            {
+                "choice": "Small electric fans are used to prevent overheating of the collector",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Considering the possible health problems of some people, the most responsible action for the fruit growers to take is to shut down the operations of all the orchards immediately until",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the people with the long-term health problems get better",
+                "key": "A"
+            },
+            {
+                "choice": "experiments are conducted to determine whether the spray does harm people",
+                "key": "B"
+            },
+            {
+                "choice": "apples can be imported from the United States",
+                "key": "C"
+            },
+            {
+                "choice": "a less-concentrated spray is available on the market",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The mass number of an atom is the number of:",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "protons and electrons in an atom",
+                "key": "A"
+            },
+            {
+                "choice": "protons and neutrons in an atom",
+                "key": "B"
+            },
+            {
+                "choice": "protons in an atom",
+                "key": "C"
+            },
+            {
+                "choice": "electrons in an atom",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Butane is a hydrocarbon fuel. What would the products of the combustion of propane be? ",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Chloromethane and hydrogen chlorid",
+                "key": "A"
+            },
+            {
+                "choice": "Carbon dioxide and water",
+                "key": "B"
+            },
+            {
+                "choice": "Carbon dioxide only",
+                "key": "C"
+            },
+            {
+                "choice": "Hydrogen and water",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which one of the following can be found in the nucleus of an atom?",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "hydrogen",
+                "key": "A"
+            },
+            {
+                "choice": "electron",
+                "key": "B"
+            },
+            {
+                "choice": "isotope",
+                "key": "C"
+            },
+            {
+                "choice": "proton",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The 3 radio-active particles are: ",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Alpha Beta and Delta",
+                "key": "A"
+            },
+            {
+                "choice": "Alpha Beta and Omega",
+                "key": "B"
+            },
+            {
+                "choice": "Beta Delta and Omega",
+                "key": "C"
+            },
+            {
+                "choice": "Alpha Beta and Gamma",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The structure in the human ear that changes sound energy into electrical energy is the:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "auditory nerve",
+                "key": "A"
+            },
+            {
+                "choice": "eardrum",
+                "key": "B"
+            },
+            {
+                "choice": "cochlea",
+                "key": "C"
+            },
+            {
+                "choice": "middle ear",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The electromagnetic energy we sense as heat is called:",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "ultraviolet",
+                "key": "A"
+            },
+            {
+                "choice": "visible light",
+                "key": "B"
+            },
+            {
+                "choice": "infrared",
+                "key": "C"
+            },
+            {
+                "choice": "microwave",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Which particle is the heaviest?",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Beta",
+                "key": "A"
+            },
+            {
+                "choice": "Alpha",
+                "key": "B"
+            },
+            {
+                "choice": "Gamma",
+                "key": "C"
+            },
+            {
+                "choice": "Omega",
+                "key": "D"
+            }
+        ]
+    }
+]

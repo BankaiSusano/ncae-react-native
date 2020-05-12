@@ -1,0 +1,1105 @@
+[
+    {
+        "question": "Prasanna had  a good _______ for stage.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Trup",
+                "key": "A"
+            },
+            {
+                "choice": "troop",
+                "key": "B"
+            },
+            {
+                "choice": "trupe",
+                "key": "C"
+            },
+            {
+                "choice": "troupe",
+                "key": "D"
+            }
+        ]
+    }, 
+    {
+        "question": "_______ of you must do the work.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Sum",
+                "key": "A"
+            },
+            {
+                "choice": "Some",
+                "key": "B"
+            },
+            {
+                "choice": "Same",
+                "key": "C"
+            },
+            {
+                "choice": "None of these",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "We ________ several trucks on the highway.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Passed",
+                "key": "A"
+            },
+            {
+                "choice": "past",
+                "key": "B"
+            },
+            {
+                "choice": "passing",
+                "key": "C"
+            },
+            {
+                "choice": "None",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The TV has lost ___________ picture.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "it's",
+                "key": "A"
+            },
+            {
+                "choice": "it is",
+                "key": "B"
+            },
+            {
+                "choice": "of",
+                "key": "C"
+            },
+            {
+                "choice": "None of the Above",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Get up my ______.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Sun",
+                "key": "A"
+            },
+            {
+                "choice": "son",
+                "key": "B"
+            },
+            {
+                "choice": "soon",
+                "key": "C"
+            },
+            {
+                "choice": "none",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "In the forest you might see a grizzly________.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Bear",
+                "key": "A"
+            },
+            {
+                "choice": "bare",
+                "key": "B"
+            },
+            {
+                "choice": "barer",
+                "key": "C"
+            },
+            {
+                "choice": "bariest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Don't get to close to the bear, it might ________ you!",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Byte",
+                "key": "A"
+            },
+            {
+                "choice": "bite",
+                "key": "B"
+            },
+            {
+                "choice": "bytes",
+                "key": "C"
+            },
+            {
+                "choice": "beats",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I can see my house from _______.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Hear",
+                "key": "A"
+            },
+            {
+                "choice": "here",
+                "key": "B"
+            },
+            {
+                "choice": "hearer",
+                "key": "C"
+            },
+            {
+                "choice": "hearest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I feel ___________.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Week",
+                "key": "A"
+            },
+            {
+                "choice": "weak",
+                "key": "B"
+            },
+            {
+                "choice": "weaker",
+                "key": "C"
+            },
+            {
+                "choice": "weakest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I didn't _____ what she said.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Hear",
+                "key": "A"
+            },
+            {
+                "choice": "here",
+                "key": "B"
+            },
+            {
+                "choice": "heares",
+                "key": "C"
+            },
+            {
+                "choice": "none",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "____dogs do not bite.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "to bark",
+                "key": "A"
+            },
+            {
+                "choice": "bark",
+                "key": "B"
+            },
+            {
+                "choice": "barking",
+                "key": "C"
+            },
+            {
+                "choice": "is bark",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " I detest ______ in public places.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Smoke",
+                "key": "A"
+            },
+            {
+                "choice": "smoking",
+                "key": "B"
+            },
+            {
+                "choice": "smoked",
+                "key": "C"
+            },
+            {
+                "choice": "be smoking",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Joy is not capable of ______ hard work.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Do",
+                "key": "A"
+            },
+            {
+                "choice": "doing",
+                "key": "B"
+            },
+            {
+                "choice": "to be doing",
+                "key": "C"
+            },
+            {
+                "choice": "to be done",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She felt an insect ______ around.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Fly",
+                "key": "A"
+            },
+            {
+                "choice": "flying",
+                "key": "B"
+            },
+            {
+                "choice": "to fly",
+                "key": "C"
+            },
+            {
+                "choice": "to flying",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I prefer _______ by air.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "To go",
+                "key": "A"
+            },
+            {
+                "choice": "to gone",
+                "key": "B"
+            },
+            {
+                "choice": "going",
+                "key": "C"
+            },
+            {
+                "choice": "to going",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "James offered _____ us move.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "to help",
+                "key": "A"
+            },
+            {
+                "choice": "helping",
+                "key": "B"
+            },
+            {
+                "choice": "helper",
+                "key": "C"
+            },
+            {
+                "choice": "helpiest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I have decided on ______ veterinarian.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "to become",
+                "key": "A"
+            },
+            {	
+                "choice": "becoming",
+                "key": "B"
+            },
+            {
+                "choice": "becomer",
+                "key": "C"
+            },
+            {
+                "choice": "None of the above",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Always check the oil, before you start the car.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Always",
+                "key": "A"
+            },
+            {
+                "choice": "The",
+                "key": "B"
+            },
+            {
+                "choice": "before",
+                "key": "C"
+            },
+            {
+                "choice": "you",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She loves to sing songs",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "She",
+                "key": "A"
+            },
+            {
+                "choice": "Loves",
+                "key": "B"
+            },
+            {
+                "choice": "to sings",
+                "key": "C"
+            },
+            {
+                "choice": "songs",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "To -teach grammar is very interesting",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "To teach",
+                "key": "A"
+            },
+            {
+                "choice": "Grammar",
+                "key": "B"
+            },
+            {
+                "choice": "is",
+                "key": "C"
+            },
+            {
+                "choice": "very",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He is afraid to hurt your feelings",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Is",
+                "key": "A"
+            },
+            {
+                "choice": "to",
+                "key": "B"
+            },
+            {
+                "choice": "hurt",
+                "key": "C"
+            },
+            {
+                "choice": "he",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I am learning _____ English.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Speak",
+                "key": "A"
+            },
+            {
+                "choice": "to speak",
+                "key": "B"
+            },
+            {
+                "choice": "spoken",
+                "key": "C"
+            },
+            {
+                "choice": "speaken",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": " He decided ______ biology.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "to study",
+                "key": "A"
+            },
+            {
+                "choice": "study",
+                "key": "B"
+            },
+            {
+                "choice": "studying",
+                "key": "C"
+            },
+            {
+                "choice": "studier",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I don't recommend _______ the bus - it takes forever!",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Took",
+                "key": "A"
+            },
+            {
+                "choice": "taking",
+                "key": "B"
+            },
+            {
+                "choice": "take",
+                "key": "C"
+            },
+            {
+                "choice": "taken",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct statement",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "We must prevent him playing.",
+                "key": "A"
+            },
+            {
+                "choice": "We must prevent his playing.",
+                "key": "B"
+            },
+            {
+                "choice": "We must prevent him for playing.",
+                "key": "C"
+            },
+            {
+                "choice": "We must prevent his from playing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "On Sunday I go ______",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Fish",
+                "key": "A"
+            },
+            {
+                "choice": "to fish",
+                "key": "B"
+            },
+            {
+                "choice": "fishes",
+                "key": "C"
+            },
+            {
+                "choice": "fishing",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I remember _______ you last year.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Meet",
+                "key": "A"
+            },
+            {
+                "choice": "met",
+                "key": "B"
+            },
+            {
+                "choice": "meeting",
+                "key": "C"
+            },
+            {
+                "choice": "to meet",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "We started _____ dinner without you.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Eat",
+                "key": "A"
+            },
+            {
+                "choice": "eating",
+                "key": "B"
+            },
+            {
+                "choice": "to eat",
+                "key": "C"
+            },
+            {
+                "choice": "to starve",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "She suggested ________ to the museum.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Going",
+                "key": "A"
+            },
+            {
+                "choice": "go",
+                "key": "B"
+            },
+            {
+                "choice": "went",
+                "key": "C"
+            },
+            {
+                "choice": "gone",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I don't want ____ yet.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Leave",
+                "key": "A"
+            },
+            {
+                "choice": "to leave",
+                "key": "B"
+            },
+            {
+                "choice": "live",
+                "key": "C"
+            },
+            {
+                "choice": "lived",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Being busy, I could not attend the function.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "James is richer than I.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "You need not come unless you want to.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "You don't need to come unless you want to",
+                "key": "A"
+            },
+            {
+                "choice": "You come only when you want to",
+                "key": "B"
+            },
+            {
+                "choice": "You come unless you don't want to",
+                "key": "C"
+            },
+            {
+                "choice": "You needn't come until you don't want to",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If it rains the match will be postponed.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Jeans was not permitted in out college.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "Were",
+                "key": "A"
+            },
+            {
+                "choice": "had",
+                "key": "B"
+            },
+            {
+                "choice": "will",
+                "key": "C"
+            },
+            {
+                "choice": "have",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He looked all around and disappeared.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "He was carrying a heavy load.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",	
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "If you work hard, you will succeed in life.",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "Simple",
+                "key": "A"
+            },
+            {
+                "choice": "negative",
+                "key": "B"
+            },
+            {
+                "choice": "complex",
+                "key": "C"
+            },
+            {
+                "choice": "compound",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Girls usually/ are taking / more time / for dressings.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Girls usually",
+                "key": "A"
+            },
+            {
+                "choice": "are taking",
+                "key": "B"
+            },
+            {
+                "choice": "more time",
+                "key": "C"
+            },
+            {
+                "choice": "for dressings",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The / plants are dry / for / the lack of water.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "The",
+                "key": "A"
+            },
+            {
+                "choice": "plants are dry",
+                "key": "B"
+            },
+            {
+                "choice": "for",
+                "key": "C"
+            },
+            {
+                "choice": "the lack of water",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The house / has been / built / in 2016.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "the house",
+                "key": "A"
+            },
+            {
+                "choice": "has been",
+                "key": "B"
+            },
+            {
+                "choice": "built",
+                "key": "C"
+            },
+            {
+                "choice": "n 2016",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The revised government's",
+        "answer": "C",
+        "choices": [
+            {
+                "choice": "guidelines have reduced",
+                "key": "A"
+            },
+            {
+                "choice": "the number of mergers",
+                "key": "B"
+            },
+            {
+                "choice": "taking place among banks",
+                "key": "C"
+            },
+            {
+                "choice": "No error",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Ram was / senior to / Sam in college.",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "Ram was ",
+                "key": "A"
+            },
+            {
+                "choice": "senior to",
+                "key": "B"
+            },
+            {
+                "choice": "Sam in college",
+                "key": "C"
+            },
+            {
+                "choice": "No error",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "The capital of Yemen / is situating / 2190 meters above / the sea level.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "The capital of Yemen",
+                "key": "A"
+            },
+            {
+                "choice": "Is situating",
+                "key": "B"
+            },
+            {
+                "choice": "2190 meters above",
+                "key": "C"
+            },
+            {
+                "choice": "The sea level",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Today the success of",
+        "answer": "D",
+        "choices": [
+            {
+                "choice": "companies depends on the",
+                "key": "A"
+            },
+            {
+                "choice": "quality of their products and",
+                "key": "B"
+            },
+            {
+                "choice": "efficient managing staff",
+                "key": "C"
+            },
+            {
+                "choice": "No error",
+                "key": "D"
+            }
+        ]
+    },
+	{
+        "question": "The electrician / is / do / writing work.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "The electrician",
+                "key": "A"
+            },
+            {
+                "choice": "Is",
+                "key": "B"
+            },
+            {
+                "choice": "do",
+                "key": "C"
+            },
+            {
+                "choice": "writing work",
+                "key": "D"
+            }
+        ]
+    },
+{
+        "question": "They / are seeing / a cricket match / with great interest.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "They",
+                "key": "A"
+            },
+            {
+                "choice": "are seeing",
+                "key": "B"
+            },
+            {
+                "choice": "a cricket match",
+                "key": "C"
+            },
+            {
+                "choice": "with great interest",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "Kanmani / is looking / beautiful nowadays.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "Kanmani",
+                "key": "A"
+            },
+            {
+                "choice": "is looking",
+                "key": "B"
+            },
+            {
+                "choice": "beautiful",
+                "key": "C"
+            },
+            {
+                "choice": "nowadays",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "I will have finished this work by the end of this month.",
+        "answer": "A",
+        "choices": [
+            {
+                "choice": "future perfect",
+                "key": "A"
+            },
+            {
+                "choice": "is looking",
+                "key": "B"
+            },
+            {
+                "choice": "beautiful",
+                "key": "C"
+            },
+            {
+                "choice": "nowadays",
+                "key": "D"
+            }
+        ]
+    },
+    {
+        "question": "This girl / wrote an essay / so well that / her teacher was exceedingly pleased with her.",
+        "answer": "B",
+        "choices": [
+            {
+                "choice": "This girl",
+                "key": "A"
+            },
+            {
+                "choice": "wrote an essay",
+                "key": "B"
+            },
+            {
+                "choice": "so well that",
+                "key": "C"
+            },
+            {
+                "choice": "her teacher was exceedingly pleased with her",
+                "key": "D"
+            }
+        ]
+    }
+]
+
+
+
