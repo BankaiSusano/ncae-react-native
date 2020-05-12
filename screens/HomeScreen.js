@@ -2,7 +2,6 @@ import React from "react";
 import {
   StyleSheet,
   Text,
-  View,
   ImageBackground,
   TouchableOpacity,
   Dimensions,
@@ -13,45 +12,41 @@ import backgroundImage from "../assets/Image/background.png";
 const { width: WIDTH } = Dimensions.get("window");
 
 export default function HomeScreen({ navigation }) {
-
-  const pressHandler = () => {
-    navigation.navigate("Clerical");
-  }
-
-  const pressHandler2 = () => {
-    navigation.navigate("Verbal");
-  }
-
-  const pressHandler3 = () => {
-    navigation.navigate("Entrep");
-  }
-
-  const pressHandler4 = () => {
-    navigation.navigate("Math");
-  }
-
-  const pressHandler5 = () => {
-    navigation.navigate("Reading");
-  }
-
- 
-  
+  const pressHandler = (pageName) => navigation.navigate(pageName);
 
   return (
     <ImageBackground source={backgroundImage} style={styles.container}>
-      <TouchableOpacity style={styles.btn} onPress={pressHandler}>
+      <TouchableOpacity
+        style={styles.btn1}
+        onPress={() => pressHandler("Instruction")}
+      >
+        <Text style={styles.ltext}>Instructions</Text>
+      </TouchableOpacity>
+      <TouchableOpacity
+        style={styles.btn}
+        onPress={() => pressHandler("Clerical")}
+      >
         <Text style={styles.ltext}>Clerical Ability</Text>
       </TouchableOpacity>
-      <TouchableOpacity style={styles.btn} onPress={pressHandler2}>
+      <TouchableOpacity
+        style={styles.btn}
+        onPress={() => pressHandler("Verbal")}
+      >
         <Text style={styles.ltext}>Verbal Ability</Text>
       </TouchableOpacity>
-      <TouchableOpacity style={styles.btn} onPress={pressHandler3}>
+      <TouchableOpacity
+        style={styles.btn}
+        onPress={() => pressHandler("Entrep")}
+      >
         <Text style={styles.ltext}>Entrepreneurship</Text>
       </TouchableOpacity>
-      <TouchableOpacity style={styles.btn} onPress={pressHandler4}>
+      <TouchableOpacity style={styles.btn} onPress={() => pressHandler("Math")}>
         <Text style={styles.ltext}>Mathematics</Text>
       </TouchableOpacity>
-      <TouchableOpacity style={styles.btn} onPress={pressHandler5}>
+      <TouchableOpacity
+        style={styles.btn}
+        onPress={() => pressHandler("Reading")}
+      >
         <Text style={styles.ltext}>Reading Comprehension</Text>
       </TouchableOpacity>
     </ImageBackground>
@@ -64,6 +59,15 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
+  },
+
+  btn1: {
+    width: WIDTH - 55,
+    height: 70,
+    borderRadius: 10,
+    justifyContent: "center",
+    backgroundColor: "green",
+    marginTop: 10,
   },
 
   btn: {

@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   Dimensions,
 } from "react-native";
-import backgroundImage from "../assets/Image/background.png";
+import backgroundImage from "../../assets/Image/background.png";
 
 const { width: WIDTH } = Dimensions.get("window");
 

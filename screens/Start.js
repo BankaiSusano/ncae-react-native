@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   Dimensions,
 } from "react-native";
-import homeImage from "../assets/Image/door.png";
+import homeImage from "..//assets/Image/door.png";
 
 
 

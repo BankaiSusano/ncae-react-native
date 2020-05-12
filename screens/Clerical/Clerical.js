@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   Dimensions,
 } from "react-native";
-import backgroundImage from "../assets/Image/background.png";
+import backgroundImage from "../../assets/Image/background.png";
 
 const { width: WIDTH } = Dimensions.get("window");
 
@@ -16,10 +16,14 @@ export default function Start({ navigation }) {
     navigation.goBack("HomeScreen");
   };
 
+  const pressHandler2 = () => {
+    navigation.push("Easy");
+  };
+
   return (
     <ImageBackground source={backgroundImage} style={styles.container}>
       <TouchableOpacity  style={styles.btn}>
-        <Text style={styles.ltext}>Easy</Text>
+        <Text style={styles.ltext} onPress={pressHandler2}>Easy</Text>
       </TouchableOpacity>
       <TouchableOpacity  style={styles.btn}>
         <Text style={styles.ltext}>Average</Text>
