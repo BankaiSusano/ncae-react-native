@@ -11,7 +11,7 @@ import backgroundImage from "../../assets/Image/background.png";
 
 const { width: WIDTH } = Dimensions.get("window");
 
-export default function Reading({ navigation }) {
+export default function Science({ navigation }) {
   const pressHandler = (pageName) => navigation.navigate(pageName);
 
   return (
@@ -28,7 +28,7 @@ export default function Reading({ navigation }) {
         <Text style={styles.ltext}>Hard</Text>
       </TouchableOpacity>
       <TouchableOpacity
-        onPress={() => pressHandler("Clerical")}
+        onPress={() => pressHandler("HomeScreen")}
         style={styles.btnback}
       >
         <Text style={styles.ltext}>Back</Text>

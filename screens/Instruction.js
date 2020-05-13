@@ -12,7 +12,7 @@ import backgroundImage from "..//assets/Image/background.png";
 
 const { width: WIDTH } = Dimensions.get("window");
 
-export default function Start({ navigation }) {
+export default function Instruction({ navigation }) {
   const pressHandler = () => {
     navigation.navigate("HomeScreen");
   };

@@ -11,27 +11,26 @@ import backgroundImage from "../../assets/Image/background.png";
 
 const { width: WIDTH } = Dimensions.get("window");
 
-export default function Start({ navigation }) {
-  const pressHandler = () => {
-    navigation.goBack("HomeScreen");
-  };
-
-  const pressHandler2 = () => {
-    navigation.push("Easy");
-  };
+export default function Clerical({ navigation }) {
+  const pressHandler = (pageName) => navigation.navigate(pageName);
 
   return (
     <ImageBackground source={backgroundImage} style={styles.container}>
-      <TouchableOpacity  style={styles.btn}>
-        <Text style={styles.ltext} onPress={pressHandler2}>Easy</Text>
+      <TouchableOpacity style={styles.btn}>
+        <Text style={styles.ltext} onPress={() => pressHandler("Easy")}>
+          Easy
+        </Text>
       </TouchableOpacity>
-      <TouchableOpacity  style={styles.btn}>
+      <TouchableOpacity style={styles.btn}>
         <Text style={styles.ltext}>Average</Text>
       </TouchableOpacity>
-      <TouchableOpacity  style={styles.btn}>
+      <TouchableOpacity style={styles.btn}>
         <Text style={styles.ltext}>Hard</Text>
       </TouchableOpacity>
-      <TouchableOpacity onPress={pressHandler} style={styles.btnback}>
+      <TouchableOpacity
+        onPress={() => pressHandler("HomeScreen")}
+        style={styles.btnback}
+      >
         <Text style={styles.ltext}>Back</Text>
       </TouchableOpacity>
     </ImageBackground>

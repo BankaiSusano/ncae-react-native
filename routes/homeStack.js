@@ -10,6 +10,7 @@ import Reading from "../screens/Reading/Reading";
 import Verbal from "../screens/Verbal/Verbal";
 import Easy from "../screens/Clerical/Easy";
 import Instruction from "../screens/Instruction";
+import Science from "../screens/Science/Science";
 
 const Stack = createStackNavigator();
 
@@ -20,10 +21,11 @@ export default function Navigator() {
         <Stack.Screen name="Start" component={Start} />
         <Stack.Screen name="HomeScreen" component={HomeScreen} />
         <Stack.Screen name="Clerical" component={Clerical} />
+        <Stack.Screen name="Verbal" component={Verbal} />
         <Stack.Screen name="Entrep" component={Entrep} />
         <Stack.Screen name="Math" component={Math} />
         <Stack.Screen name="Reading" component={Reading} />
-        <Stack.Screen name="Verbal" component={Verbal} />
+        <Stack.Screen name="Science" component={Science} />
         <Stack.Screen name="Easy" component={Easy} />
         <Stack.Screen name="Instruction" component={Instruction} />
       </Stack.Navigator>

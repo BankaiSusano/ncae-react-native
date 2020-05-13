@@ -49,6 +49,12 @@ export default function HomeScreen({ navigation }) {
       >
         <Text style={styles.ltext}>Reading Comprehension</Text>
       </TouchableOpacity>
+      <TouchableOpacity
+        style={styles.btn}
+        onPress={() => pressHandler("Science")}
+      >
+        <Text style={styles.ltext}>Science</Text>
+      </TouchableOpacity>
     </ImageBackground>
   );
 }
