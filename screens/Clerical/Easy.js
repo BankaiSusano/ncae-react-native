@@ -74,51 +74,58 @@ export default function Easy({ navigation }) {
           </TouchableOpacity>
         </View>
       ))}
-      {correctAnswer ? quizzes[counter].answer == isCorrect : setIsCorrect(true) ? check : setModalVisible(true) ?  (<Modal
+      {modalVisible ? (
+        selected == quizzes[counter].answer ? (
+          <Modal
             animationType="slide"
             transparent={true}
             visible={modalVisible}
           >
             <View style={styles.modalView}>
-              <Icon name="check-circle" type="font-awesome-5" color="#00B103"/>
+              <Icon name="check-circle" type="font-awesome-5" color="#00B103" />
               <Text>You're Correct</Text>
               <Button
                 title="Next"
                 onPress={() => {
                   setCounter(counter + 1);
                   setSelected(null);
-                  setIsSelected(null);
-                  setModalVisible(true);
+                  setIsSelected(false);
+                  setModalVisible(false);
                 }}
               />
             </View>
           </Modal>
+        ) : (
+          <Modal
+            animationType="slide"
+            transparent={true}
+            visible={modalVisible}
+          >
+            <View style={styles.modalView}>
+              <Icon name="times-circle" type="font-awesome-5" color="#C50004" />
+              <Text>You're Wrong</Text>
+              <Text>The Correct Answer is {quizzes[counter].answer}</Text>
+              <Button
+                title="Next"
+                onPress={() => {
+                  setCounter(counter + 1);
+                  setSelected(null);
+                  setIsSelected(false);
+                  setModalVisible(false);
+                }}
+              />
+            </View>
+          </Modal>
+        )
       ) : (
-        <Modal animationType="slide" transparent={true} visible={modalVisible}>
-          <View style={styles.modalView}>
-            <Icon name="times-circle" type="font-awesome-5" color="#C50004" />
-            <Text>You're Wrong</Text>
-            <Text>The Correct Answer is {quizzes[counter].answer}</Text>
-            <Button
-              title="Next"
-              onPress={() => {
-                setCounter(counter + 1);
-                setSelected(null);
-                setIsSelected(null);
-                setModalVisible(false);
-              }}
-            />
-          </View>
-        </Modal>)}
-
+        <></>
+      )}
       {isSelected ? (
         <ThemeProvider theme={theme}>
           <Button
             title="Check"
             onPress={() => {
-              setCorrectAnswer(correctAnswer)
-              setSelected(null);
-              setIsSelected(null);
+              setModalVisible(true);
             }}
           />
         </ThemeProvider>
