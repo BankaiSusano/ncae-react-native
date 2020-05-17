@@ -8,6 +8,7 @@ import {
   Dimensions,
 } from "react-native";
 import backgroundImage from "../../assets/Image/background.png";
+import { State } from "react-native-gesture-handler";
 
 const { width: WIDTH } = Dimensions.get("window");
 
