@@ -136,7 +136,7 @@ export default function Easy({ navigation }) {
             title="Check"
             onPress={() => {
               setModalVisible(true);
-              setCounter(counter + 1)
+              setCounter(counter < quizzes.length ? counter + 1 : counter)
             }}
           />
         </ThemeProvider>
