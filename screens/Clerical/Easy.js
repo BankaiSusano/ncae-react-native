@@ -1,4 +1,4 @@
-import React, { Component, useState, useEffect } from "react";
+import React, { useState } from "react";
 
 import {
   StyleSheet,
@@ -44,9 +44,7 @@ export default function Easy({ navigation }) {
   const [selected, setSelected] = useState(null);
   const [isSelected, setIsSelected] = useState(false);
   const [modalVisible, setModalVisible] = useState(false);
-  const [isCorrect, setIsCorrect] = useState(true);
-  const [correctAnswer, setCorrectAnswer] = useState(null);
-  const [check, setCheck] = useState(null);
+  
 
   return (
     <ImageBackground source={backgroundImage} style={styles.container}>
@@ -74,58 +72,85 @@ export default function Easy({ navigation }) {
           </TouchableOpacity>
         </View>
       ))}
-      {correctAnswer ? quizzes[counter].answer == isCorrect : setIsCorrect(true) ? check : setModalVisible(true) ?  (<Modal
+      {/* {modalVisible ? (
+        selected == quizzes[counter].answer ? (
+          <Modal
             animationType="slide"
             transparent={true}
             visible={modalVisible}
           >
-            <View style={styles.modalView}>
-              <Icon name="check-circle" type="font-awesome-5" color="#00B103"/>
-              <Text>You're Correct</Text>
-              <Button
-                title="Next"
-                onPress={() => {
-                  setCounter(counter + 1);
-                  setSelected(null);
-                  setIsSelected(null);
-                  setModalVisible(true);
-                }}
-              />
+            <View style={styles.modalContainer}>
+              <View style={styles.modalView}>
+                <Icon
+                  name="check-circle"
+                  type="font-awesome-5"
+                  color="#00B103"
+                />
+                <Text style={styles.modalText}>You're answer is correct</Text>
+                <Button
+                  title="Next"
+                  onPress={() => {
+                    setCounter(counter + 1);
+                    setSelected(null);
+                    setIsSelected(false);
+                    setModalVisible(false);
+                  }}
+                />
+              </View>
             </View>
           </Modal>
+        ) : (
+          <Modal
+            animationType="slide"
+            transparent={true}
+            visible={modalVisible}
+          >
+            <View style={styles.modalContainer}>
+              <View style={styles.modalView}>
+                <Icon
+                  name="times-circle"
+                  type="font-awesome-5"
+                  color="#C50004"
+                />
+                <Text style={styles.modalText}>You're answer is wrong</Text>
+                <Text>The Correct Answer is {quizzes[counter].answer}</Text>
+                <Button
+                  title="Next"
+                  onPress={() => {
+                    setCounter(counter + 1);
+                    setSelected(null);
+                    setIsSelected(false);
+                    setModalVisible(false);
+                  }}
+                />
+              </View>
+            </View>
+          </Modal>
+        )
       ) : (
-        <Modal animationType="slide" transparent={true} visible={modalVisible}>
-          <View style={styles.modalView}>
-            <Icon name="times-circle" type="font-awesome-5" color="#C50004" />
-            <Text>You're Wrong</Text>
-            <Text>The Correct Answer is {quizzes[counter].answer}</Text>
-            <Button
-              title="Next"
-              onPress={() => {
-                setCounter(counter + 1);
-                setSelected(null);
-                setIsSelected(null);
-                setModalVisible(false);
-              }}
-            />
-          </View>
-        </Modal>)}
-
-      {isSelected ? (
+        <></>
+      )} */}
+       {isSelected ? (
         <ThemeProvider theme={theme}>
           <Button
             title="Check"
             onPress={() => {
-              setCorrectAnswer(correctAnswer)
-              setSelected(null);
-              setIsSelected(null);
+              setModalVisible(true);
+              setCounter(counter + 1)
             }}
           />
         </ThemeProvider>
       ) : (
         <></>
-      )}
+      )} 
       {/*Conditional (ternary)*/}
+       {counter < quizzes.length ? (
+        <View>
+        <Text>You completed the Easy Question</Text>
+      </View>
+      ) : (
+        <Text>Congrats</Text>
+      )} 
     </ImageBackground>
   );
 }
@@ -166,7 +191,7 @@ const styles = StyleSheet.create({
   },
 
   modalView: {
-    margin: 20,
+    margin: "10%",
     backgroundColor: "white",
     borderRadius: 20,
     padding: 35,
@@ -179,5 +204,9 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
     shadowRadius: 3.84,
     elevation: 5,
+  },
+
+  modalContainer: {
+    marginTop: "30%",
   },
 });
