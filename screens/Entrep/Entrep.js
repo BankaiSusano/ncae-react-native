@@ -33,6 +33,14 @@ export default function Entreo({ navigation }) {
       >
         <Text style={styles.ltext}>Back</Text>
       </TouchableOpacity>
+      {counter < quizzes.length ? (
+        <View>
+        <Text>You completed the Easy Question</Text>
+      </View>
+      ) : (
+        <Text>Congrats</Text>
+      )} 
+ 
     </ImageBackground>
   );
 }
